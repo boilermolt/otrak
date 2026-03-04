@@ -4,7 +4,25 @@
 **Tuesday**: workers submit availability + preferences
 **Wednesday 8:00 AM**: draft overtime plan delivered
 
-## Workflow (text diagram)
+## Workflow (Mermaid)
+```mermaid
+flowchart TD
+  A[Tue: availability intake] --> B[Manual staging files updated]
+  B --> C[Run OTRAK allocation]
+  C --> D[Draft plan]
+  D --> E[Management review]
+  E --> F[Final plan + export]
+
+  B:::files
+  C:::process
+  D:::output
+
+  classDef files fill:#f0f7ff,stroke:#4b8ddb,color:#1b3a57
+  classDef process fill:#f7fff0,stroke:#7dbd4b,color:#1e3b14
+  classDef output fill:#fff6e6,stroke:#d9a441,color:#4a3310
+```
+
+## Workflow (text)
 ```
 [Tue: availability intake]
         |
