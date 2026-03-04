@@ -1,0 +1,3 @@
+worker_id,available,preferred_shift,preferred_area,notes
+W001,Y,10,Turbine Hall,Prefer 10s
+W002,Y,Any,,
