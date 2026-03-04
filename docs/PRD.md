@@ -9,9 +9,9 @@ Overtime allocation for a large, multi-trade construction project is complex due
 - Constraints like 10/12 hour shifts, start times, rest windows
 
 ## Objectives
-1. **Compliance:** enforce trade-specific rules and agreements.
-2. **Coverage:** ensure critical-path work is filled first.
-3. **Fairness:** distribute overtime equitably within each trade.
+1. **Coverage:** ensure critical-path work is filled first.
+2. **Fairness:** distribute overtime equitably across eligible workers.
+3. **Qualifications-first:** enforce required certifications/quals for specific jobs.
 4. **Efficiency:** minimize manual coordination and rework.
 5. **Explainability:** show why each assignment was made.
 
@@ -21,12 +21,11 @@ Overtime allocation for a large, multi-trade construction project is complex due
 - Trade coordinators
 
 ## Inputs (draft)
-- Worker roster + trade, qualifications, normal work area
-- Collective agreement rule set per trade
-- Work orders + criticality + location + required skills
-- Shift templates + rest rules
+- Worker roster + qualifications + normal work area
+- Work orders + criticality + location + required qualifications
+- Shift templates (10/12 hr, start times)
 - Worker preferences + availability
-- Current overtime history + rotation
+- Current overtime history + rotation (if available)
 
 ## Outputs
 - Shift assignments by work order
@@ -36,9 +35,9 @@ Overtime allocation for a large, multi-trade construction project is complex due
 
 ## Scope (MVP)
 - Single project site
-- 3–6 trades
-- Weekly scheduling window
+- Weekly scheduling window (Tue availability → Wed 8am draft)
 - Manual override + re-run
+- **Phase 1:** fairness + qualifications only (trade pay rules deferred)
 
 ## Non-goals (MVP)
 - Payroll processing
@@ -46,6 +45,5 @@ Overtime allocation for a large, multi-trade construction project is complex due
 - Multi-site coordination
 
 ## Open Questions
-- Will rules be encoded manually or via RAG from contracts?
-- What is the final scheduling cadence (daily/weekly)?
-- How are exceptions approved and recorded?
+- Will trade agreement rules be encoded manually or via RAG (Phase 2)?
+- What exception categories should be tracked in overrides?

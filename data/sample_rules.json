@@ -1,0 +1,35 @@
+{
+  "version": "0.1",
+  "rules": [
+    {
+      "id": "ELIG-QUAL-CLASS7",
+      "type": "eligibility",
+      "condition": { "shift.required_quals": ["class7_shipper"] },
+      "effect": { "require_worker_quals": ["class7_shipper"] },
+      "source": "operations"
+    },
+    {
+      "id": "OP-CRITICAL-PATH-FIRST",
+      "type": "operational",
+      "condition": { "shift.critical_path": true },
+      "effect": { "priority_boost": 100 },
+      "source": "operations"
+    },
+    {
+      "id": "PREF-NORMAL-AREA",
+      "type": "preference",
+      "condition": { "worker.normal_area": "${shift.area}" },
+      "effect": { "score_delta": 10 },
+      "weight": 1.0,
+      "source": "policy"
+    },
+    {
+      "id": "FAIR-OT-WEIGHT",
+      "type": "fairness",
+      "condition": { "worker.ot_hours_last_30": "*" },
+      "effect": { "score_delta": "-1.5*worker.ot_hours_last_30" },
+      "weight": 1.0,
+      "source": "policy"
+    }
+  ]
+}

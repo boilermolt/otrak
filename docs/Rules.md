@@ -1,26 +1,28 @@
 # Rules & Constraints (Draft)
 
 ## Categories
-1. **Trade Agreement Rules**
-   - Overtime eligibility windows
-   - Seniority/rotation requirements
-   - Minimum rest periods
-   - Maximum consecutive shifts
+1. **Eligibility (Hard Filters)**
+   - Required qualifications/certifications (e.g., Class 7 Shipper)
+   - Availability window
 
 2. **Operational Rules**
    - Critical-path work orders filled first
    - Coverage requirements (min staffing)
-   - Required skills/certifications
    - Shift templates (10/12 hr, start times)
 
-3. **Preference Rules**
+3. **Fairness + Preference (Soft Rules)**
+   - Weight down workers with high OT totals
    - Prefer normal work area when possible
-   - Respect worker requests if not conflicting
+   - Respect worker requests when feasible
+
+4. **Deferred (Phase 2)**
+   - Trade agreement wage rules / pay schedule nuances
+   - Trade‑specific eligibility constraints (if any)
 
 ## Rule Representation (Draft)
-- `Rule(id, trade, type, condition, constraint, priority, source)`
+- `Rule(id, type, condition, effect, weight, source)`
 - Every assignment includes `rule_ids[]` applied.
 
 ## RAG vs Manual Encoding
-- **Manual encoding** for deterministic rules and easy testing.
-- **RAG** only for explanatory context or rule discovery.
+- **Phase 1:** manual encoding for deterministic rules + easy testing.
+- **Phase 2:** optional RAG for agreement discovery / interpretation.

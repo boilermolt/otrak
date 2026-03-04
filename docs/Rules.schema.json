@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/boilermolt/otrak/docs/Rules.schema.json",
+  "title": "OTRAK Rules",
+  "type": "object",
+  "properties": {
+    "version": { "type": "string" },
+    "rules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "type", "condition", "effect"],
+        "properties": {
+          "id": { "type": "string" },
+          "type": { "type": "string", "enum": ["eligibility", "operational", "preference", "fairness"] },
+          "condition": { "type": "object" },
+          "effect": { "type": "object" },
+          "weight": { "type": "number" },
+          "source": { "type": "string" }
+        }
+      }
+    }
+  },
+  "required": ["version", "rules"]
+}
