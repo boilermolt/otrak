@@ -22,6 +22,14 @@ OTRAK is a management tool for distributing overtime across a large construction
 - [Rules & constraints](docs/Rules.md)
 - [Data model](docs/Data-Model.md)
 - [System architecture](docs/Architecture.md)
+- [Scoring model](docs/Scoring.md)
+- [Process & checklist](docs/Process.md) · [Checklist](docs/Checklist.md)
+- [How to run](docs/How-to-Run.md)
+
+## Samples
+- [Sample inputs](data/sample_inputs.md)
+- [Sample rules](data/sample_rules.json)
+- [Sample output](data/outputs/draft_assignments.csv)
 
 ## Status
-- Scaffolded. Next step: confirm scope + data inputs.
+- Scaffolded + v0 allocation script added.
