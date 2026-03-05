@@ -18,6 +18,12 @@ The draft plan is written to:
 data/outputs/draft_assignments.csv
 ```
 
+## 4) Search agreements (keyword)
+```bash
+python3 scripts/search_agreements.py --q "overtime" --limit 5
+python3 scripts/search_agreements.py --q "overtime" --trade "IBEW"
+```
+
 ## Notes
 - One-shift-per-worker rule is enforced in v0.
 - Qualifications are hard filters; trade is not.
