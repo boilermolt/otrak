@@ -28,37 +28,35 @@
   </header>
   <main>
     <div class="chat">
-      {% if q %}
-        <div class="bubble user">
-          {{ q }}
-        </div>
-      {% endif %}
-
-      {% if results %}
-        <div class="bubble assistant">
-          <strong>Top results</strong>
-          <div class="meta">Showing {{ results|length }} results</div>
-          {% for r in results %}
-            <details>
-              <summary>{{ r.source }} · score {{ '%.4f'|format(r.score) }}</summary>
-              <pre>{{ r.text }}</pre>
-            </details>
-          {% endfor %}
-        </div>
-      {% elif q %}
-        <div class="bubble assistant">No results found.</div>
-      {% endif %}
+      {% for h in history %}
+        <div class="bubble user">{{ h.q }}</div>
+        {% if h.results %}
+          <div class="bubble assistant">
+            <strong>Top results</strong>
+            <div class="meta">Showing {{ h.results|length }} results</div>
+            {% for r in h.results %}
+              <details>
+                <summary>{{ r.source }} · score {{ '%.4f'|format(r.score) }}</summary>
+                <pre>{{ r.text }}</pre>
+              </details>
+            {% endfor %}
+          </div>
+        {% else %}
+          <div class="bubble assistant">No results found.</div>
+        {% endif %}
+      {% endfor %}
     </div>
 
     <form method="post">
-      <input name="q" placeholder="Ask about overtime, rest periods, premiums…" value="{{ q }}" />
+      <input name="q" placeholder="Ask about overtime, rest periods, premiums…" value="" />
       <div class="row">
         <input name="trade" placeholder="Trade (optional)" value="{{ trade }}" />
         <input name="agreement" placeholder="Agreement (optional)" value="{{ agreement }}" />
-        <input name="top_k" placeholder="Top‑K" value="{{ top_k }}" />
+        <input name="top_k" placeholder="Top‑K (max {{ max_topk }})" value="{{ top_k }}" />
       </div>
       <div class="actions">
         <button type="submit">Ask</button>
+        <button type="submit" name="clear" value="1" style="background:#6b7280;">Clear</button>
       </div>
     </form>
   </main>

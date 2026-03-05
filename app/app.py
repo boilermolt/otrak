@@ -1,11 +1,12 @@
 from __future__ import annotations
 
 import json
+import uuid
 from pathlib import Path
 from typing import List
 
 import numpy as np
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, make_response
 from sentence_transformers import SentenceTransformer
 
 EMB_DIR = Path("/media/boilerrat/Bobby/otrak-embeddings")
@@ -14,6 +15,11 @@ META_PATH = EMB_DIR / "epsca_metadata.jsonl"
 MODEL_NAME = "BAAI/bge-base-en-v1.5"
 
 app = Flask(__name__)
+
+# In-memory chat history keyed by session id
+CHAT_HISTORY = {}
+MAX_HISTORY = 10
+MAX_TOPK = 20
 
 # Load once at startup
 embeddings = np.load(EMB_PATH)
@@ -43,43 +49,66 @@ def filter_indices(trade: str | None, agreement: str | None) -> list[int]:
 
 @app.route("/", methods=["GET", "POST"])
 def index():
+    # session id (cookie)
+    sid = request.cookies.get("sid")
+    if not sid:
+        sid = str(uuid.uuid4())
+
+    history = CHAT_HISTORY.get(sid, [])
     results = []
     q = ""
     trade = ""
     agreement = ""
     top_k = 5
+
     if request.method == "POST":
-        q = request.form.get("q", "").strip()
-        trade = request.form.get("trade", "").strip()
-        agreement = request.form.get("agreement", "").strip()
-        try:
-            top_k = int(request.form.get("top_k", "5"))
-        except ValueError:
-            top_k = 5
+        if request.form.get("clear"):
+            CHAT_HISTORY[sid] = []
+            history = []
+        else:
+            q = request.form.get("q", "").strip()
+            trade = request.form.get("trade", "").strip()
+            agreement = request.form.get("agreement", "").strip()
+            try:
+                top_k = int(request.form.get("top_k", "5"))
+            except ValueError:
+                top_k = 5
+            top_k = max(1, min(MAX_TOPK, top_k))
 
-        if q:
-            keep_idx = filter_indices(trade or None, agreement or None)
-            emb = embeddings[keep_idx]
-            q_emb = model.encode([q], normalize_embeddings=True)[0]
-            scores = emb @ q_emb
-            top = np.argsort(-scores)[:top_k]
-            for j in top:
-                i = keep_idx[j]
-                m = meta[i]
-                results.append({
-                    "source": m["source"],
-                    "score": float(scores[j]),
-                    "text": m["text"],
+            if q:
+                keep_idx = filter_indices(trade or None, agreement or None)
+                emb = embeddings[keep_idx]
+                q_emb = model.encode([q], normalize_embeddings=True)[0]
+                scores = emb @ q_emb
+                top = np.argsort(-scores)[:top_k]
+                for j in top:
+                    i = keep_idx[j]
+                    m = meta[i]
+                    results.append({
+                        "source": m["source"],
+                        "score": float(scores[j]),
+                        "text": m["text"],
+                    })
+
+                history.append({
+                    "q": q,
+                    "results": results,
                 })
+                history = history[-MAX_HISTORY:]
+                CHAT_HISTORY[sid] = history
 
-    return render_template(
+    resp = make_response(render_template(
         "index.html",
         q=q,
         trade=trade,
         agreement=agreement,
         top_k=top_k,
         results=results,
-    )
+        history=history,
+        max_topk=MAX_TOPK,
+    ))
+    resp.set_cookie("sid", sid)
+    return resp
 
 
 if __name__ == "__main__":
