@@ -261,9 +261,14 @@ def overtime():
         work_orders_file = request.files.get("work_orders")
         ot_totals_file = request.files.get("ot_totals")
 
-        if not workers_file or not availability_file or not work_orders_file:
-            errors.append("workers.csv, availability.csv, and work_orders.csv are required")
-        else:
+        if not workers_file or not workers_file.filename:
+            errors.append("workers.csv is required")
+        if not availability_file or not availability_file.filename:
+            errors.append("availability.csv is required")
+        if not work_orders_file or not work_orders_file.filename:
+            errors.append("work_orders.csv is required")
+
+        if not errors:
             workers = read_csv_upload(workers_file)
             availability = read_csv_upload(availability_file)
             work_orders = read_csv_upload(work_orders_file)
