@@ -47,17 +47,22 @@ def index():
     q = ""
     trade = ""
     agreement = ""
+    top_k = 5
     if request.method == "POST":
         q = request.form.get("q", "").strip()
         trade = request.form.get("trade", "").strip()
         agreement = request.form.get("agreement", "").strip()
+        try:
+            top_k = int(request.form.get("top_k", "5"))
+        except ValueError:
+            top_k = 5
 
         if q:
             keep_idx = filter_indices(trade or None, agreement or None)
             emb = embeddings[keep_idx]
             q_emb = model.encode([q], normalize_embeddings=True)[0]
             scores = emb @ q_emb
-            top = np.argsort(-scores)[:5]
+            top = np.argsort(-scores)[:top_k]
             for j in top:
                 i = keep_idx[j]
                 m = meta[i]
@@ -67,7 +72,14 @@ def index():
                     "text": m["text"],
                 })
 
-    return render_template("index.html", q=q, trade=trade, agreement=agreement, results=results)
+    return render_template(
+        "index.html",
+        q=q,
+        trade=trade,
+        agreement=agreement,
+        top_k=top_k,
+        results=results,
+    )
 
 
 if __name__ == "__main__":
