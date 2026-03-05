@@ -1,0 +1,5 @@
+work_order_id,title,area,shift_type,worker_id,name,score,reasons,override,override_reason
+WO-17,Pump overhaul,Bldg 2,12,W001,Sam R.,57.6,- OT30 (12.0h); - OT life (44.0h); - shift preference mismatch,N,
+WO-21,Decon support,Containment,10,W002,Amy L.,102.2,- OT30 (4.0h); - OT life (18.0h); + normal area match,N,
+WO-21,Decon support,Containment,10,,,,NO ELIGIBLE CANDIDATE,,
+WO-21,Decon support,Containment,10,,,,NO ELIGIBLE CANDIDATE,,
