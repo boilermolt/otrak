@@ -38,14 +38,27 @@ def highlight(text: str, query: str) -> str:
     return pattern.sub(lambda m: f"<<{m.group(0)}>>", text)
 
 
+def list_agreements() -> list[str]:
+    return sorted([p.stem for p in CHUNK_DIR.glob("*.jsonl")])
+
+
 def main() -> None:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--q", required=True, help="Search query")
+    ap.add_argument("--q", help="Search query")
     ap.add_argument("--limit", type=int, default=5, help="Max results")
     ap.add_argument("--trade", help="Optional trade filter (e.g., IBEW)")
     ap.add_argument("--agreement", help="Optional agreement name filter (partial match)")
     ap.add_argument("--phrase", action="store_true", help="Exact phrase match")
+    ap.add_argument("--list", action="store_true", help="List available agreements")
     args = ap.parse_args()
+
+    if args.list:
+        for name in list_agreements():
+            print(name)
+        return
+
+    if not args.q:
+        raise SystemExit("--q is required unless --list is used")
 
     q = args.q.strip()
     q_l = q.lower()
