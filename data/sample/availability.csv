@@ -1,0 +1,101 @@
+worker_id,available,preferred_shift,preferred_area,notes
+W001,Y,12,,
+W002,N,,,not available
+W003,Y,10,Decon,
+W004,Y,Any,,
+W005,N,,,not available
+W006,N,,,not available
+W007,Y,Any,,
+W008,N,,,not available
+W009,Y,10,,
+W010,N,,,not available
+W011,N,,,not available
+W012,N,,,not available
+W013,Y,10,,
+W014,N,,,not available
+W015,N,,,not available
+W016,Y,12,,
+W017,N,,,not available
+W018,Y,Any,,
+W019,Y,Any,,
+W020,N,,,not available
+W021,N,,,not available
+W022,N,,,not available
+W023,Y,Any,,
+W024,Y,12,,
+W025,Y,12,,
+W026,N,,,not available
+W027,N,,,not available
+W028,Y,Any,,
+W029,N,,,not available
+W030,Y,12,,
+W031,N,,,not available
+W032,Y,Any,,
+W033,Y,10,,
+W034,N,,,not available
+W035,Y,12,,
+W036,Y,10,Laydown,
+W037,Y,10,,
+W038,Y,12,,
+W039,Y,10,,
+W040,Y,Any,,
+W041,Y,12,,
+W042,N,,,not available
+W043,Y,Any,,
+W044,N,,,not available
+W045,Y,12,,
+W046,Y,12,,
+W047,Y,12,,
+W048,Y,Any,Warehouse,
+W049,Y,10,,
+W050,N,,,not available
+W051,N,,,not available
+W052,N,,,not available
+W053,N,,,not available
+W054,N,,,not available
+W055,Y,Any,,
+W056,N,,,not available
+W057,N,,,not available
+W058,N,,,not available
+W059,Y,10,,
+W060,Y,12,,
+W061,Y,Any,,
+W062,Y,12,Decon,
+W063,Y,10,,
+W064,N,,,not available
+W065,N,,,not available
+W066,N,,,not available
+W067,N,,,not available
+W068,Y,10,,
+W069,Y,10,,
+W070,N,,,not available
+W071,Y,Any,,
+W072,N,,,not available
+W073,Y,Any,,
+W074,N,,,not available
+W075,Y,12,,
+W076,Y,10,,
+W077,N,,,not available
+W078,N,,,not available
+W079,N,,,not available
+W080,Y,12,,
+W081,Y,Any,,
+W082,Y,12,,
+W083,Y,12,Turbine Hall,
+W084,N,,,not available
+W085,Y,10,,
+W086,Y,12,,
+W087,N,,,not available
+W088,Y,10,,
+W089,N,,,not available
+W090,Y,10,,
+W091,Y,Any,,
+W092,Y,12,,
+W093,Y,10,,
+W094,Y,12,,
+W095,N,,,not available
+W096,N,,,not available
+W097,N,,,not available
+W098,N,,,not available
+W099,Y,Any,,
+W100,Y,12,,

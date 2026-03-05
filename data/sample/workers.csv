@@ -1,0 +1,101 @@
+worker_id,name,trade,normal_area,quals
+W001,Worker 001,Carpenter,Turbine Hall,basic_rp|rad_watch
+W002,Worker 002,Carpenter,Decon,basic_rp|class7_shipper|confined_space
+W003,Worker 003,Labourer,Decon,basic_rp|hot_work
+W004,Worker 004,Insulator,Control Room,basic_rp
+W005,Worker 005,Insulator,Containment,basic_rp|forklift
+W006,Worker 006,Carpenter,Decon,basic_rp|class7_shipper
+W007,Worker 007,Painter,Bldg 3,basic_rp|confined_space
+W008,Worker 008,Carpenter,Bldg 3,basic_rp
+W009,Worker 009,Millwright,Control Room,basic_rp
+W010,Worker 010,Carpenter,Bldg 2,basic_rp
+W011,Worker 011,Labourer,Control Room,basic_rp|scaffold
+W012,Worker 012,Insulator,Laydown,basic_rp|class7_shipper
+W013,Worker 013,Labourer,Warehouse,basic_rp
+W014,Worker 014,Labourer,Laydown,basic_rp
+W015,Worker 015,Millwright,Warehouse,basic_rp|class7_shipper|confined_space|rad_watch
+W016,Worker 016,Insulator,Containment,basic_rp
+W017,Worker 017,Electrician,Containment,basic_rp
+W018,Worker 018,Carpenter,Laydown,basic_rp
+W019,Worker 019,Operator,Bldg 2,basic_rp|confined_space
+W020,Worker 020,Labourer,Bldg 2,basic_rp|confined_space
+W021,Worker 021,Electrician,Control Room,basic_rp|confined_space
+W022,Worker 022,Operator,Bldg 3,basic_rp|class7_shipper|forklift
+W023,Worker 023,Carpenter,Bldg 2,basic_rp|class7_shipper
+W024,Worker 024,Insulator,Bldg 3,basic_rp
+W025,Worker 025,Insulator,Control Room,basic_rp|rad_watch
+W026,Worker 026,Painter,Turbine Hall,basic_rp|lead_hand
+W027,Worker 027,Labourer,Containment,basic_rp|rad_watch
+W028,Worker 028,Ironworker,Bldg 3,basic_rp
+W029,Worker 029,Labourer,Warehouse,basic_rp|confined_space|rad_watch
+W030,Worker 030,Insulator,Decon,basic_rp
+W031,Worker 031,Carpenter,Turbine Hall,basic_rp
+W032,Worker 032,Labourer,Warehouse,basic_rp|class7_shipper|confined_space
+W033,Worker 033,Carpenter,Warehouse,basic_rp|rad_watch
+W034,Worker 034,Electrician,Containment,basic_rp
+W035,Worker 035,Labourer,Decon,basic_rp|confined_space|rad_watch
+W036,Worker 036,Ironworker,Laydown,basic_rp
+W037,Worker 037,Ironworker,Bldg 2,basic_rp|class7_shipper|rad_watch
+W038,Worker 038,Electrician,Control Room,basic_rp|class7_shipper
+W039,Worker 039,Millwright,Turbine Hall,basic_rp|confined_space
+W040,Worker 040,Labourer,Decon,basic_rp|class7_shipper
+W041,Worker 041,Carpenter,Decon,basic_rp
+W042,Worker 042,Painter,Bldg 3,basic_rp|confined_space
+W043,Worker 043,Carpenter,Turbine Hall,basic_rp|hot_work
+W044,Worker 044,Operator,Bldg 2,basic_rp
+W045,Worker 045,Millwright,Warehouse,basic_rp
+W046,Worker 046,Electrician,Laydown,basic_rp|confined_space
+W047,Worker 047,Carpenter,Bldg 2,basic_rp
+W048,Worker 048,Operator,Warehouse,basic_rp|rad_watch
+W049,Worker 049,Operator,Turbine Hall,basic_rp|class7_shipper
+W050,Worker 050,Ironworker,Decon,basic_rp|confined_space
+W051,Worker 051,Millwright,Turbine Hall,basic_rp|rad_watch
+W052,Worker 052,Operator,Control Room,basic_rp
+W053,Worker 053,Labourer,Bldg 3,basic_rp
+W054,Worker 054,Millwright,Bldg 3,basic_rp
+W055,Worker 055,Electrician,Bldg 2,basic_rp
+W056,Worker 056,Labourer,Laydown,basic_rp|class7_shipper|forklift
+W057,Worker 057,Labourer,Bldg 3,basic_rp
+W058,Worker 058,Labourer,Bldg 3,basic_rp|class7_shipper|confined_space
+W059,Worker 059,Operator,Control Room,basic_rp
+W060,Worker 060,Electrician,Containment,basic_rp
+W061,Worker 061,Electrician,Containment,basic_rp
+W062,Worker 062,Carpenter,Decon,basic_rp|confined_space|rad_watch
+W063,Worker 063,Labourer,Control Room,basic_rp
+W064,Worker 064,Carpenter,Laydown,basic_rp
+W065,Worker 065,Millwright,Bldg 3,basic_rp
+W066,Worker 066,Operator,Decon,basic_rp|confined_space
+W067,Worker 067,Painter,Warehouse,basic_rp
+W068,Worker 068,Millwright,Containment,basic_rp|hot_work
+W069,Worker 069,Operator,Bldg 3,basic_rp|confined_space|rad_watch
+W070,Worker 070,Carpenter,Warehouse,basic_rp
+W071,Worker 071,Ironworker,Decon,basic_rp|rad_watch
+W072,Worker 072,Carpenter,Decon,basic_rp
+W073,Worker 073,Labourer,Containment,basic_rp
+W074,Worker 074,Painter,Warehouse,basic_rp
+W075,Worker 075,Ironworker,Bldg 2,basic_rp
+W076,Worker 076,Operator,Warehouse,basic_rp|rad_watch
+W077,Worker 077,Operator,Control Room,basic_rp|rad_watch
+W078,Worker 078,Millwright,Bldg 3,basic_rp|class7_shipper
+W079,Worker 079,Labourer,Decon,basic_rp|forklift
+W080,Worker 080,Ironworker,Turbine Hall,basic_rp
+W081,Worker 081,Insulator,Bldg 3,basic_rp
+W082,Worker 082,Insulator,Bldg 2,basic_rp
+W083,Worker 083,Insulator,Turbine Hall,basic_rp|class7_shipper
+W084,Worker 084,Operator,Decon,basic_rp
+W085,Worker 085,Operator,Decon,basic_rp|confined_space|rad_watch
+W086,Worker 086,Painter,Bldg 3,basic_rp
+W087,Worker 087,Labourer,Bldg 3,basic_rp
+W088,Worker 088,Carpenter,Bldg 3,basic_rp
+W089,Worker 089,Carpenter,Bldg 2,basic_rp|confined_space|rad_watch
+W090,Worker 090,Insulator,Decon,basic_rp|confined_space
+W091,Worker 091,Labourer,Containment,basic_rp
+W092,Worker 092,Electrician,Control Room,basic_rp|rad_watch
+W093,Worker 093,Electrician,Decon,basic_rp|confined_space
+W094,Worker 094,Ironworker,Bldg 2,basic_rp
+W095,Worker 095,Ironworker,Warehouse,basic_rp
+W096,Worker 096,Carpenter,Laydown,basic_rp
+W097,Worker 097,Insulator,Control Room,basic_rp|class7_shipper
+W098,Worker 098,Operator,Control Room,basic_rp
+W099,Worker 099,Labourer,Containment,basic_rp
+W100,Worker 100,Ironworker,Warehouse,basic_rp|confined_space

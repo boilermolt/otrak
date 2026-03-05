@@ -1,0 +1,21 @@
+work_order_id,title,area,critical_path,priority,shift_type,required_quals,headcount
+WO-01,Work Order 01,Warehouse,Y,1,10,class7_shipper,4
+WO-02,Work Order 02,Laydown,Y,1,12,confined_space,1
+WO-03,Work Order 03,Warehouse,Y,1,12,class7_shipper,1
+WO-04,Work Order 04,Warehouse,Y,1,12,confined_space,4
+WO-05,Work Order 05,Laydown,Y,1,12,confined_space,2
+WO-06,Work Order 06,Decon,N,5,10,class7_shipper,4
+WO-07,Work Order 07,Control Room,N,4,12,basic_rp,4
+WO-08,Work Order 08,Laydown,N,2,10,rad_watch,3
+WO-09,Work Order 09,Bldg 3,N,4,10,class7_shipper,3
+WO-10,Work Order 10,Bldg 2,N,2,10,confined_space,4
+WO-11,Work Order 11,Turbine Hall,N,4,10,basic_rp,3
+WO-12,Work Order 12,Control Room,N,5,10,class7_shipper,2
+WO-13,Work Order 13,Control Room,N,4,10,confined_space,4
+WO-14,Work Order 14,Laydown,N,4,10,rad_watch,1
+WO-15,Work Order 15,Bldg 2,N,3,12,confined_space,1
+WO-16,Work Order 16,Decon,N,2,12,basic_rp,4
+WO-17,Work Order 17,Control Room,N,4,12,confined_space,1
+WO-18,Work Order 18,Bldg 3,N,5,10,confined_space,2
+WO-19,Work Order 19,Containment,N,5,12,rad_watch,1
+WO-20,Work Order 20,Bldg 2,N,2,10,confined_space,4
