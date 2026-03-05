@@ -1,4 +1,77 @@
 {
   "version": "0.2-contract-generated",
-  "rules": []
+  "rules": [
+    {
+      "id": "AGR-BACU-overtime_rate_multiplier-:4010994",
+      "type": "agreement",
+      "condition": {
+        "agreement_id": "BACU - 2025-2030 Collective Agreement.pdf",
+        "union": "BACU",
+        "trigger": "overtime"
+      },
+      "source": "BACU - 2025-2030 Collective Agreement.pdf p.18",
+      "citation": {
+        "file": "BACU - 2025-2030 Collective Agreement.pdf",
+        "page": 18,
+        "chunk_id": "BACU - 2025-2030 Collective Agreement.pdf::p18::c3"
+      },
+      "effect": {
+        "overtime_multiplier": 1.5
+      }
+    },
+    {
+      "id": "AGR-BACU-overtime_rate_multiplier-:6311009",
+      "type": "agreement",
+      "condition": {
+        "agreement_id": "BACU - 2025-2030 Collective Agreement.pdf",
+        "union": "BACU",
+        "trigger": "overtime"
+      },
+      "source": "BACU - 2025-2030 Collective Agreement.pdf p.25",
+      "citation": {
+        "file": "BACU - 2025-2030 Collective Agreement.pdf",
+        "page": 25,
+        "chunk_id": "BACU - 2025-2030 Collective Agreement.pdf::p25::c1"
+      },
+      "effect": {
+        "overtime_multiplier": 2.0
+      }
+    },
+    {
+      "id": "AGR-Boilermakers-daily_overtime_threshold-:5463261",
+      "type": "agreement",
+      "condition": {
+        "agreement_id": "Boilermakers - 2025 to 2030 Collective Agreement 20251024.pdf",
+        "union": "Boilermakers",
+        "scope": "day"
+      },
+      "source": "Boilermakers - 2025 to 2030 Collective Agreement 20251024.pdf p.24",
+      "citation": {
+        "file": "Boilermakers - 2025 to 2030 Collective Agreement 20251024.pdf",
+        "page": 24,
+        "chunk_id": "Boilermakers - 2025 to 2030 Collective Agreement 20251024.pdf::p24::c3"
+      },
+      "effect": {
+        "daily_threshold_hours": 10
+      }
+    },
+    {
+      "id": "AGR-Boilermakers-daily_overtime_threshold-:2749237",
+      "type": "agreement",
+      "condition": {
+        "agreement_id": "Boilermakers - 2025 to 2030 Collective Agreement 20251024.pdf",
+        "union": "Boilermakers",
+        "scope": "day"
+      },
+      "source": "Boilermakers - 2025 to 2030 Collective Agreement 20251024.pdf p.24",
+      "citation": {
+        "file": "Boilermakers - 2025 to 2030 Collective Agreement 20251024.pdf",
+        "page": 24,
+        "chunk_id": "Boilermakers - 2025 to 2030 Collective Agreement 20251024.pdf::p24::c3"
+      },
+      "effect": {
+        "daily_threshold_hours": 12
+      }
+    }
+  ]
 }
