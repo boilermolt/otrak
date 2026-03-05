@@ -1,0 +1,2737 @@
+                     PRINCIPAL AGREEMENT
+
+                                       for
+
+        Generation Projects Construction
+                                     in the
+
+                  Electrical Power Systems Sector
+
+                         made and entered into
+
+                                    between
+
+       THE ELECTRICAL POWER SYSTEMS
+         CONSTRUCTION ASSOCIATION
+                    (hereinafter called "EPSCA")
+
+                                       and
+
+               THE IBEW
+    CONSTRUCTION COUNCIL OF ONTARIO
+      representing the following affiliated Local Unions
+            105, 115, 120, 303, 353, 402, 530, 586,
+                        773, 804, 1687
+              (hereinafter called the "Union")
+
+
+                     May 1, 2025 - April 30, 2030
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                              Page 1
+                 EPSCA / IBEW CONSTRUCTION COUNCIL OF ONTARIO
+                              GENERATION PROJECTS
+                             COLLECTIVE AGREEMENT
+
+Contents
+SECTION 1 PREAMBLE ............................................................................................... 3
+SECTION 2 SCOPE OF AGREEMENT ........................................................................ 3
+SECTION 3 DURATION OF AGREEMENT ................................................................ 8
+SECTION 4 WORK ASSIGNMENT.............................................................................. 8
+SECTION 5 UNION RIGHTS AND REPRESENTATIVES ....................................... 12
+SECTION 6 EMPLOYEE DESIGNATION ................................................................. 14
+SECTION 7 EMPLOYMENT PRACTICES/HIRING ................................................. 15
+SECTION 8 HOURS OF WORK .................................................................................. 19
+SECTION 9 WAGES AND PAY PROCEDURE ......................................................... 25
+SECTION 10              UNION AND BENEFIT FUNDS ........................................................ 28
+SECTION 11              TRAVEL AND ROOM AND BOARD ALLOWANCE ..................... 29
+SECTION 12              TOOLS AND CLOTHING................................................................... 36
+SECTION 13              GRIEVANCES AND ARBITRATIONS ............................................. 38
+SECTION 14              COMMITTEES..................................................................................... 42
+SECTION 15              LUNCHROOM FACILITIES .............................................................. 44
+SECTION 16              ASSOCIATION FUND ........................................................................ 44
+SECTION 17              RADIATION WORK ........................................................................... 45
+SECTION 18              INDIGENOUS CONTENT COMMITMENT ..................................... 46
+SECTION 19              STANDOFF—NUCLEAR SITES ONLY ........................................... 46
+SECTION 20              EQUITY, DIVERSITY AND INCLUSION ........................................ 47
+SECTION 21              DE NOVO ............................................................................................. 48
+TOOL LIST ...................................................................................................................... 50
+APPENDIX A 7 DAY COVERAGE ............................................................................... 51
+APPENDIX B 7 DAY COVERAGE – NUCLEAR SITES ONLY ................................. 53
+APPENDIX C NEGOTIATION FOR MAJOR REFURBISHMENTS/OUTAGES ....... 55
+LETTER OF UNDERSTANDING #1: EMPLOYMENT REFERRALS ........................ 56
+LETTER OF UNDERSTANDING #2 ............................................................................. 57
+LETTER OF UNDERSTANDING #3: LOCAL AREA HIRING HALL PRACTICES . 58
+LETTER OF UNDERSTANDING # 4: CLARIFICATION NOTE ................................ 59
+LETTER OF UNDERSTANDING #5: CLARIFICATION NOTE – REPLACEMENT
+OF TRAVEL CARD MEMBERS .................................................................................... 60
+LETTER OF UNDERSTANDING #6: BOARD ALLOWANCE ON 4 X 10 SHIFT
+SCHEDULE ...................................................................................................................... 61
+LETTER OF UNDERSTANDING #7: FOR OPG CONSTRUCTION PROJECTS
+WITHIN THE GEOGRAPHIC AREA OF LOCALS 402 AND 1687 ............................ 62
+LETTER OF UNDERSTANDING #8: 6X3 SCHEDULE – NUCLEAR ONLY ........... 63
+LETTER OF UNDERSTANDING #9: TAXABLE ACCOMODATION BENEFIT
+(TAB) ................................................................................................................................ 65
+LETTER OF UNDERSTANDING #10: WAGE SCHEDULE – TRAINING CHECK-
+OFF ................................................................................................................................... 66
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                                                                    Page 2
+                               SECTION 1 PREAMBLE
+
+100                   A.    WHEREAS EPSCA is an Association formed to represent
+Witnesseth                  Employers engaged in construction industry work in the
+                            electrical power systems sector in collective bargaining and
+                            on their behalf enter into collective agreements covering
+                            those of their employees in the bargaining unit as hereinafter
+                            defined; and
+
+                            WHEREAS the Union, as defined in the covering page of
+                            this Collective Agreement, has in its membership competent,
+                            skilled and qualified journeypeople and apprentices to
+                            perform work coming within the trade and craft jurisdiction;
+                            and
+
+                            WHEREAS EPSCA and the Union desire to mutually
+                            establish and stabilize wages, hours and working conditions
+                            for journeypeople and apprentices employed by Employers
+                            within the electrical power systems sector of the construction
+                            industry, and further, to encourage closer co-operation and
+                            understanding between EPSCA and the Union to the end that
+                            a satisfactory, continuous and harmonious relationship will
+                            exist between the parties to this Agreement.
+
+                            NOW THEREFORE, EPSCA and the Union mutually agree
+                            that the working conditions as set out below shall be
+                            applicable throughout the Province of Ontario.
+
+
+
+                       SECTION 2 SCOPE OF AGREEMENT
+
+200                   A.    (i)     EPSCA recognizes the Union as the exclusive
+Recognition                         collective bargaining agency for a bargaining unit
+                                    as defined in Section 200 A (ii) engaged in
+                                    construction industry work performed on Ontario
+                                    Power Generation Inc. (OPGI) and Bruce Power LP
+                                    facilities.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 3
+                            (ii)    The bargaining unit shall comprise the classifications
+                                    of electrician journeyperson (including foreperson
+                                    and subforeperson), electrician welder, electrician
+                                    apprentice, communications electrician, Lineperson
+                                    and Apprentice Lineperson. If additional
+                                    classifications are required, they will be negotiated as
+                                    appropriate for work on Ontario Power Generations
+                                    Inc. (OPGI) and Bruce Power LP property.
+
+                            (iii)   Ontario Power Generation Inc. (OPGI) and Bruce
+                                    Power LP generating facilities shall mean generating
+                                    stations, hydraulic works, heavy water facilities,
+                                    microwave and repeater stations and Miscellaneous
+                                    Hydraulic Projects located on Ontario Power
+                                    Generation Inc. (OPGI) and Bruce Power LP property
+                                    but excludes the building of commercial-type office
+                                    facilities at locations remote from operating facilities.
+
+                      B.    The terms and conditions of this Agreement will apply when
+                            contracts are awarded by Ontario Power Generation Inc.
+                            (OPGI) or Bruce Power LP to Employers in contractual
+                            relations with one or more locals of the IBEW, or otherwise
+                            required to apply the terms of this Agreement.
+
+                      C.    The Union recognizes EPSCA as the sole and exclusive
+                            collective bargaining agency for all of the Employers covered
+                            by this Agreement, and in all matters pertaining to the
+                            administration of this Collective Agreement.
+
+                      D.    The term "employee" shall include all employees of the
+                            Employers in the classifications as set out in Item A (ii)
+                            above.
+
+                      E.    A subforeperson is an individual who exercises supervisory
+                            responsibility and may use the tools of the trade.
+
+                      F.    The term "Employers" shall include individual members of
+                            EPSCA and any company, partnership, sole proprietorship,
+                            joint venture, contractor, subcontractor or any person that
+                            agrees to be bound by the terms and conditions of this
+                            Agreement.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                            Page 4
+                      G.    Notwithstanding the provisions contained in this Subsection,
+                            this Agreement does not alter existing agreements and
+                            practices operative between individual Employers and the
+                            Union with respect to General Foremen.
+
+                      H.    The classifications referred to in Item A (ii) do not establish
+                            craft jurisdiction. Such jurisdiction is established in
+                            accordance with Section 4 of this Collective Agreement.
+
+                      I.    EPSCA and the Union agree that the use of nomenclature is
+                            meant to refer to both genders.
+
+201                  A.     This Agreement shall consist of a master portion of general
+Form of                     application to the construction field forces represented by
+Agreement                   the Union together with the following Appendices and/or wage
+                            schedules of particular application to employees represented by
+                            the Union at Projects or in areas as noted in Subsection 202
+                            below, and shall also be deemed to include any additional
+                            Appendix and/or wage schedule added, as the said Appendices
+                            and/or wage schedules may be revised by EPSCA and the Union
+                            from time to time.
+
+202                  A.    Local             Geographic Jurisdiction                     Project
+Geographic
+Jurisdiction               Hamilton          Brant, Norfolk, Wentworth               Nanticoke
+                           (105)             Counties and all that portion of
+                                             Oxford County south of a
+                                             straight east to west line
+                                             connecting the Town Line Road and
+                                             Newell Road in the Town of Tillsonburg,
+                                             the townships of Seneca, Rainham, North
+                                             Cayuga, South Cayuga, Onieda, and
+                                             Walpole in Haldimand County, and that
+                                             Portion of Halton County west of the
+                                             Eighth Concession Line and south of
+                                             Highway 401 in the Province of Ontario.
+
+                           Quinte-St.        Counties of Prince Edward, Hastings,
+                           Lawrence          Lennox and Addington, Frontenac,
+                           (Kingston)        Leeds, Grenville, Dundas, Stormont
+                           (115)             and Glengarry.
+
+                           London            Counties of Elgin, Huron, Middlesex
+                           (120)             and that portion of the Restructured
+                                             County of Oxford north of a straight
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                          Page 5
+                                             east to west line connecting the Town
+                                             Line Road and Newell Road in the
+                                             Town of Tillsonburg in the Province of
+                                             Ontario
+
+                          Niagara            The Niagara Region and the                 A. Beck
+                          (St.               Peninsula portion of Haldimand-
+                          (Catharines        Norfolk Region east of the road
+                          (303)              running south of Caistorville to Lake
+                                             Erie.
+
+                          Local              Geographic Jurisdiction                    Project
+
+                          Toronto          The Regional Municipalities
+                          (Local 353 South)                                             of York
+                                           and Peel and that portion
+                                           Dufferin County east of Highway
+                                           #10 and south of Highway #9
+                                           and is part of the Town of
+                                           Orangeville. That portion of
+                                           Regional Municipality of Halton
+                                           east of the Eighth Concession Line
+                                           and south of 401 to Lake Ontario
+                                           and the Municipality of Metro
+                                           Toronto.
+
+                          Thunder            Districts of Thunder Bay,                  Thunder
+                          Bay                Rainy River and that portion               Bay
+                          (402)              of the District of Kenora                  Atikokan
+                                             bounded on the West by the
+                                             Manitoba border and on the
+                                             East by the 87o Meridian,
+                                             in the Province of Ontario.
+
+                          Sarnia             Lambton County.                            Lambton
+                           (530)
+
+                          Ottawa             Counties of Lanark, Regional
+                          (586)              municipality of Ottawa-Carleton
+                                             Renfrew, Prescott and Russell
+                                             in the Province of Ontario, and
+                                             the entire Province of Quebec.
+
+                          Windsor            Essex and County and the.
+                          (773)              Municipality of Chatham-Kent.
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                         Page 6
+                          Central            The Region of Waterloo,                   Bruce
+                          Ontario            the Counties of Wellington,
+                          (Kitchener)        Perth, Bruce, Grey and Dufferin
+                          (804)              except that portion of DufferinCounty
+                                             laying east of Hwy #10 and south of
+                                             Hwy #9 and in that portion of Halton
+                                             Region north of Hwy 401 in the
+                                             Province of Ontario.
+
+
+                          Local              Geographic Jurisdiction                   Project
+
+                          Oshawa-            Durham Region, Northumberland         Pickering
+                          Port Hope          Victoria, Peterborough and            Darlington
+                          (353 East)         Haliburton Counties in the            Wesleyville
+                                             Province of Ontario, and that portion
+                                             of Simcoe County east of Lake Simcoe
+                                             and Lake Couchiching.
+
+                          Sudbury            Districts of Algoma, Cochrane, Nipissing
+                          (1687)             Sudbury, Timiskaming, Manitoulin Island the
+                                             District of Parry Sound, and the Sudbury
+                                             Region save and except the Townships of
+                                             Humphrey, Conger, Christie, Foley, Cowper,
+                                             McKellar, McDougall and Hagerman; that
+                                             portion of the District of Kenora bounded
+                                             on the West by the 87o Meridian and on the
+                                             East by the Quebec border in the Province
+                                             of Ontario.
+
+                          Georgian           Barrie and Orillia, all of Simcoe County
+                          Bay                and the District Municipality of Muskoka
+                          (353 North)        and the Townships of Humphrey, Conger,
+                                             Christie, Foley, Cowper, McKellar,
+                                             McDougall and Hagerman in the County
+                                             of Parry Sound, except the portion of Simcoe
+                                             County east of Lake Simcoe and Lake
+                                             Couchiching
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 7
+                    SECTION 3 DURATION OF AGREEMENT
+
+300                   A.    This Agreement shall become effective May 1, 2025 and will
+                            expire on April 30, 2030.
+
+301                   A.    Either party to this Agreement may give notice in writing to
+Notice                      the other party not more than 90 days prior to the expiry date
+                            and not less than 30 days prior to the expiry date of this
+                            Agreement and negotiations must begin within 15 days of the
+                            giving of notice. If there is no notice given of change or
+                            termination of this Agreement, as mentioned in this Section,
+                            this Agreement shall remain in effect from term to term
+                            thereafter.
+
+302                   A.    This Agreement shall be subject to amendment at any
+Amendments                  time by mutual consent of the parties hereto. Any such
+                            amendment agreed upon shall be reduced to writing, signed
+                            by the parties hereto and approved by the International Office
+                            of the Union, the same as this Agreement.
+
+
+                         SECTION 4 WORK ASSIGNMENT
+
+400                   A.    EPSCA will advise the Union of all new construction work
+Advance                     coming under the scope of this Agreement for the
+Notice                      construction field forces of the Employers.
+
+                            EPSCA will convene a prejob conference before work
+                            commences to discuss the preliminary details of the proposed
+                            work to be performed and to establish conditions in
+                            accordance with this Agreement for the Project.
+
+                      B.    Subsequent prejob conferences will be convened by EPSCA
+                            before specific portions of work commence to discuss the
+                            final details of the work and to establish conditions in
+                            accordance with this Agreement for that work.
+
+                      C.    Upon the request of the Union a prejob conference will be
+                            convened by EPSCA.
+
+                      D.    EPSCA will provide written notice to the Union as far in
+                            advance as possible of new work and prejob conferences as
+                            noted in Item A and Item B above.
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 8
+401                   A.    The Employer who has the responsibility for the work shall
+Work                        make a proposed assignment of the work involved. The
+Assignment                  Employer shall be responsible for providing copies of
+                            proposed assignments to the Union (CCO Office and Local
+                            Union Office). The Employer will specify a time limit for
+                            the Union to submit evidence supporting its claims. The
+                            Employer will evaluate all evidence submitted and make a
+                            final assignment of the work involved. This final assignment
+                            will be in accordance with the procedural rules established by
+                            the Plan for the Settlement of Jurisdictional Disputes in the
+                            Construction Industry. The Employer will advise the Union
+                            of the final assignments prior to the work commencing.
+                            When a jurisdictional dispute exists between unions and upon
+                            request by the Union the Employer shall furnish the IBEW
+                            CCO Office a signed letter from a duly authorized official of
+                            the company on employer stationery, stating whether or not
+                            the Union was employed on specific types of work on a given
+                            project. The Employer agrees to consider evidence of
+                            established practices within the construction industry
+                            generally when making jurisdictional assignments.
+
+                      B.    A markup process will be utilized when an Employer intends
+                            to perform work on a project site*. The purpose of the
+                            markup process is to indicate to the Union the work which is
+                            planned to be carried out by the Employer in order to
+                            minimize the potential for jurisdictional disputes.
+
+                            When work is to be performed on a project site and it meets
+                            the following criteria; same employer, same work, same
+                            project site, the markup process will not be required. This
+                            procedure shall not preclude the Union’s right to contest
+                            previously disputed work. In the Electricity Production Zones
+                            when work falls within this criteria the EPSCA Office will
+                            send out a “Notification of Work” along with a copy of the
+                            original minutes of mark-up meeting(s) to the Local Unions
+                            prior to work commencing. This procedure shall not
+                            preclude the Unions’ right to contest previously assigned
+                            work, if the work is in a Local Union jurisdiction other than
+                            the one it was marked up in.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 9
+                            When an Employer has work that is less than a three (3)
+                            week duration and there are ten (10) or fewer employees
+                            covered by EPSCA Collective Agreements employed on this
+                            specific work, the Union will be notified of the scope of work
+                            and the Employer’s proposed work assignments. The Union
+                            will have two (2) weeks from the date of notification to
+                            submit jurisdictional claims and supporting evidence to the
+                            Employer for consideration. The Employer will notify the
+                            Union of the final work assignments prior to the
+                            commencement of the work.
+
+                            All work that does not meet the criteria set out in paragraphs
+                            2 and 3 above, will be reviewed and assigned at a markup
+                            meeting.
+
+*    For the purposes of this Section, Nanticoke, Lambton, Bruce Nuclear Power
+     Development (BNPD), Darlington, Pickering, and the five (5) Electricity Production
+     Zones are each considered one project site.
+
+     EPSCA will provide written notice to the Union (International Office and Local Union
+     Office) as far in advance as possible of markup meetings. The Union may attend these
+     markup meetings and every effort will be made to settle questions of jurisdiction
+     before the work is expected to commence.
+
+                            The EPSCA representative will record the proposed
+                            assignments and jurisdictional claims and forward a copy of
+                            them within fifteen (15) working days to the Union
+                            (International Office and Local Union Office).
+
+                            The parties recognize that circumstances may arise,
+                            particularly with discovery and emergency work, where the
+                            mark-up process may not be practical or possible. However,
+                            reasonable effort will be made by the Employer to adhere to
+                            the jurisdiction of the IBEW.
+
+402                   A.    The jurisdiction of the Union shall be that jurisdiction
+Jurisdictional              established by agreements between International Unions
+Disputes                    claiming the work or decisions of record recognized by
+                            the AFL-CIO for the various classifications and the character
+                            of work performed.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 10
+                      B.    In the event that a jurisdictional dispute arises over a work
+                            assignment, the Employer will make an assignment for the
+                            work to be done. If any Union or Unions disagree with such
+                            a work assignment, the parties will settle such jurisdictional
+                            dispute in accordance with procedure as outlined by the Plan
+                            for the Settlement of Jurisdictional Disputes in the
+                            Construction Industry, or any successor thereto.
+
+                      C.    In the event that a jurisdictional dispute cannot be settled on a
+                            local basis by the Unions involved, it shall be submitted to
+                            the International Unions involved for settlement without
+                            permitting it to interfere in any way with the progress of the
+                            work at any time. In the event the dispute is not settled by
+                            the International Unions involved, it shall then be submitted
+                            to the Plan for the Settlement of Jurisdictional Disputes in the
+                            Construction Industry for resolution. The International
+                            Representative of the Union will advise EPSCA in writing of
+                            their intent to submit a jurisdictional dispute to the Plan for
+                            the Settlement of Jurisdictional Disputes in the Construction
+                            Industry and will identify in detail the work in question. The
+                            decision of the Plan for the Settlement of Jurisdictional
+                            Disputes in the Construction Industry will be final and
+                            binding to the parties to this Agreement.
+
+                      D.    EPSCA shall have direct recourse to the Plan for the
+                            Settlement of Jurisdictional Disputes in the Construction
+                            Industry when the Plan for the Settlement of Jurisdictional
+                            Disputes in the Construction Industry has under its
+                            consideration a dispute involving the assignment of work
+                            being done by employees who are covered by this
+                            Agreement.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                         Page 11
+            SECTION 5 UNION RIGHTS AND REPRESENTATIVES
+
+500                   A.    The Union will designate local Union representatives as
+Accredited                  Accredited Union Representatives to handle the
+Union                       day-to-day administration of this Agreement on the basis
+Representatives             of not more than two representatives from the Union for each
+                            Project. The Union will notify EPSCA in writing of the
+                            names of such Union representatives, or alternates in the
+                            event of illness or unavailability, so that they may be issued
+                            identification cards to permit entry to the site. Upon entering
+                            the job site, such representatives after identifying themselves
+                            to the authorized representative of the Employer, will be free
+                            to observe the progress and conduct of the work and to
+                            conduct normal union business associated with the
+                            administration of this Collective Agreement. The Union
+                            undertakes that these representatives will not unduly interfere
+                            in any way with said work.
+
+
+
+501                   A.    The Accredited Union Representative reserves the right to
+Union                       appoint or remove a steward or stewards on any job
+Stewards                    where workpeople are employed under the terms of this
+                            Agreement.
+
+                      B.    EPSCA and the Employer shall be notified in writing when a
+                            steward is appointed and when such stewards cease to act as
+                            stewards.
+                      C.    The steward will be responsible for their regularly assigned
+                            work on behalf of their Employer.
+
+                      D.    Such stewards shall be allowed sufficient time to see that the
+                            provisions of this Agreement are observed.
+
+                      E.    No steward shall be discriminated against by the Employer
+                            because of the performance of their duties as a steward.
+
+                      F.    Provided they are qualified to perform the work, the steward
+                            shall have the opportunity to work on all overtime. The
+                            steward shall be notified in advance of all overtime.
+
+                      G.    Where appropriate and where more than one steward is
+                            required, one steward shall be appointed Chief Steward.
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 12
+                      H.    The Chief Steward shall not have their employment
+                            terminated without the consent of the Accredited Union
+                            Representative until as near as possible to the completion of
+                            the job, unless with just cause. Where an Employer has only
+                            one steward appointed for a job, such steward will receive the
+                            same consideration given a Chief Steward as noted above.
+
+                      I.    The Employer shall receive the approval of the Accredited
+                            Union Representative prior to transferring a steward to
+                            another Project.
+
+                      J.    Any Steward shall obtain permission from their immediate
+                            supervisor before leaving their work area for Union business.
+                            Such permission shall not be unreasonably denied.
+
+                      K.    For the Pickering, Darlington and Bruce Power LP Nuclear
+                            sites, a Chief Steward at each site shall be paid at the
+                            foreperson rate. All Chief Stewards in receipt of the
+                            foreperson rate are still eligible to work on the tools.
+
+                            The foreperson rate does not apply when Chief Stewards are
+                            working overtime on the tools.
+
+502                   A.    As the parties recognize the responsibilities of the Health
+Health &                    and Safety Representative/Joint Health & Safety
+Safety                      Committee member, this individual will be among the last
+Representatives             five (5) employees kept on a project, providing they are
+                            capable of performing the remaining work.
+
+                      B.    If management feels that the Health and Safety
+                            representative/Joint Health & Safety Committee member is
+                            not discharging their health and safety duties in a manner that
+                            follows the intent and spirit of the legislation, the Employer
+                            may refer the issue to the Executive Committee for
+                            resolution. If the matter cannot be resolved by the Executive
+                            Committee, the grievance procedure may be invoked.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 13
+                     SECTION 6 EMPLOYEE DESIGNATION
+
+600                   A.    It is understood that forepeople and subforepeople hold
+Forepeople and             responsible positions in the relationship between the
+Subforepeople               Employers and the Union. Both parties agree that every
+                            effort should be made to recruit and retain forepeople and
+                            subforepeople who have a high degree of efficiency in the
+                            performance of their jobs and in the handling of their people.
+                            Recognizing the responsibilities involved in being a
+                            supervisor and a member of the Union, the Employers and
+                            the Union will make every effort to minimize problems that
+                            may arise which concern the relationship between the
+                            forepeople and subforepeople, the Employers and the Union.
+
+                      B.    The parties recognize the responsibilities of forepeople and
+                            subforepeople to discharge their managerial duties. If the
+                            Union feels that the foreperson or subforeperson is not
+                            discharging their managerial duties in a manner that is fair
+                            and equitable, or if an Employer feels that the Union is
+                            interfering with the foreperson or subforeperson in the
+                            performance of their managerial duties, the Employer or the
+                            Union may refer the problem to the Executive Committee
+                            referred to in Section 14 - Committees, Subsection
+                            1400 - Executive Committee, for resolution. If the matter
+                            cannot be resolved by the Executive Committee, the
+                            grievance procedure may be invoked by either party.
+
+
+                      C.    The selection and retention of forepeople and subforepeople
+                            will be the responsibility of the Employers. When making
+                            appointments to the foreperson and subforeperson level, the
+                            Employers will give consideration to those journeypeople
+                            they presently employ, however this consideration does not
+                            create an obligation to make an appointment from these
+                            employees.
+
+                      D.    Such forepeople and subforepeople shall be members of the
+                            IBEW and shall register at the local union office and shall be
+                            issued with clearance cards.
+
+                      E.    In the interest of efficiency and productivity, the Employer
+                            shall have the right to move forepeople and subforepeople
+                            from construction site to construction site.
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 14
+                      F.    The forepeople's differential shall be the greater of twelve
+                            percent (12%) above of the journeyperson base hourly rate or
+                            the established percentage above the journeyperson rate
+                            differential as set out in the existing wage schedules. The
+                            subforeperson's differential shall be the greater of six percent
+                            (6%) above of the journeyperson base hourly rate or the
+                            established percentage differential above the journeyperson
+                            rate as set out in the existing wage schedules. The rates of
+                            pay for all forepeople and subforepeople covered by this
+                            Agreement will be set forth in the current wage schedules.
+                            EPSCA will provide the Union with current wage schedules.
+
+                      G.    For conditions applying to General Forepeople, refer to
+                            Subsection 200, Item G.
+
+                      H.    Where the crew size is five (5) or less, including the
+                            foreperson, the foreperson may be required to work with the
+                            tools of the trade.
+
+               SECTION 7 EMPLOYMENT PRACTICES/HIRING
+
+700                   A.    For purposes of this Section, a geographic area will be
+Employment                  established for each Project in accordance with the
+Practices                   geographic jurisdiction established in Section 2, Subsection
+                            202, of this Agreement.
+
+                      B.    An office will be established by EPSCA, or by the Employer
+                            with the approval of EPSCA, for each Project. A purpose of
+                            this office will be to coordinate employment as specified in
+                            this Section.
+
+                      C.    EPSCA, or the Employer with the approval of EPSCA, and
+                            the Union will exchange the names of their representatives in
+                            each of the areas described in Item A who will be responsible
+                            for co-operating in the referral and employment of reliable
+                            and competent Union members.
+
+                      D.    EPSCA will notify the Union of future workforce
+                            requirements for all employees coming within the scope of
+                            this Agreement.
+
+                      E.    With the exception of Section 701A (ii) (e), the Union
+                            recognizes that where key tradespeople are required, the
+                            number will be jointly determined at a prejob conference
+                            provided for in Section 4, Subsection 400, of this Agreement.
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 15
+                      F.    The union and the Employer shall attempt to maintain a
+                            balanced apprentice program. All levels of apprentices shall
+                            be made available if available.
+
+701                   A.    The Employer agrees to hire and employ only members of
+                            the International Brotherhood of Electrical Workers on all
+                            electrical work. The EPSCA office, or the Employer’s office
+                            will request the appropriate Local Union office for certified
+                            tradespeople and apprentices required and no one will be
+                            employed unless they are in possession of a clearance card
+                            from the Local Union office.
+Hiring
+
+                            The employment of tradespeople and apprentices shall be
+                            carried out on the following basis and sequence:
+
+                            (i)     Resident Employers:
+
+                                    (a) Increase key tradespeople to 4. The 3rd and 4th key
+                                    tradespeople will only be hired when the crew reaches
+                                    10. For layoffs the 3rd and 4th key tradespeople will
+                                    be the 12th and 11th crew members laid off.
+
+                                    (b) Name hire* IBEW members from the local Union
+                                    in whose jurisdiction the work is being performed; or
+
+                                    * For purposes of this section, name hires do not
+                                    include Holder of Record and Assessors.
+
+                                    (c) Hire a combination of employees from (a) to (b)
+                                    above, providing the total employees hired does not
+                                    exceed more than 50% of employees employed.
+
+                            (ii)    Non-Resident Employers:
+
+                                    (a) Mobilize/transfer from outside of the Local Union
+                                    Area existing members to a maximum of 20% of all
+                                    employees hired under Section 701A (ii); There will
+                                    be no restriction as to the source of the 20% provided
+                                    they are IBEW members in good standing; or
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 16
+                                    (b) Name hire IBEW members from the Local Union
+                                    in whose jurisdiction the work is being performed; or
+
+                                    (c) Hire a combination of employees from (a) to (c)
+                                    above, providing the total employees hired does not
+                                    exceed more than 50% of employees employed;
+
+                                    (d) The Employer is entitled to bring in the first two
+                                    (2) IBEW members.
+
+                                    (e) For Nuclear sites only: The Employer is entitled to
+                                    bring in four (4) key tradespeople.
+
+                            (iii)   All Projects
+
+                                    (a)The percentages set out in Section 701A (i) & (ii)
+                                    must apply with reference to the number of
+                                    employees of the employer who perform work under
+                                    the EPSCA Generation Projects Agreement on each
+                                    day during the period in which the employer’s work
+                                    within a Local Union’s jurisdiction is being
+                                    performed save and except for the period when
+                                    employees are being laid off because of downsizing,
+                                    of the workforce. When the Employer hires again
+                                    after downsizing, it shall bring its workforce back into
+                                    percentages which do not exceed those permitted
+                                    under Section 701A (i) and (ii). The Business
+                                    Manager of the Local Union shall be permitted in
+                                    their discretion to waive compliance with the
+                                    provisions of this clause.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 17
+                            (iv)    The Local Union will furnish other employees other
+                                    than those hired in accordance with Sections 701 A (i)
+                                    and (ii). If the Local Union is unable to furnish
+                                    certified Local Union members to the Employer
+                                    within three (3) working days of the time the Local
+                                    Union office receives the request for tradespeople
+                                    (except Saturdays, Sundays and Holidays), the
+                                    Employer has the right to transfer Union members
+                                    already in their employ to the project subject to
+                                    Section 701A (vi). Following this, the Local Union
+                                    will furnish travel card or permit holders as available.
+                                    The Local Union will issue clearance cards to those
+                                    hired in these circumstances. All employees will
+                                    report to the EPSCA Office, or the Employer’s office,
+                                    prior to commencing work. Travel card members
+                                    may be replaced by Local Union members and permit
+                                    holders may be replaced by Local Union members or
+                                    travel card members who maintain a regular residence
+                                    in the geographic area of the project after three (3)
+                                    days notice to the Employer, but in no case until a
+                                    tradesperson has worked a minimum of one (1) week.
+                                    On Nuclear sites only, local members replacing travel
+                                    cards must be security cleared prior to hire and
+                                    possess the same owner specific nuclear training as
+                                    the employee being replaced. On Nuclear sites only,
+                                    replacement of travel cards will not occur during
+                                    outages.
+
+                            (v)     Notwithstanding the replacement process outlined in
+                                    701A (iv), the Employer has the right to maintain the
+                                    ratio as per 701A of employees in their employ
+                                    exempt from replacement.
+
+                            (vi)    It is agreed that when the Local Union cannot supply
+                                    local members to a job or project, the employer will
+                                    be allowed to transfer current employees who have
+                                    been in their employ for a minimum of one (1) year,
+                                    to the site or project. The Employer must notify the
+                                    Union when placing a call of the number of current
+                                    employees eligible for transfer to the site.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 18
+                        B.    For the purposes of Section 701 A (i) and (ii), employment
+                             priority shall not apply when a non-resident Employer is
+                             laying off provided that, notwithstanding Section 701A (iv),
+                             the mobility percentages set forth in Section 701A is not
+                             exceeded.
+
+                              In all cases of layoff, the Employer shall layoff its employees
+                              in the following sequence, but has the right to maintain the
+                              employees hired as per Section 701A.
+
+                              (i)     Permit holders;
+                              (ii)    Travel card members from Local Unions outside
+                                      Ontario;
+                              (iii)   Travel card members from Local Unions within
+                                      Ontario;
+                              (iv)    Applicable Local Union members
+
+                      C.     When possible, the Employer shall notify the Local Union
+                             Office three (3) days prior to layoff but no later than by the
+                             day of the layoff. Failure of the Employer to notify the
+                             Union office by the day of the layoff will entitle the
+                             employee to an additional one (1) hour’s pay.
+
+                      D.     Re-employment as required by the Workplace Safety and
+                             Insurance Board shall not be a violation of this collective
+                             agreement nor subject to provisions of Section 7.
+
+702                           An employee who voluntarily terminates their employment
+                              with an Employer on an EPSCA site shall not be entitled to
+                              be referred to another Employer on the same site for a period
+                              of thirty (30) days.
+
+                             SECTION 8 HOURS OF WORK
+
+800                   A.     One (1) or Two (2) Shift Operation
+
+                             The weekly hours of work Monday to Friday inclusive shall
+                             consist of forty (40) hours for all employees of Employers
+                             covered by this agreement and working on a one (1) or two
+                             (2) shift operation.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                         Page 19
+                            The weekly hours of work may be arrived at by having the
+                            employees work either:
+
+                            •   four (4) consecutive ten-hour shifts, Monday to Thursday
+                                or;
+                            •   four (4) consecutive ten-hour shifts, Tuesday to Friday or;
+                            •   five (5) consecutive eight-hour shifts
+
+                            but not concurrently on the same work program.*
+
+*    For the purposes of this section, a work program will be defined as work taking place on
+     a site that includes the following:
+     •      Outages,
+     •      Specific contracted scopes of work,
+     •      Various and different modifications in an operating plant where the owner dictates
+            the hours of work, or
+     •      Subcontracts for a prime contractor where the prime contractor dictates the hours
+            of work.
+
+                            Each Employer will notify the Local Union of the weekly
+                            hours of work for each work program* at the site.
+
+                            Weekly hours of work will be established for a minimum
+                            period of two (2) weeks.
+
+                            If an Employer intends to change the weekly hours of work,
+                            notice will be given in the week prior to the change but no
+                            less than five (5) days before the change.
+
+                            The start time for the day shift shall be between 6:00 AM and
+                            9:00AM (nuclear only) or 8:00 a.m. with a possible one (1)
+                            hour variance either way (all other locations). The start time
+                            for the afternoon shift shall be immediately following the day
+                            shift or within two (2) hours either way of the end of the day
+                            shift. Crews may have different start times.
+
+                            The shift differential for those employees working the
+                            afternoon shift when a two shift operation has been
+                            established by the Employer will be one-fifth (1/5) for
+                            scheduled hours worked on that shift.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                          Page 20
+                      B.    Three (3) Shift Operation
+
+                            When a three (3) shift operation is established by the
+                            Employer, the following conditions will apply:
+
+                            Those employees working on the day shift shall work eight
+                            (8) hours at the straight time rate.
+
+                            Those employees working on the afternoon shift shall work
+                            seven and one-half (7 1/2) hours per shift. A shift differential
+                            of one-seventh (1/7) shall be paid for all normal scheduled
+                            shift hours worked.
+
+                            Those employees working on the night shift shall work seven
+                            (7) hours per shift. A shift differential of one-fifth (1/5) shall
+                            be paid for all normal scheduled shift hours worked.
+
+                      C.    A shift will be deemed to be established providing at least
+                            four (4) consecutive days of a shift are to be worked,
+                            excluding Saturdays, Sundays and Recognized Holidays. If
+                            an employee is removed from their scheduled shift prior to
+                            completing four (4) consecutive shifts, the employee will be
+                            paid shift differential for the balance of the four (4)
+                            consecutive shifts that would have been worked had the
+                            employee not been reassigned.
+
+                      D.    The shift rate will be based on the day in which the shift
+                            begins.
+
+                      E.    IBEW members assigned to fire watch duties may commence
+                            work after the start of the rest of the crew. In these cases,
+                            normal scheduled hours of work beyond the quit time of the
+                            rest of the crew will not be subject to overtime rate of pay.
+
+                      F.    It may be necessary from time to time to vary the hours of
+                            work established in this Article. Any amendments to the
+                            hours of work will be established by mutual agreement
+                            between EPSCA and the Union.
+
+801                   A.    For employees working normal hours, a fifteen (15) minute
+Rest                        rest period will be allotted, at the time directed by the
+Periods                     Employer, for each half shift worked. Where a half shift is
+                            less than four (4) hours, there shall be no rest period
+                            excluding the third shift.
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                          Page 21
+                      B.    For employees required to work overtime, a ten (10) minute
+                            rest period will be allotted prior to the end of the normal shift
+                            before commencing overtime work.
+
+                      C.    For employees working overtime, a fifteen (15) minute rest
+                            period will be allotted, at the time directed by the Employer,
+                            after each two hours of overtime worked.
+
+802                   A.    An employee who reports for work, unless directed not to
+Reporting                   report the previous day by their Employer, shall receive a
+Pay                         minimum of a half shift’s pay (4 hours or 5 hours) plus their
+                            appropriate daily travel or board allowance at the applicable
+                            rate when they report for work but are unable to commence
+                            or continue to work because of circumstances beyond their
+                            control. An employee will not receive this allowance if they
+                            are unable to complete their shift as a result of inclement
+                            weather.
+
+                      B.    Notwithstanding Subsection 802, Item A above, when an
+                            Employer considers it necessary to shut down a job to avoid
+                            the possible loss of human life, because of an emergency
+                            situation that could endanger the life and safety of an
+                            employee, in such cases, employees will be compensated
+                            only for the actual time worked.
+
+803                   A.    An employee who reports for work at the beginning of a
+Inclement                   shift and is unable to commence work due to inclement
+Weather Pay                 weather will receive three (3) hours' pay at the applicable
+                            rate. To qualify, the employee must remain at a protected
+                            place or area as designated by the Employer for three (3)
+                            hours unless excused by an authorized representative of their
+                            Employer.
+
+                      B.    An employee who reports for and commences work but is
+                            unable to continue work due to inclement weather shall
+                            receive three (3) hours' pay at the applicable rate or pay for
+                            the actual time worked for that shift, whichever is the greater.
+
+
+                      C.    An employee in receipt of inclement weather pay shall also
+                            receive travel or board allowance if applicable.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                         Page 22
+804                   A.    The holidays recognized under this Agreement are:
+Recognized
+Holidays                    New Year's Day                  Canada Day
+                            Family Day                      Civic Holiday
+                            Good Friday                     Labour Day
+                            Easter Monday                   Thanksgiving Day
+                            Victoria Day                    Christmas Day
+                                                            Boxing Day
+
+                      B.    Recognized holidays falling on a Saturday or Sunday shall be
+                            observed on the following Monday. When Christmas Day
+                            falls on a Saturday or Sunday, it shall be observed on the
+                            following Monday and Boxing Day on the following
+                            Tuesday. When New Year's Day falls on a Saturday or
+                            Sunday, it shall be observed either on the preceding Friday or
+                            following Monday.
+
+                      C.    EPSCA reserves the right to change the day of observation of
+                            a recognized holiday when such holiday falls on a Tuesday,
+                            Wednesday (Canada Day only) or Thursday.
+
+805                   A.    When an employee is called in to work outside of their
+normal
+Call-In                     hours of work, they shall receive a minimum of two (2)
+hours'
+Pay                         work at the appropriate premium rate plus travel allowance
+                            where applicable.
+
+                      B.    If the employee's normal hours of work commences within
+                            this two (2) hour period, the employee will be paid premium
+                            time for the actual hours worked and revert to their normal
+                            rate at the commencement of their normal hours of work.
+
+806                   A.    When working on an eight (8) hour day and five (5) day per
+Overtime                    week work schedule (Monday to Friday inclusive), overtime
+                            work shall be paid at one and one-half (1 ½) times the basic
+                            hourly rate for all hours worked beyond the normal daily
+                            scheduled number of hours up to a maximum of two (2)
+                            hours per day. All hours in excess of 10 hours per day shall
+                            be paid at two (2) times the base hourly rate.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 23
+                            When working on a ten (10) hour day and four (4) day per
+                            week work schedule (Monday to Friday inclusive), overtime
+                            work shall be paid at one and one-half (1 ½) times the basic
+                            hourly rate for all hours worked beyond the normal daily
+                            scheduled number of hours up to a maximum of two (2)
+                            hours per day. All hours in excess of 12 hours per day shall
+                            be paid at two (2) times the base hourly rate.
+
+                            Overtime work performed on Saturday, Sunday, Recognized
+                            Holidays and non-shift days shall be paid at two (2) times the
+                            basic hourly rate.
+
+                            The parties have a mutual interest in reducing unauthorized
+                            absenteeism. At the Employer’s discretion, an unapproved
+                            absence of the Employee may disentitle the Employee to
+                            overtime opportunities. The application of the employer’s
+                            discretion, will be subject to referral to the Nuclear Project
+                            Committee.
+
+                      B.    When an employee has not been notified the previous day
+                            that they will be required to work for more than two (2) hours
+                            beyond the normal quitting time of their shift and after
+                            approximately two (2) hours has been worked, they shall be
+                            provided with a lunch and allowed thirty (30) minutes to
+                            consume same and be paid at the base hourly rate of pay.
+
+                            After each additional four (4) hours is worked, the employee
+                            shall be allowed thirty (30) minutes to eat and be paid at the
+                            base hourly rate of pay and a lunch when work is required
+                            beyond that four (4) hour period. If supplying a hot meal is
+                            not possible, the Employer will pay the employee $25.00.
+                            Where an employee has been notified the previous day, no
+                            lunch will be provided, but the employee will be allowed
+                            thirty (30) minutes to eat and be paid at the base hourly rate
+                            of pay.
+
+                            When a paid meal period overlaps a rest period, the paid
+                            meal period will supplant the rest period.
+
+                            The above-noted is not applicable to the first eight (8) hours
+                            worked on Saturdays, Sundays and Recognized Holidays
+
+                      C.    All overtime shall be worked on a voluntary basis and shall be
+                            distributed as equally as possible among all IBEW members.
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 24
+                   SECTION 9 WAGES AND PAY PROCEDURE
+
+900                   A.    The rates of pay for employees in the classifications listed
+Wages                       in Subsection 200, Item B, of this Agreement and working
+                            on Generation Station Projects shall be as set forth in the
+                            wage schedules attached hereto.
+
+                      B.    The Union will have no later than the end of March of
+                            each calendar year to provide the breakdown of dues,
+                            pension, welfare and benefits to EPSCA. The parties will
+                            than have no later than 60 calendar days to review,
+                            approve, and implement the wage schedules and new
+                            collective agreement. The effective date for such changes
+                            shall be retroactive to May 1st of that year.
+
+                            If no approval is received by the accredited union
+                            representative, within the timelines above the Association
+                            shall approve the wage schedule and shall apply any
+                            negotiated increase to the base wage. The union will only
+                            be able to make changes in the next available window per
+                            the collective agreement.
+
+                      C.    In the event that an error is subsequently discovered on the
+                            wage schedules the error shall be corrected and applied on
+                            a prospective basis and there shall be no retroactive
+                            adjustment or claw back.
+
+901                   A.    Normal
+Pay
+Procedure                   (i)     Employees shall be paid weekly and payment for any
+                                    given week will be made not later than the sixth
+                                    working day after the close of the payroll period, but
+                                    in any event not later than Thursday of the following
+                                    week. Failure by the Employer to comply with the
+                                    requirements of this clause will entitle the employee
+                                    to one (1) hour’s pay at the straight time rate.
+
+                            (ii)    Wages shall be paid by the employers on the job site,
+                                    before quitting time, in cash or by cheque, payable at
+                                    par in the locality of the job site. In the case of a
+                                    holiday falling on a Thursday or Friday, the employee
+                                    shall be paid on the Wednesday prior to this holiday.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 25
+                            (iii)   The Employer may implement direct deposit. An
+                                    Employer will provide assistance to employees who
+                                    require assistance obtaining a bank account.
+
+                                    Accompanying each payment of wages shall be a
+                                    statement, in writing, or email, or epost, which can be
+                                    retained by the employee, setting forth:
+
+                                    (a)    the period of time or the work for which the
+                                           wages are being paid;
+
+                                    (b)    the rate of wages to which the employee is
+                                           entitled;
+
+                                    (c)    the amount of wages to which the employee is
+                                           entitled;
+
+                                    (d)    the amount of each deduction from the wages
+                                           of the employee and the purpose for which
+                                           each deduction is made;
+
+                                    (e)    any allowance or other payment to which the
+                                           employee is entitled;
+
+                                    (f)    the amount of vacation pay for which the
+                                           employee is being credited;
+
+                                    (g)    the amount of recognized holiday pay for
+                                           which the employee is being credited; and
+
+                                    (h)    the net amount of money being paid to the
+                                           employee.
+
+                            (iv)    In cases of inclement weather being declared on pay
+                                    day, employees will receive their pay before leaving
+                                    the site provided it is available on the site.
+
+                      B.    On Termination
+
+                            (i)     An employee who voluntarily terminates their
+                                    employment will be provided their final pay on the
+                                    next regular pay day.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 26
+                            (ii)    In all cases of layoff at work locations where the
+                                    employer does not have an on-site pay office, an
+                                    employee will have their final pay and termination
+                                    documents mailed to their residence within two (2)
+                                    business days of their termination by Express Post.
+                                    At work locations where the employer has an on-site
+                                    pay office, the employee shall receive their final pay
+                                    and record of employment on the day of layoff. In
+                                    situations where the employee receives direct deposit,
+                                    the employee will receive their final pay and
+                                    termination documents within five (5) business days
+                                    of their layoff and/or termination.
+
+                                    The Employer will provide a Record of Employment
+                                    (ROE) Form in the employee’s pay or will send ROE
+                                    information electronically to Service Canada within
+                                    the timelines specified in Section 901B(ii)
+
+                            (iii)   An employee who is discharged shall be provided
+                                    with their final pay immediately if the Employer's pay
+                                    facilities are on site or as per Item B (ii) above if the
+                                    Employer's pay facilities are not on site or the
+                                    employee receives direct deposit.
+
+                            (iv)    Failure of the Employer to comply with the
+                                    requirements in Clause 901 B (i), (ii) and (iii) will
+                                    entitle the employee to two (2) hours at the straight
+                                    time rate for each normal work day of
+                                    non-compliance.
+
+                            (v)     For remote projects North of the French River, those
+                                    receiving board or staying in a camp shall be
+                                    provided with notice of layoff on their last day of
+                                    work on site, unless agreed to otherwise between the
+                                    Employee and the Employer.
+
+
+     902              A.    The Employer agrees to pay vacation and recognized holiday
+                            pay on a weekly basis. The vacation and recognized holiday
+                            pay rate shall be twelve (12) percent of hourly earnings.
+Vacation and
+Recognized                  It is understood by the parties that the increase in vacation
+Holiday Pay                 and recognized holiday pay from ten (10) percent to twelve
+                            (12) percent has no monetary impact on the total wage
+                            package.
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                         Page 27
+                    SECTION 10 UNION AND BENEFIT FUNDS
+
+1000                  A.    The Employer agrees to pay into operative welfare,
+Benefit                     pension and S.U.B. plans the amounts specified by the
+Funds                       IBEW-CCO and identified in the wage schedules
+                            attached hereto. Payment to the above-noted funds shall be
+                            based on each hour earned.
+
+                      B.    To reduce administrative costs the parties agree that the
+                            number of monthly separate remittance and deduction
+                            cheques will be kept to a minimum.
+
+
+1001                  A.    The Employer agrees to deduct from wages and remit to
+Union                       the Union, Union Funds. The amounts to be deducted
+Funds                       and remitted will be as set out in the wage schedules attached
+                            hereto.
+
+1002                  A.    The Union agrees to supply the Employers with
+Administration              administrative material and information regarding the Funds
+                            identified in this Section.
+
+1003                  A.    The trustees of the employee benefit plans referred to in
+Assignment                  this collective agreement shall promptly notify the union
+of Benefits                 of the failure by any employer to pay any employee benefit
+                            contributions required to be made under this collective
+                            agreement and which are owed under the said plans in order
+                            that the program administrator of the Employee Wage
+                            Protection Plan may deem that there has been an assignment
+                            of compensation under the said program in compliance with
+                            the regulation to the Employment Standards Amendment
+                            Act, 2000 in relation to the Employee Wage Protection
+                            Program.
+
+1004                        The Employer will remit ten (10) cents per hour worked to
+Education Union Fund        the Education Union Fund. The Employer contribution is
+                            above the Total Wage Package and will be effective the date
+                            of ratification.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 28
+        SECTION 11 TRAVEL AND ROOM AND BOARD ALLOWANCE
+
+1100                  A.    The daily travel allowance will be paid by the Employers to
+Daily                       their employees who are not receiving room and board
+Travel                      allowance as referred to in Article 1101, on the following
+Allowance                   basis:
+
+                            (i)     If an employee lives less than fifty (50) road-driven
+                                    kilometers of the project, no travel allowance will be
+                                    paid.
+
+                            (ii)    If an employee lives within 50 to 70 road-driven
+                                    kilometers of the project, they shall receive the rates
+                                    as set out below for each day worked or reported for.
+
+                            (iii)   If an employee lives within 70-96 road- driven
+                                    kilometers of the project, they shall receive the rates
+                                    as set out below for each day worked or reported for.
+
+                            (iv)    If an employee lives within 96 to 110 road-driven
+                                    kilometers of the project, they shall receive the rates
+                                    as set out below for each day worked or reported for.
+
+                            (v)     If an employee lives greater than or equal to 110
+                                    road-driven kilometers from the project and does not
+                                    qualify for subsistence allowance under Subsection
+                                    1101 below, they shall receive the rates as set out
+                                    below for each day worked or reported for.
+
+                                     Daily Travel
+                                     Section   A(ii)        A(iii)     A(iv)      A(v)
+                                     1100
+                                               50-70        70-96      96-110     ≥110
+                                               road-        road-      road-      road-
+                                               driven       driven     driven     driven
+                                               km           km         km         km
+                                     5/1/2025 $33.14        $38.50     $42.00     $49.37
+                                     5/1/2026 $33.97        $39.46     $43.05     $50.60
+                                     5/1/2027 $34.82        $40.45     $44.13     $51.87
+                                     5/1/2028 $35.69        $41.46     $45.23     $53.17
+                                     5/1/2029 $36.58        $42.50     $46.36     $54.50
+
+                            (vi)    Employees using company vehicles are not entitled to
+                                    daily travel
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 29
+                            (vii)   Upon application, payment of Room and
+                                    Board/Travel Allowance will be issued for the first
+                                    two pay periods. Failure to provide satisfactory proof
+                                    of eligibility during the first 14 calendar days, will
+                                    result in cessation of payments and the recovery in
+                                    two equal amounts. In the event of termination for
+                                    any reason before full recovery, any balance owing
+                                    will be deducted from the final pay.
+
+                      B.    When the employee is in receipt of Room & Board
+                            Allowance on remote projects, and where the nearest place of
+                            accommodation is in excess of sixty (60) road-driven
+                            kilometres from the job, the employer shall have the option
+                            of providing transportation from the temporary
+                            accommodation, or paying travel allowance in accordance
+                            with Article 1100 A (i) to (vii).
+
+1101                  A.    The following conditions will apply for employees whose
+Room and Board              regular residence* is greater than or equal to 110 road-driven
+Allowance                   kilometers from the project:
+
+                            (i)     An Employer may supply either:
+
+                                    (a)    free room and board in camp or a good
+                                           standard of board and lodging within a
+                                           reasonable distance of a project; or
+                                    (b)    a subsistence allowance; or
+                                    (c)    a travel allowance.
+
+                            (ii)    An employee may exercise their option not to stay in
+                                    a camp or accept free room and board. An employee
+                                    who exercises this option shall receive a room and
+                                    board allowance as follows:
+
+                                    (a)    When an employee's regular residence is
+                                           greater than or equal to 110 road-driven
+                                           kilometers from a Project located North of the
+                                           French River and the employee maintains
+                                           temporary accommodation at or near the
+                                           Project, the employee shall be paid a
+                                           subsistence allowance as set out below for
+                                           each day worked or reported for.
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 30
+*    An Employee's "Regular Residence" is:
+
+     1.    The place where the employee maintains a self-contained, domestic establishment
+           (a dwelling house, apartment or similar place of residence where a person
+           generally eats and sleeps and for which they can show proof of financial
+           commitment). This is in contrast to a boarding house facility which is not
+           self-contained; and
+
+     2.    The employee normally resides in the residence except for those periods of time
+           when, because of the location of the work, the employee obtains temporary
+           accommodation for that work location
+
+                                    (b)     When an employee's regular residence is
+                                            greater than or equal to 110 road-driven
+                                            kilometers from a Project located South of the
+                                            French River and the employee maintains
+                                            temporary accommodation at or near the
+                                            project, the employee shall be paid a
+                                            subsistence allowance as set out below for
+                                            each day worked or reported for, subject to (d)
+                                            below.
+
+                                    (c)     When an employee's regular residence is
+                                            greater than or equal to 110 road-driven
+                                            kilometers from the Project and the employee
+                                            commutes to work on a daily basis, the
+                                            employee shall receive the rates as set out
+                                            below for each day worked or reported for.
+
+                                    (d)     At the Pickering and Darlington Projects,
+                                            employees who live beyond 110 road-driven
+                                            kilometers from the Project, shall receive the
+                                            rates as set out below for each day worked or
+                                            reported for.
+
+                                    (e)     At the Bruce Power Projects, employees who
+                                            live beyond 110 road-driven kilometers from
+                                            the Project, shall receive the rates as set out
+                                            below per day travel allowance for each day
+                                            worked or reported for.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                          Page 31
+                                     Room and Board Allowance
+                                     Section A(ii)    A(ii)   A(ii)(c)      A(ii) (d)      A(ii)
+                                     1101     (a)     (b)                                  (e)
+                                              North South ≥110              Pickering      Bruce
+                                              of      of      road-         and            Power
+                                              French French driven          Darlington
+                                                              km
+                                     5/1/2025 $145    $125    $61.34        $120           $135
+                                     5/1/2026 $150    $130    $62.87        $125           $140
+                                     5/1/2027 $155    $135    $64.44        $130           $145
+                                     5/1/2028 $155    $140    $66.05        $135           $150
+                                     5/1/2029 $160    $145    $67.70        $140           $150
+
+                                    (f)    When an employee’s regular residence is
+                                           more than four hundred and eighty (480) road-
+                                           driven kilometres from the project, and the job
+                                           or project is worked on a four ten (4 x 10's)
+                                           hour work week, the employee shall receive
+                                           room and board on a five (5) day basis for a
+                                           regular work week. If the employee is
+                                           required to work an additional ten (10) hour
+                                           shift(s) beyond the normal four ten (4 x 10)
+                                           hour shift, and has worked the full schedule,
+                                           the employee will be entitled to room and
+                                           board for an additional ten (10) hour shift
+                                           worked to a maximum of seven (7) days room
+                                           and board in a week.
+
+                      B.    An employee shall not qualify for daily travel allowance or
+                            room and board allowance as provided for in Article 1100
+                            and Article 1101, Item A above, when such employee reports
+                            for work but does not remain at work for their scheduled
+                            daily hours unless excused by an authorized representative of
+                            their Employer. Such permission shall not be unreasonably
+                            denied.
+
+                      C.    The Union recognizes the Employer's right to charge for
+                            board and other existing services. The Employer fixes the
+                            charge for board and other existing services in camps at
+                            $25.00 per day. This will be applied on the following basis:
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                      Page 32
+                            (i)     An employee who remains in camp on a normally
+                                    scheduled work day on which they do not work will
+                                    be charged $25.00 per day unless they are excused
+                                    from work for a legitimate reason by the Project
+                                    medical attendant or an authorized representative of
+                                    their Employer.
+
+                            (ii)    An employee who is absent from work on Friday
+                                    without approval and who remains in camp and who
+                                    is still absent from work on the following Monday
+                                    without approval will be charged for room and board
+                                    for Friday, Saturday, Sunday and Monday.
+
+                            (iii)   An employee who remains in camp and who is absent
+                                    from work without approval on Friday but who works
+                                    the following Monday will be charged for the day of
+                                    absence and will not be charged for Saturday and
+                                    Sunday.
+
+                            (iv)    An employee who remains in camp and who works
+                                    the Friday and is absent from work without approval
+                                    on the following Monday will be charged for the day
+                                    of absence and will not be charged for Saturday and
+                                    Sunday.
+
+                        D. TRAVEL TIME WITHIN LOCAL 402 AND 1687
+
+                            If receiving the room and board allowance under 1100 B, an
+                            employee will receive the following when travelling from the
+                            nearest available accommodation:
+                                    • If travelling to a project within 40 – 56 road km,
+                                        ½ hour regular time pay
+                                    • If travelling to a project within 57 – 80 road km,
+                                        1hour regular time pay
+                                    • If travelling to a project within 81 – 120 road km,
+                                        1 ½ hours regular time pay
+                                    • If travelling to a project within 121 – 160 road
+                                        km, 2 hours regular time pay
+                                    • If travelling to a project over 160 road km, then
+                                        actual travel time will be paid at the regular time
+                                        rate of pay.
+
+                            Travel allowance will be adjusted when the employee’s work
+                            location changes.
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 33
+                            Travel time within Local 402 and 1687
+                            In accordance with article 1100 B, an employee is still
+                            entitled to the daily travel above when the employer provides
+                            transportation.
+
+1102                  A.    On recruitment of tradespeople who live between 110 and
+Initial and Return          189 road-driven kilometers from the project, the Employer
+Travel and                  shall pay $50.00 effective May 1, 2025 for the initial trip to
+Transportation              the project.
+
+                      B.    On recruitment of tradespeople who live in Ontario but
+                            beyond 189 road-driven kilometers from the project, the
+                            Employer shall pay $0.60per road-driven kilometer, plus an
+                            allowance for travel time based on one (1) hour's base rate of
+                            pay for each ninety-six (96) road-driven kilometers of travel
+                            to a maximum of eight (8) hours' pay for the initial trip to the
+                            project from where the tradesperson lives or the place of
+                            recruitment, whichever is closer to the project.
+
+                      C.    On recruitment of tradespeople who live outside Ontario and
+                            beyond one hundred and eighty-nine (189) road-driven
+                            kilometers from the project, the Employer shall pay the
+                            equivalent of the cost of public transportation plus an
+                            allowance for travel time based on one (1) hour’s base rate of
+                            pay for each ninety-six (96) road-driven kilometers of travel
+                            to a maximum of eight (8) hours’ pay for the initial trip to the
+                            project from where the tradesperson lives or the place of
+                            recruitment, whichever is closer to the project.
+
+                      D.    To qualify for payment in Items A, B, or C, the employee
+                            must remain at the project for a minimum of fifteen (15)
+                            working days or the duration of the job, whichever is lesser.
+
+                      E.    On termination of employment due to a reduction of staff, an
+                            employee entitled to payment under Items A, B or C shall be
+                            entitled to return expenses calculated in the same manner as
+                            in Items A, B or C above for the return trip from the project
+                            to where the tradesperson lives or place of recruitment,
+                            whichever is closer to the project. An employee whose
+                            employment terminates for any reason other than reduction
+                            of staff shall not be eligible for return payment.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 34
+                      F.    For Locals 402 and 1687 only, notwithstanding section
+                            1102B C and D above, when an employee is required to
+                            report to a different location, they will receive initial travel
+                            between the current location and the new work location on
+                            the basis of one (1) hour’s pay at the regular rate for each
+                            eighty (80) road km of travel, or part thereof, to a maximum
+                            of eight (8) hour’s pay at the regular rate. If the employee is
+                            terminated due to a reduction of staff at the new work
+                            location, their return travel will be calculated on the basis of
+                            one (1) hour’s pay at the regular rate for each eighty (80)
+                            road km of travel or part thereof, to a maximum of eight (8)
+                            hours pay at the regular rate.
+
+1103                  A.    An employee who is requested or receives approval
+Use of                      from an authorized representative of their Employer to use
+Personal                    his personal vehicle for the convenience of their Employer
+Vehicle                     shall be reimbursed $0.60 per road-driven kilometer travelled
+                            for such use of their vehicle.
+
+1104                  A.     For the purpose of the Collective Agreement, “road-driven
+                            kilometres” is based on the shortest available road-driven
+                            distance from where an employee lives to either the work
+                            location or declared assembly point, depending on where the
+                            employee is directed to report, as measured through Google
+                            Maps.
+
+1105                        Wrap Around for Remote Hydro Electric Generating Sites in
+                            the Local Areas of 402 and 1687
+
+                            Each employee will receive a one-time payment every forty-
+                            two (42) calendar days, contingent upon the work location's
+                            distance from their regular residence as detailed below. This
+                            payment will be issued regardless of whether the employee
+                            returns to their place of residence.
+
+                            a) If the distance is 110 to 359 road-driven kilometers: $100
+                               (one hundred dollars)
+                            b) If the distance is 360 to 599 road-driven kilometers: $250
+                               (two hundred and fifty dollars)
+                            c) If the distance is equal to or more than 600 road-driven
+                               kilometers: $500 (five hundred dollars)
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                         Page 35
+                       SECTION 12 TOOLS AND CLOTHING
+
+1200                  A.    Employees shall be required to provide themselves with
+Tools and                   the ordinary hand tools of the trade as specified in the
+Clothing                    attached tool list. The Employer will provide insofar as is
+                            practical, separate facilities for storing the tools, but shall not
+                            be held responsible for losses, except as noted hereunder:
+
+                            (i)     When personal tools valued in excess of $15.00 are
+                                    lost due to fire, the Employer will consider
+                                    replacement or payment value to a maximum of
+                                    $750.00 based on the merit of each case. This will
+                                    include only personal tools that a tradesperson is
+                                    required to have to perform their normal duties with
+                                    the Employer.
+
+                            (ii)    The Employer agrees to compensate employees for
+                                    tools lost by theft, as supported by claims submitted
+                                    in writing with substantiating evidence to establish
+                                    theft resulting from forcible entry to locked storage
+                                    provided by the Employer to a maximum of $750.00.
+
+                            (iii)   In the event of a loss by fire at a work location,
+                                    replacement or payment of the full estimated value in
+                                    excess of $15.00 but not exceeding $750.00 for the
+                                    loss of personal clothing will be made.
+
+                            (iv)    In the event of a loss by fire at an Employer operated
+                                    camp, replacement or payment of the full estimated
+                                    value in excess of $15.00 but not exceeding $750.00
+                                    for the loss of personal clothing will be made.
+
+                      B.    Employees who have obtained tools from the Employer's tool
+                            crib shall be allowed sufficient time, in the opinion of
+                            Management, to return such tools to the tool crib during
+                            working hours. Employees receiving tools from such tool
+                            crib shall be held responsible for the return of such tools in
+                            good condition, subject to normal wear and tear. On layoff,
+                            employees will be allowed reasonable time to return tools to
+                            the tool crib.
+
+                      C.    Gang tools are tools which are issued to a foreperson and are
+                            used by one or more members of the crew. Such tools are
+                            not identified on trade tool lists, nor are they the tools and
+                            equipment identified in Items A and B of this Section. Such
+                            tools shall be the responsibility of the Employer.
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                           Page 36
+                      D.    Employees eligible for payment under A above shall be
+                            reimbursed within 60 days after the date of submitting a
+                            claim. The Employer shall provide tools for the employee to
+                            use during the replacement period.
+
+1201                  A.    Employees are required to wear protective clothing and
+Protective                  use protective equipment appropriate for the work
+Clothing and                being done. When it is reasonably determined that rainwear
+Equipment                   is required, the appropriate rainwear will be supplied by the
+                            Employer. The Employer shall supply employees
+                            working in close proximity to obvious fire hazards (i.e. open
+                            flame) with fire retardant coveralls.
+                            On abnormally dirty and/or corrosive work, in which the
+                            employee's clothing may be excessively or permanently
+                            damaged, the Employer will supply protective clothing and
+                            equipment (including gloves and coveralls where
+                            appropriate) at no cost to the employee.
+
+                      B.    Employees shall supply themselves with, and wear at all
+                            times on the job, an approved safety helmet and safety
+                            footwear.
+
+                            When an Employer wishes an employee to wear a
+                            specifically identified safety helmet, the Employer shall
+                            provide it on loan, complete with a new liner.
+
+                      C.    Protective clothing and equipment (including gloves,
+                            coveralls and fire retardant coveralls) and rainwear that is
+                            provided by the Employer will be charged out to an
+                            employee and the employee shall be responsible for the
+                            return of such protective clothing and equipment (including
+                            gloves, coveralls and fire retardant coveralls) and rainwear
+                            upon completion of the work involved.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 37
+                SECTION 13 GRIEVANCES AND ARBITRATIONS
+
+1300                  A.    Grievances within the meaning of the grievance and
+Grievances                  arbitration procedure shall consist only of disputes about the
+                            interpretation or application of particular clauses of this
+                            Agreement and about alleged violations of this Agreement.
+                            In the event of any dispute concerning the meaning or
+                            application of any provision of this Agreement or a dispute
+                            concerning an alleged violation of this Agreement, there shall
+                            be no suspension or disruption of work, but such dispute shall
+                            be treated as a grievance and shall be settled, if possible, by
+                            EPSCA and the Union. In the interests of expediting the
+                            procedure, the parties shall process grievances in the
+                            following manner.
+
+                      B.    PRELIMINARY DISCUSSION
+
+                            Disputes arising out of the interpretation or alleged violation
+                            of this Agreement shall, if possible, be settled by discussion
+                            between the employee and/or their steward and the
+                            employee's supervisor.
+
+                      C.    FIRST STEP
+
+                            If a dispute cannot be resolved by this method, the
+                            Accredited Union Representative for the Union may file a
+                            formal grievance on the prescribed form with EPSCA. Such
+                            grievance shall be filed within fifteen (15) working days of
+                            the alleged grievous act.
+
+                            Within ten (10) working days of the filing of the grievance,
+                            the Employer shall investigate the grievance and convene a
+                            meeting which they or the Accredited Union Representative
+                            considers necessary to resolve it. The Employer shall give
+                            their reply on the prescribed form to the Accredited Union
+                            Representative within five (5) working days from the date of
+                            the First Step meeting.
+
+                            Copies of completed grievance forms signed by the
+                            appropriate parties shall be filed by the Employer with the
+                            General Manager of EPSCA and by the Accredited Union
+                            Representative with the Secretary of the IBEW Construction
+                            Council of Ontario.
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 38
+                            If a First Step grievance meeting is considered appropriate,
+                            the Management Committee shall comprise of two
+                            Management officials, one of whom shall be a representative
+                            of the Employer against whom the grievance has been filed,
+                            and/or a representative of EPSCA. The Union Committee
+                            shall comprise the Accredited Union Representative plus two
+                            additional Union officials.
+
+                      D.    SECOND STEP
+
+                            If a dispute has not been resolved at the first Step of the
+                            grievance procedure, the Accredited Union Representative
+                            may refer the grievance on the prescribed form to the
+                            Appropriate EPSCA representative or the Employer. Such
+                            grievances shall be referred within ten (10) working days
+                            after the disposition has been issued under the First Step of
+                            this procedure. A copy of the grievance form shall be
+                            forwarded by the Accredited Union Representative to the
+                            Secretary of the IBEW Construction Council of Ontario .
+
+                            The Appropriate EPSCA representative or the Employer shall
+                            investigate the grievance and convene a meeting which they
+                            or the Secretary of the IBEW Construction Council of
+                            Ontario considers necessary to resolve it and give their reply
+                            on the prescribed form to the Secretary of the IBEW
+                            Construction Council of Ontario within five (5) working days
+                            from the receipt of the grievance form which was completed
+                            at First Step.
+
+                            If a Second Step grievance meeting is considered appropriate,
+                            the Management Committee shall comprise of the
+                            Appropriate EPSCA representative plus two other
+                            Management representatives, one of whom shall be a
+                            representative of the Employer against whom the grievance
+                            has been filed. The Union Committee shall comprise three
+                            persons, including one of the Secretary-Treasurer, Chair or a
+                            designate appointed by the Secretary-Treasurer or Chair of
+                            the IBEW Construction Council of Ontario and the
+                            Accredited Representative for the grievor, plus one other
+                            representative of the Union.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 39
+                      E.    EPSCA OR UNION GRIEVANCES
+
+                            The processing of EPSCA grievances shall begin at the
+                            Second Step. EPSCA may submit either policy or specific
+                            grievances. The Union may also institute policy grievances
+                            at this Step. Such policy or specific grievances shall be
+                            submitted within thirty (30) days of the alleged grievous act.
+
+                      F.    TIME LIMITS
+
+                            The time limits as to both documents and procedure set out in
+                            the above Subsections shall be complied with by the parties
+                            to this Agreement provided, however, that the parties may
+                            mutually agree in writing in respect to an extension or waiver
+                            of any of the time limits imposed. Where no answer is given
+                            within the time limits specified in the grievance procedure,
+                            the employee concerned, the Union or EPSCA or the
+                            Employer shall be entitled to submit the grievance to the next
+                            step of the grievance procedure. Any grievance not
+                            processed within the time limits specified in the grievance
+                            procedure shall be deemed to have been withdrawn and
+                            ineligible for arbitration.
+
+                      G.    Alleged unjustified termination, discharge, suspension or
+                            disciplinary action may be grieved beginning at First Step.
+
+                      H.     Disputes about the interpretation or application of particular
+                             clauses of this Agreement and about alleged violations of
+                             this Agreement shall not be processed under Section 133 of
+                             the Labour Relations Act of Ontario by either party until the
+                             provisions set forth in this Section for the resolution of such
+                             disputes have been fully exhausted.
+
+                      I.    GRIEVANCE FACILITIES
+
+                            EPSCA shall provide the necessary facilities for all grievance
+                            meetings.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                         Page 40
+1301                  A.    If any dispute about the interpretation or application of
+Arbitrations                particular clauses of this Agreement or about an alleged
+                            violation of this Agreement cannot be settled through the
+                            grievance procedure outlined in Subsection 1300, the matter
+                            may be submitted within thirty (30) days of its failure of
+                            settlement by grievance procedure by either EPSCA or the
+                            Union to a Board of Arbitration for adjudication. The party
+                            desiring to submit the dispute to arbitration shall notify the
+                            other party in writing of its desire and the notice shall contain
+                            the name of the first party's nominee to an arbitration board.
+                            The recipient of the notice shall, within five (5) working
+                            days, inform the other party of the name of its nominee to the
+                            arbitration board. The two nominees so selected shall, within
+                            ten (10) working days of the appointment of the second of
+                            them, appoint a third person who shall be the Chair. If the
+                            recipient of the notice fails to appoint a nominee, or if the
+                            nominees fail to agree upon a Chair, the appointment shall be
+                            made by the Minister of Labour for Ontario upon the request
+                            of either party. The arbitration board, when selected or
+                            appointed, will proceed as soon as practicable to hear and
+                            determine the dispute and it shall issue a decision which is
+                            final and binding upon the parties and upon their respective
+                            members. The decision of a majority is the decision of the
+                            arbitration board, but if there is no majority, the decision of
+                            the Chair governs.
+
+                      B.    The arbitration board shall have no power to add to or
+                            subtract from or modify any of the terms of this Agreement.
+                            The arbitration board shall not substitute its discretion for
+                            that of the parties except where the board determines that an
+                            employee has been discharged or otherwise disciplined for
+                            cause when this Agreement does not contain a specific
+                            penalty for the infraction that is the subject matter of the
+                            arbitration. In such cases, the arbitration board may
+                            substitute such other penalty for the discharge or discipline as
+                            to the arbitration board seems just and reasonable in all
+                            circumstances. The arbitration board shall not exercise any
+                            responsibility or function of the parties. The arbitration
+                            board shall not deal with any matter not contained in the
+                            original statement of grievance filed by the party referring the
+                            matter to arbitration.
+
+                      C.    In arbitration proceedings, each party shall pay the fees and
+                            expenses of its nominee, whether appointed by the party or
+                            by the Minister of Labour for Ontario, and the fees and
+                            expenses of the Chair shall be shared equally by the parties.
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                         Page 41
+                      D.    The time limits as to both documents and procedure set out in
+                            this Subsection shall be observed by the parties to this
+                            Agreement provided, however, that the parties may mutually
+                            agree in writing in respect to an extension or waiver of any of
+                            the time limits imposed.
+
+1302                  A.    There shall be no strikes or lockouts so long as this
+No Strike-                  Agreement continues to operate.
+No Lockout
+
+
+                             SECTION 14 COMMITTEES
+
+1400                  A.    To advance harmonious relations between EPSCA, the
+Executive                   Employers, the Union, and the employees, EPSCA and the
+Committee                   Union shall each appoint an Executive Committee. The
+                            Executive Committee of EPSCA shall consist of the Board of
+                            Directors and Officers of the Association. The Executive
+                            Committee of the Union shall consist of the IBEW
+                            Construction Council of Ontario.
+
+                            The Committee shall meet together at least annually to
+                            review matters associated with the administration of this
+                            Collective Agreement with the intent of achieving uniformity
+                            of application of this Agreement wherever employees are
+                            working in the Province.
+
+                            The Committees may also consider matters related to
+                            construction safety.
+
+1401                  A.    An Apprenticeship Council shall be established within each
+Apprenticeship              Local Union's jurisdictional area and shall meet on a regular
+Committee                   basis. This Council shall consist of an equal number of
+                            members of the Local Union and representative of the
+                            Employers from the area covered by the Local Union. Where
+                            applicable, a representative of the Apprenticeship Branch of
+                            the Ontario Government may also be appointed as an advisor
+                            to the regular Council members.
+
+                      B.    The Joint Apprenticeship Council shall be responsible for the
+                            establishment and maintenance of an apprenticeship training
+                            program, as well as adopting operating rules and conditions
+                            with respect thereto which are complementary to and in
+                            keeping with the intent of the Apprenticeship and
+                            Tradespeople's Qualification Act R.S.O. 1970 as amended.
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 42
+                      C.    All founding documents and/or agreements, and terms of
+                            reference establishing and guiding the activities of the local
+                            Apprenticeship Councils shall be registered with the
+                            Provincial Joint Council.
+
+                      D.    Apprentices shall be hired by the Employers, as and when
+                            required, from a pool of qualified apprentices established by
+                            the local JAC (or LAC) in accordance with the procedures
+                            established under the local JAC (LAC) Terms of Reference.
+
+                      E.    All apprentices shall be governed by the Ontario
+                            Apprenticeship and Tradesperson's Qualification Act and
+                            Regulations but the ratio of apprentices to journeypeople may
+                            be set from time to time by the Executive Committee.
+
+                      F.    In order to expedite the Apprentice's entrance into
+                            Journeyperson status, the following policy shall apply:
+                            (i)    The Apprentice must apply to the Apprenticeship
+                                   Branch to write their examination as soon as possible
+                                   after they have reached their total hours, less 300.
+
+                            (ii)    The Apprentice will give the LAC/JAC two weeks'
+                                    notice that they are going to write their examination.
+
+                            (iii)   After writing the examination, the Apprentice will
+                                    check their hours in their Progress Record Book, with
+                                    LAC/JAC.
+
+                            (iv)    The Employer will commence paying the
+                                    Journeyperson's rate of pay the day after the
+                                    Apprentice completes their hours and providing the
+                                    following conditions have been met:
+
+                                    (a)    The Employer is satisfied that the Apprentice
+                                           has completed their hours. If there is a
+                                           question concerning the completion of hours,
+                                           confirmation will be supplied by the
+                                           LAC/JAC and/or the Union, and,
+
+                                    (b)    The Employer is shown written proof of
+                                           Certification from the Apprenticeship Branch,
+                                           or has verbal confirmation from the LAC/JAC
+                                           and/or the Union, and
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 43
+                                    (c)     The Apprentice has passed their examination
+                                            for their Certification of Qualification (C of
+                                            Q).
+
+                      G.     In the event that an Apprentice fails their examination for
+                             their C of Q, they will be paid the journeyperson rate of pay
+                             from the day they pass any future examinations.
+
+                      H. Where the Apprenticeship Council is unable to reach an
+                         agreement on any matter concerning apprenticeship, the issue
+                         shall be referred to the Executive Committee for their decision.
+
+
+                     SECTION 15 LUNCHROOM FACILITIES
+
+1500                  A.     Adequately heated accommodation separate from
+Lunchroom                    change rooms and washrooms shall be provided by the
+Facilities                   Employer on each project when necessary and where such
+                             accommodation can be reasonably provided for. Such
+                             accommodation shall be weatherproof and shall be kept
+                             reasonably clean. A table and sufficient benches or seats for
+                             the employees on the job shall be provided in the
+                             accommodation. Trailerized or portable accommodation
+                             shall include tables, benches, light, heat maintained at a
+                             minimum sixty-eight (68) degrees Fahrenheit, proper access
+                             and egress, and shall not be used for material storage.
+
+Washroom              B.     The Employer will provide, where practical, clean, heated,
+Facilities                   lighted and ventilated facilities containing flush toilets and
+                             hand basins.
+
+
+                           SECTION 16 ASSOCIATION FUND
+
+1600                  A.     Each Employer bound by this agreement shall contribute
+Association                  to the Electrical Power Systems Construction Association
+Fund                         Fund, the amount specified on the wage schedules attached
+                             hereto for each hour worked by each employee covered by
+                             this Agreement.
+
+                             The Employer shall remit such contribution to EPSCA
+                             together with the supporting information as required on the
+                             reporting forms.
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                          Page 44
+                           SECTION 17 RADIATION WORK
+
+1700                  A.    A copy of Ontario Power Generation Radiation Protection
+                            Procedures and any revisions will be made available to the
+                            Local Union.
+
+                      B.    Each employee will have access to their personal radiation
+                            exposure record.
+
+                      C.    Long-term employees who reach their exposure limit will be
+                            given alternate employment until they can resume radiation
+                            work.
+
+                      D.    Short-term employees will be given a guaranteed period of
+                            employment at their time of hire.
+
+                      E.    Employees working in a radiation area, in plastic suits or
+                            replacement material of the fully enveloping type with an
+                            independent air supply, will receive $20.00 per day. A day
+                            for the purpose of this item shall be defined as any period up
+                            to twelve (12) hours. If any other EPSCA trade receives more
+                            than this amount during the term of this agreement, the Union
+                            will receive the same increase.
+
+                      F.    Construction Radiation Protection Assistant (R.P.A.) is a
+                            Construction Trades Person (Greenperson) who has achieved
+                            the full radiation qualification via
+                            (i)      the approved Ontario Power Generation Inc. and/or
+                                     Bruce Power Training Program,
+                            (ii)     has successfully completed the construction R.P.A.
+                                     training and checkouts, and
+                            (iii)    has performed R.P.A. functions while under
+                                     supervision of a fully qualified Construction R.P.A. to
+                                     the satisfaction of the Construction Site Safety Officer
+                                     and the Station Health Physics Unit.
+
+                            The Employer will select for Greenperson training only those
+                            employees who are members of the Local Union for the
+                            Project.
+
+                            R.P.A. will be paid the appropriate equivalent foreperson's
+                            rate when performing an R.P.A. function and will report to
+                            the Site Safety Unit. An R.P.A. is a "qualification" and not a
+                            "trade function" irrespective of union or trade affiliation.
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                         Page 45
+                            In the case of a recall to work, Employers reserve the right to
+                            recall qualified Greenpeople in sequence from the
+                            out-of-work list to the location from where they were laid off.
+                            Recalled Greenpeople will perform sufficient Greenperson
+                            work to maintain their skill level.
+
+
+             SECTION 18 INDIGENOUS CONTENT COMMITMENT
+
+1800                  A.    Where an Indigenous commitment has been established on a
+                            project, the Union will cooperate in meeting the content
+                            commitments.
+
+                            For projects, or jobs within a project, that are less than
+                            $100,000 field labour, and have Indigenous content
+                            commitments, the terms of the collective agreement will not
+                            apply to these Indigenous commitments.
+
+                            The parties acknowledge the traditional lands and treaty
+                            territories of the Indigenous communities of Ontario and are
+                            committed to a strong and respectful relationship with
+                            participating Indigenous communities.
+
+                            The parties agree to work together with the Indigenous
+                            communities proactively towards removing barriers that
+                            hinder the appropriate participation of Indigenous people in
+                            the Building Trade Union workforce.
+
+                            The terms and conditions of this article may be modified by
+                            the mutual consent of the Union and EPSCA when they deem
+                            it prudent.
+
+
+               SECTION 19 STANDOFF—NUCLEAR SITES ONLY
+
+1900                        When unable to proceed with its work, an Employer may
+                            elect to either layoff or standoff part or all of its crew.
+
+                            (a) Layoff
+
+                            If the Employer elects layoff, it shall be carried out in
+                            accordance with the provisions of the collective agreement.
+                            An employee laid off will be issued or provided
+                            electronically with a Record of Employment indicating "Lay-
+                            Off - shortage of work."
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 46
+                            (b) Standoff
+
+                            If the Employer elects standoff, it reserves the right to
+                            standoff its employees without pay up to a maximum of ten
+                            (10) consecutive working days. Notification of standoff will
+                            be made by the Employer during normal working hours. No
+                            travel allowance will be paid to the employee for the standoff
+                            period. Subsistence allowance will only be paid when proof
+                            that temporary residence is being maintained is provided.
+
+1901                        An employee qualifying for subsistence allowance (subject to
+                            1900 (b)) who is placed on standoff will be paid their
+                            appropriate subsistence allowance for the duration of the
+                            standoff. These days are deemed to be non-work days.
+
+                            If standoff continues beyond ten (10) consecutive working
+                            days, an employee at their option may elect to remain on
+                            standoff for an additional five (5) consecutive working days
+                            or be laid off.
+
+                            After fifteen (15) consecutive working days on standoff the
+                            employee will be laid off or will return to work.
+
+                            The parties acknowledge that the above-noted Standoff
+                            provision shall be applied to an Employer's employees
+                            equitably subject to the necessity of retaining the necessary
+                            skills of particular employees.
+
+1902                        On commencement of standoff an employee will be issued a
+                            Record of Employment.
+
+1903                        If an employee elects layoff, it shall be carried out in
+                            accordance with the terms of the collective agreement. An
+                            employee laid off will be issued a Record of Employment
+                            indicating "Layoff – shortage of work" dating back to their
+                            first day of standoff.
+
+              SECTION 20 EQUITY, DIVERSITY AND INCLUSION
+
+
+
+2000                  The parties are committed to achieving and maintaining a fair and
+                      representative work force through EDI strategies intended to
+                      reduce barriers to equity, diversity and inclusivity in the EPSCA
+                      sector.
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 47
+                                SECTION 21 DE NOVO
+2100
+                      The parties agree there is benefit to continue addressing the mental
+                      and physical well being of our members. In support of the
+                      objectives of the De Novo Treatment Centre (“De Novo”), it is
+                      agreed by the parties that both EPSCA and the Union (with the
+                      exception of Locals 115 and 586) will each contribute five cents
+                      ($0.05) for every person hour worked to De Novo for the term of
+                      this agreement.
+
+                      Locals 115 and 586 currently contribute five cents ($0.05) to their
+                      own Member Assistance Plan (“MAP”) without further need to
+                      duplicate with a contribution to De Novo.
+
+                      In the event Locals 115 and/or 586 ceases to contribute to their
+                      own MAP, Locals 115 and/or 586 will immediately contribute to
+                      De Novo in accordance with the above.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                      Page 48
+Dated this30 day of May , 2025 at Toronto, Ontario
+
+FOR EPSCA:                                         FOR IBEW
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                 Page 49
+                                      TOOL LIST
+
+
+All journeypeople electricians are required to have the following tools:
+
+1 Centre Punch
+1 1/2" Cold Chisel
+1 Half-round File
+1 Ball Peen Hammer
+1 Adjustable Hacksaw Frame
+1 Knife
+1 Medium Level
+5 Prs. of Pliers -
+8" Sidecutters, Diagonal, Longnose and 2 pairs of Channelock
+6 Screwdrivers, Robertson and Standard types
+1 6" Square or Combination Square
+1 Steel Tape, 10 or 12-foot
+1 Small Tap Wrench
+1 Tool box
+1 Tool Pouch and belt for hand tools
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                              Page 50
+                           APPENDIX A 7 DAY COVERAGE
+
+When working under the provisions of this appendix all conditions listed below will
+supersede those contained in the main agreement. Where this appendix is silent, the
+appropriate article in the collective agreement applies
+
+This shift schedule can be used for work greater than two (2) weeks in duration, however,
+it is recognized that unforeseen circumstances may require the cancellation of this
+schedule.
+
+If in the transition onto or off this 7 day shift schedule an employee would receive less
+than 40 paid hours in a pay period, the employee shall receive the difference between the
+total paid hours for that pay period and 40 hours pay. This does not apply to those
+employees who are laid off during or at the end of the schedule. The employee(s) shift
+schedule consists of four consecutive shifts (day, afternoon, or night) followed by four
+scheduled days off. Shift overlap may be required.
+
+Shift work may be established by the employer to provide seven (7) days per week work
+coverage, on a one (1), two (2), or three (3) shift per day basis. When this occurs, a
+specific shift arrangement will be established by the employer detailing the shift schedule
+to be worked. The employer will provide the Union with forty-eight (48) hours notice
+prior to the implementation of these shift provisions.
+
+Day Shift
+
+Regularly scheduled hours of work Monday to Friday inclusive shall be paid at straight
+time hourly rates.
+
+Afternoon Shift
+
+Regularly scheduled hours of work, Monday to Friday inclusive shall be paid at straight
+time hourly rates plus a shift differential of one-fifth (1/5) when working a two-shift or
+three-shift operation of the straight time hourly rate.
+
+Night Shift
+
+Regularly scheduled hours of work, Monday to Friday inclusive shall be paid at straight
+time hourly rates plus a shift differential of one-fifth (1/5) of the straight time hourly rate.
+
+All Shifts
+
+Regularly scheduled hours of work on Saturday, Sunday, Statutory and Recognized
+Holidays shall be paid at two (2) times the straight time hourly rate. Recognized Holidays
+will be observed on the actual day on which the holiday occurs or as declared by
+legislation.
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                            Page 51
+The rate for the shift will be based on the day in which the shift begins.
+
+An unpaid lunch period of one-half (1/2) hour shall be allowed to be taken no later than
+five (5) hours after the commencement of a shift.
+
+For employees working regularly scheduled hours, two (2) fifteen (15) minute rest periods
+will be allotted at a time and location directed by the employer for employees to rest.
+
+It may be necessary, from time to time, to vary the established shift arrangements. When
+this occurs, a revised shift arrangement will be established.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                      Page 52
+              APPENDIX B 7 DAY COVERAGE – NUCLEAR SITES ONLY
+
+This shift schedule is intended for work greater than four (4), eight (8) day cycles (32 days) in
+duration, however, it is recognized that unforeseen circumstances may require the cancellation of
+this schedule.
+
+If in the transition onto or off this 7-day shift schedule an employee would receive less than 40
+paid hours in a pay period, the employee shall receive the difference between the total paid hours
+for that pay period and 40 hours pay. This does not apply to those employees who are laid off
+during or at the end of the schedule.
+
+The employee(s) shift schedule consists of four consecutive shifts (day, afternoon, or night)
+followed by four scheduled days off. Shift overlap may be required.
+
+Shift work may be established by the employer to provide seven days per week work coverage,
+on a one, two, or three shift per day basis. When this occurs, a specific shift arrangement will be
+established by the employer detailing the shift schedule to be worked. The employer will
+provide the Union with seven (7) calendar days’ notice prior to the implementation of these shift
+provisions.
+
+First Shift (Day Shift)
+
+Regularly scheduled hours of work of ten (10) hours per shift Monday to Friday inclusive shall
+be paid at straight time hourly rates.
+
+Second Shift (Afternoon Shift)
+
+Regularly scheduled hours of work of ten (10) hours per shift Monday to Friday inclusive shall
+be paid at straight time hourly rates plus the applicable shift differential per the collective
+agreement. For clarity, the shift differential for those employees working the afternoon shift
+when a two-shift or three-shift operation has been established by the Employer will be one-fifth
+(1/5) for scheduled hours worked on that shift.
+
+Third Shift (Night Shift)
+
+Regularly scheduled hours of work of ten (10) hours per shift Monday to Friday inclusive shall
+be paid at straight time hourly rates plus the applicable shift differential per the collective
+agreement.
+
+All Shifts
+
+Regularly scheduled hours of work on Saturday and Sunday shall be paid at two (2) times the
+straight time hourly rate.
+
+Statutory and Recognized Holidays and non-shift days shall be paid at two times the straight
+time hourly rate. Recognized Holidays will be observed on the actual day on which the holiday
+occurs or as declared by legislation.
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 53
+The rate for the shift will be based on the day in which the shift begins.
+
+An unpaid lunch period of one-half hour shall be allowed to be taken no later than five hours
+after the commencement of a shift.
+
+For employees working regularly scheduled hours, two fifteen (15) minute rest periods will be
+allotted at a time and location directed by the employer for employees to rest.
+
+It may be necessary, from time to time, to vary the established shift arrangements. When this
+occurs, a revised shift arrangement will be established.
+
+Overtime will be in accordance with the provisions of the collective agreement.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                      Page 54
+     APPENDIX C NEGOTIATION FOR MAJOR REFURBISHMENTS/OUTAGES
+
+
+During the course of this Collective Agreement the parties will meet and negotiate terms and
+conditions for Nuclear sites that will establish the framework for Major Refurbishments and/ or
+Outages. All changes must be mutually agreed upon.
+
+This Appendix will come into effect at the date of the successful completion of those negotiations
+and will form part of the IBEW CCO /EPSCA Agreement.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                      Page 55
+           LETTER OF UNDERSTANDING #1: EMPLOYMENT REFERRALS
+
+
+
+It is agreed by the parties to this understanding that, prior to any member being referred for
+employment, the member must submit to a security check. Only members who successfully obtain
+security clearance will be referred to the facility for employment. Once these referrals have been
+hired on, they will be paid fifty ($50.00) dollars on their first week’s pay cheque, in consideration of
+their time spent filling out the security clearance forms.
+
+The Union will be notified, as soon as possible, whether or not an individual has successfully
+obtained security clearance. This pre-clearance process does not prohibit the Union from filing a
+grievance against the Employer on behalf of any member who is refused employment due to their
+failure to obtain security clearance.
+
+Dated at Toronto this 23rd Day of April, 1999
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                         Page 56
+                              LETTER OF UNDERSTANDING #2
+
+
+As discussed during negotiations, in order to ensure an adequate supply of qualified tradespeople
+for employment opportunities, it is agreed that the IBEW EPCO and/or Local Union(s) will
+cooperate in a training process as follows:
+
+When it is determined that a requirement can be foreseen for IBEW/Local Union members with
+particular skills or qualifications, the Employer will provide the instructor(s) and the facilities at
+their cost and the IBEW members, on their own time, will attend such training courses to acquire
+such skills and/or qualifications.
+
+
+Dated this 14 day of May, 2020 at Toronto, Ontario.
+
+
+
+       FOR EPSCA
+
+
+
+
+                                                    FOR the IBEW EPCO
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                          Page 57
+   LETTER OF UNDERSTANDING #3: LOCAL AREA HIRING HALL PRACTICES
+
+                                 LETTER OF UNDERSTANDING
+
+                                             BETWEEN
+
+     THE ELECTRICAL POWER SYSTEMS CONSTRUCTION ASSOCIATION (EPSCA)
+
+                                                   AND
+
+             THE IBEW CONSTRUCTION COUNCIL OF ONTARIO (IBEW CCO)
+
+Mr. Barry Roberts, Chairman
+EPSCA Negotiating Committee
+
+Dear Sir:
+
+The IBEW CCO/EPSCA Negotiating Committees agree to the following:
+
+Regarding:     LOCAL AREA HIRING HALL PRACTICES
+
+It is agreed that Local area Hiring Hall practices shall be available to the Employers under this
+Agreement.
+
+Dated this 23rd Day of April 1999
+
+Expiry: Duration of this Collective Agreement
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 58
+               LETTER OF UNDERSTANDING # 4: CLARIFICATION NOTE
+
+
+                               LETTER OF UNDERSTANDING
+
+                                           BETWEEN
+
+    THE ELECTRICAL POWER SYSTEMS CONSTRUCTION ASSOCIATION (EPSCA)
+
+                                              AND
+
+              THE IBEW CONSTRUCTION COUNCIL OF ONTARIO (IBEW CCO)
+
+
+
+
+As discussed in negotiations, the Employment Practices/Hiring provisions in Section 7 allow for
+the transfer of personnel within a Local Union’s geographic jurisdiction (as described in Article
+202 A) within the Power Sector, e.g. from one contract to another contract on the same project
+site and/or from project site to project site.
+
+
+
+For the IBEW:
+                                                                   For the EPSCA:
+
+
+
+John Pender                                                        Neil Donnell
+________________________
+                                                                   ________________________
+                                                            ___
+John D. Pender
+                                                                   Neil Donnelly
+
+
+          Larry Lineham                                            Denis Flyn
+_______________________
+                                                                   ________________________
+                                                            ___
+Larry Lineham
+                                                                   Denis Flynn
+
+
+                                                                   Jack Gibson
+                                                            ___________________________
+                                                            Jack Gibson
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                      Page 59
+LETTER OF UNDERSTANDING #5: CLARIFICATION NOTE – REPLACEMENT OF
+                    TRAVEL CARD MEMBERS
+
+                                           BETWEEN
+
+    THE ELECTRICAL POWER SYSTEMS CONSTRUCTION ASSOCIATION (EPSCA)
+
+                                              AND
+
+        THE IBEW ELECTRICAL POWER COUNCIL OF ONTARIO (IBEW EPCO)
+
+
+
+
+As discussed in negotiations, in cases relating to Article 701 A (iv), the Local Union will notify
+the Employer and the EPSCA Office in writing at the time it seeks to replace a travel card with a
+Local Union member who does not possess the owner specific training required.
+
+In these instances, the Employer will provide such training when the training is available and
+Local member, on their own time, will complete such training before they can replace a travel
+card.
+
+
+Dated this 15th day of May, 2004 at Toronto, Ontario.
+
+
+
+
+       FOR EPSCA                                     FOR the IBEW EPCO
+
+             Dave Radtke                                     Jack Dowding
+       _______________________                       _________________________
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                       Page 60
+    LETTER OF UNDERSTANDING #6: BOARD ALLOWANCE ON 4 X 10 SHIFT
+                           SCHEDULE
+
+                                           BETWEEN
+
+    THE ELECTRICAL POWER SYSTEMS CONSTRUCTION ASSOCIATION (EPSCA)
+
+                                              AND
+
+                THE IBEW ELECTRICAL POWER COUNCIL OF ONTARIO
+
+
+
+In accordance with Article 1101 A (ii) f, when an employee’s regular residence is greater than
+480 road kilometers from the following projects: White Dog Falls GS, Caribou Falls GS,
+Manitou Falls GS and Ear Falls GS, and a 4x10 shift schedule is established, an employee in
+receipt of Room and Board allowance shall receive Room and Board allowance on a five (5) day
+basis for a regular work week. Room and Board will only be paid for the fifth day when proof is
+provided that the temporary residence is being maintained for the full five (5) days. If the
+employee is required to work an additional ten (10) hour shift(s) beyond the normal four ten (4 x
+10) shift, the employee will be entitled to room and board for an additional ten (10) hour shift
+worked to a maximum seven (7) days room and board in a week.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                      Page 61
+       LETTER OF UNDERSTANDING #7: FOR OPG CONSTRUCTION PROJECTS
+            WITHIN THE GEOGRAPHIC AREA OF LOCALS 402 AND 1687
+
+
+
+   •    EPSCA, the Union and OPG will review, on a project by project basis, the travel, board
+        and initial/return travel provisions to be determine if they are adequate;
+
+   •    Considerations include but are not limited to, the location of the work, availability of
+        accommodations, travel time, etc.;
+
+   •    The review will normally be conducted as part of the pre-bid information process
+        (i.e., prior to awarding the final contract);
+
+   •    If new conditions arise EPSCA, the Union, and OPG will attempt to rectify the situation
+        within seven (7) days of being notified by either party;
+
+   •    If special funding is found to be unnecessary, the existing collective agreement
+        provisions will apply.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                         Page 62
+       LETTER OF UNDERSTANDING #8: 6X3 SCHEDULE – NUCLEAR ONLY
+
+                                            BETWEEN
+
+    THE ELECTRICAL POWER SYSTEMS CONSTRUCTION ASSOCIATION (EPSCA)
+
+                                                AND
+
+                 THE IBEW ELECTRICAL POWER COUNCIL OF ONTARIO
+
+
+
+RE: 6X3 SCHEDULE- NUCLEAR ONLY
+
+
+When working under the provisions of this LOU, all conditions listed below will supersede those
+contained in the main agreement. Where this LOU is silent, the appropriate Section in the
+Collective Agreement applies.
+
+This shift schedule is intended for work durations of greater than sixty-three (63) days, however,
+it is recognized that unforeseen circumstances may require an interruption, suspension or
+cancellation of this schedule.
+
+If in the transition onto or off this schedule, other than a layoff, an employee would receive less
+than 40 paid hours in a pay period, the employee shall receive the difference between the total
+paid hours for that pay period and 40 hours pay. This does not apply to those employees who are
+laid off during or at the end of the schedule.
+
+This schedule will consist of rotations of six (6) consecutive eight (8) hour shifts at straight time,
+with overtime as required, followed by three (3) consecutive days off. Where this schedule is
+utilized, there will be a scheduled rest rotation where the employee will not be scheduled to work
+– this scheduled rest rotation will occur on every 8th rotation. Overlap of shift and/or start/finish
+times may be required.
+
+Shift work may be established by the employer on a two or three, eight (8) hour per day shift
+basis, with overtime as required. When this occurs, a specific shift arrangement will be
+established by the employer detailing the shift schedule to be worked.
+
+Where an employee works a full rotation before and after the scheduled rest rotation, with the
+exception of approved time off by the employer, the employer will pay the applicable room and
+board for the six (6) days on the scheduled rest rotation no later than the end of the third rotation
+following the end of the scheduled rest rotation.
+
+Shift changes amongst employees must be authorized by the employer.
+
+If an Employer intends to assign employees to this schedule, notice of at least ninety (90)
+calendar days will be provided to the union, or less upon mutual agreement between the local
+business manager and EPSCA.
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                          Page 63
+Any disputes that arise from the application of this schedule shall be referred to the Nuclear
+Projects Agreement Project Committee.
+
+Shift Provisions
+
+Day Shift
+Regularly scheduled hours of work of eight (8) hours per shift Monday to Friday inclusive shall
+be paid at straight time hourly rates.
+
+Afternoon Shift
+Regularly scheduled hours of work of eight (8) hours per shift Monday to Friday inclusive shall
+be paid at straight time hourly rates plus a shift differential of one-fifth (1/5) of the straight time
+hourly rate.
+
+Night Shift
+Regularly scheduled hours of work of eight (8) hours per shift Monday to Friday inclusive shall
+be paid at straight time hourly rates plus a shift differential of one-fifth (1/5) of the straight time
+hourly rate.
+
+All Shifts
+Regularly scheduled hours of work on Saturday, Sunday, Statutory, Recognized Holidays, and
+non-shift days shall be paid at two times the straight time hourly rate. Recognized Holidays will
+be observed on the actual day on which the holiday occurs or as declared by legislation.
+
+The rate for the shift will be based on the day in which the shift begins.
+
+It may be necessary, from time to time, to vary the established shift arrangements. When this
+occurs, a revised shift arrangement will be established by the employer.
+
+Overtime Rates
+This is to clarify that overtime will be paid in accordance with Section 806 – Overtime.
+
+Dated this 14 day of May, 2020 at Toronto, Ontario.
+       FOR EPSCA                                    FOR the IBEW EPCO
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                            Page 64
+ LETTER OF UNDERSTANDING #9: TAXABLE ACCOMODATION BENEFIT (TAB)
+
+                                            BETWEEN
+
+    THE ELECTRICAL POWER SYSTEMS CONSTRUCTION ASSOCIATION (EPSCA)
+
+                                               AND
+
+                THE IBEW ELECTRICAL POWER COUNCIL OF ONTARIO
+
+
+
+For the duration of this Letter of Understanding, Section 1100 A. (v) will be suspended, and the
+terms outlined in this LOU will take precedence.
+
+For employees that do not qualify for Room and Board allowance under the collective agreement
+in Section 1101, and live greater than 110 road-driven kilometers from the project, they shall
+receive $100.00 per day worked or reported for. To qualify, an employee must maintain
+temporary accommodation at or near the project site and provide evidence of their financial
+commitment. The Employer retains the right to request receipts for the purpose of verifying
+ongoing eligibility. For clarity, this is a taxable allowance, and employees will not be entitled to
+receive both daily travel allowance and TAB.
+
+This LOU will come to an end with the collective agreement expiry. The parties shall convene
+after November 1, 2027, to assess this LOU. Subsequently, either party may exercise the option
+to provide written notice and opt out of this LOU if the intent is not met.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                                        Page 65
+LETTER OF UNDERSTANDING #10: WAGE SCHEDULE – TRAINING CHECK-OFF
+
+                                           BETWEEN
+
+    THE ELECTRICAL POWER SYSTEMS CONSTRUCTION ASSOCIATION (EPSCA)
+
+                                              AND
+
+                THE IBEW ELECTRICAL POWER COUNCIL OF ONTARIO
+
+
+
+The Parties agree there will be a balanced apprentice ratio on site. There will
+continue to be apprentices dispatched within Local 353 jurisdiction as requested.
+
+The parties agree to incorporate a check off in the Local 353 wage schedule that
+indicates a contribution for the training and provision of apprentices in the amount of
+$0.18 (eighteen cents) for every hour worked under the Local 353 Wage Schedule.
+Upon renewal of the Collective Agreement on May 1, 2025, the current EPSCA -
+GTECA funding MOA shall be terminated as per the terms of the originally signed
+MOAs between GTECA and EPSCA.
+
+IBEW Local 353 agrees with the change in the funding arrangement and that
+apprentices will continue to be dispatched to the EPSCA sector out of Local 353.
+
+
+
+
+EPSCA/IBEW CCO Collective Agreement - Generation
+May 1, 2025 to April 30, 2030                                              Page 66
+

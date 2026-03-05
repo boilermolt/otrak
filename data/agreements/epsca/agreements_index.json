@@ -1,0 +1,218 @@
+[
+  {
+    "file": "BACU - 2025-2030 Collective Agreement.pdf",
+    "pages": 55,
+    "text_path": "data/agreements/epsca/text/BACU - 2025-2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/BACU - 2025-2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Boilermakers - 2025 to 2030 Collective Agreement 20251024.pdf",
+    "pages": 69,
+    "text_path": "data/agreements/epsca/text/Boilermakers - 2025 to 2030 Collective Agreement 20251024.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Boilermakers - 2025 to 2030 Collective Agreement 20251024.jsonl"
+  },
+  {
+    "file": "Boilermakers Nuclear Project Agreement.pdf",
+    "pages": 9,
+    "text_path": "data/agreements/epsca/text/Boilermakers Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Boilermakers Nuclear Project Agreement.jsonl"
+  },
+  {
+    "file": "Carpenters Nuclear Project Agreement.pdf",
+    "pages": 9,
+    "text_path": "data/agreements/epsca/text/Carpenters Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Carpenters Nuclear Project Agreement.jsonl"
+  },
+  {
+    "file": "Carpenters- 2025-2030 Collective Agreement.pdf",
+    "pages": 85,
+    "text_path": "data/agreements/epsca/text/Carpenters- 2025-2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Carpenters- 2025-2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Cement Mason Nuclear Project Agreement.pdf",
+    "pages": 10,
+    "text_path": "data/agreements/epsca/text/Cement Mason Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Cement Mason Nuclear Project Agreement.jsonl"
+  },
+  {
+    "file": "Cement Masons - 2025-2030 Collective Agreement.pdf",
+    "pages": 54,
+    "text_path": "data/agreements/epsca/text/Cement Masons - 2025-2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Cement Masons - 2025-2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Collective Agreement-Operating Engineers - May 1 2025 to April 30 2030.pdf",
+    "pages": 97,
+    "text_path": "data/agreements/epsca/text/Collective Agreement-Operating Engineers - May 1 2025 to April 30 2030.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Collective Agreement-Operating Engineers - May 1 2025 to April 30 2030.jsonl"
+  },
+  {
+    "file": "IBEW Generation- 2025-2030 Collective Agreement.pdf",
+    "pages": 67,
+    "text_path": "data/agreements/epsca/text/IBEW Generation- 2025-2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/IBEW Generation- 2025-2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "IBEW Nuclear Project Agreement.pdf",
+    "pages": 9,
+    "text_path": "data/agreements/epsca/text/IBEW Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/IBEW Nuclear Project Agreement.jsonl"
+  },
+  {
+    "file": "IBEW Transmission - 2025-2030 Collective Agreement.pdf",
+    "pages": 50,
+    "text_path": "data/agreements/epsca/text/IBEW Transmission - 2025-2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/IBEW Transmission - 2025-2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Insulators Nuclear Project Agreement.pdf",
+    "pages": 9,
+    "text_path": "data/agreements/epsca/text/Insulators Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Insulators Nuclear Project Agreement.jsonl"
+  },
+  {
+    "file": "Insulators- 2025 to 2030 Collective Agreement.pdf",
+    "pages": 60,
+    "text_path": "data/agreements/epsca/text/Insulators- 2025 to 2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Insulators- 2025 to 2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Ironworker - 2025 - 2030 Collective Agreement.pdf",
+    "pages": 74,
+    "text_path": "data/agreements/epsca/text/Ironworker - 2025 - 2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Ironworker - 2025 - 2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Ironworkers Nuclear Project Agreement .pdf",
+    "pages": 9,
+    "text_path": "data/agreements/epsca/text/Ironworkers Nuclear Project Agreement .txt",
+    "chunks_path": "data/agreements/epsca/chunks/Ironworkers Nuclear Project Agreement .jsonl"
+  },
+  {
+    "file": "Labourers Generation - 2025-2030 Collective Agreement.pdf",
+    "pages": 67,
+    "text_path": "data/agreements/epsca/text/Labourers Generation - 2025-2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Labourers Generation - 2025-2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Labourers Transmission - 2025 - 2030 Collective Agreement.pdf",
+    "pages": 67,
+    "text_path": "data/agreements/epsca/text/Labourers Transmission - 2025 - 2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Labourers Transmission - 2025 - 2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Millwrights Nuclear Project Agreement.pdf",
+    "pages": 9,
+    "text_path": "data/agreements/epsca/text/Millwrights Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Millwrights Nuclear Project Agreement.jsonl"
+  },
+  {
+    "file": "Millwrights_2025-2030 Collective Agreement.pdf",
+    "pages": 76,
+    "text_path": "data/agreements/epsca/text/Millwrights_2025-2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Millwrights_2025-2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "OE Nuclear Project Agreement (1).pdf",
+    "pages": 7,
+    "text_path": "data/agreements/epsca/text/OE Nuclear Project Agreement (1).txt",
+    "chunks_path": "data/agreements/epsca/chunks/OE Nuclear Project Agreement (1).jsonl"
+  },
+  {
+    "file": "Painters Nuclear Project Agreement.pdf",
+    "pages": 9,
+    "text_path": "data/agreements/epsca/text/Painters Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Painters Nuclear Project Agreement.jsonl"
+  },
+  {
+    "file": "Painters- 2025-2030 Collective Agreement.pdf",
+    "pages": 62,
+    "text_path": "data/agreements/epsca/text/Painters- 2025-2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Painters- 2025-2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Plasterers - 2025-2030 Collective Agreement.pdf",
+    "pages": 70,
+    "text_path": "data/agreements/epsca/text/Plasterers - 2025-2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Plasterers - 2025-2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Plasterers Nuclear Project Agreement.pdf",
+    "pages": 10,
+    "text_path": "data/agreements/epsca/text/Plasterers Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Plasterers Nuclear Project Agreement.jsonl"
+  },
+  {
+    "file": "Rodmen - 2025 to 2030 Collective Agreement.pdf",
+    "pages": 71,
+    "text_path": "data/agreements/epsca/text/Rodmen - 2025 to 2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Rodmen - 2025 to 2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Rodmen Nuclear Project Agreement.pdf",
+    "pages": 9,
+    "text_path": "data/agreements/epsca/text/Rodmen Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Rodmen Nuclear Project Agreement.jsonl"
+  },
+  {
+    "file": "Roofers - 2025 to 2030 Collective Agreement.pdf",
+    "pages": 54,
+    "text_path": "data/agreements/epsca/text/Roofers - 2025 to 2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Roofers - 2025 to 2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Roofers Nuclear Project Agreement.pdf",
+    "pages": 9,
+    "text_path": "data/agreements/epsca/text/Roofers Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Roofers Nuclear Project Agreement.jsonl"
+  },
+  {
+    "file": "Sheet Metal - 2025-2030 Collective Agreement.pdf",
+    "pages": 64,
+    "text_path": "data/agreements/epsca/text/Sheet Metal - 2025-2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Sheet Metal - 2025-2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Sheet Metal Nuclear Project Agreement.pdf",
+    "pages": 9,
+    "text_path": "data/agreements/epsca/text/Sheet Metal Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Sheet Metal Nuclear Project Agreement.jsonl"
+  },
+  {
+    "file": "Teamsters - 2025 to 2030 Collective Agreement.pdf",
+    "pages": 85,
+    "text_path": "data/agreements/epsca/text/Teamsters - 2025 to 2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Teamsters - 2025 to 2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Teamsters Nuclear Project Agreement.pdf",
+    "pages": 9,
+    "text_path": "data/agreements/epsca/text/Teamsters Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Teamsters Nuclear Project Agreement.jsonl"
+  },
+  {
+    "file": "Tile and Terrazzo - 2025-2030 Collective Agreement.pdf",
+    "pages": 51,
+    "text_path": "data/agreements/epsca/text/Tile and Terrazzo - 2025-2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Tile and Terrazzo - 2025-2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "Tile and Terrazzo Nuclear Project Agreement.pdf",
+    "pages": 9,
+    "text_path": "data/agreements/epsca/text/Tile and Terrazzo Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/Tile and Terrazzo Nuclear Project Agreement.jsonl"
+  },
+  {
+    "file": "UA - 2025-2030 Collective Agreement.pdf",
+    "pages": 72,
+    "text_path": "data/agreements/epsca/text/UA - 2025-2030 Collective Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/UA - 2025-2030 Collective Agreement.jsonl"
+  },
+  {
+    "file": "UA Nuclear Project Agreement.pdf",
+    "pages": 9,
+    "text_path": "data/agreements/epsca/text/UA Nuclear Project Agreement.txt",
+    "chunks_path": "data/agreements/epsca/chunks/UA Nuclear Project Agreement.jsonl"
+  }
+]

@@ -1,0 +1,2815 @@
+       COLLECTIVE AGREEMENT
+
+
+
+                BETWEEN
+
+
+    THE ELECTRICAL POWER SYSTEMS
+      CONSTRUCTION ASSOCIATION
+
+                (EPSCA)
+
+
+                  AND
+
+
+THE ONTARIO COUNCIL of the INTERNATIONAL
+  UNION OF PAINTERS AND ALLIED TRADES
+
+              (THE UNION)
+
+
+
+
+       MAY 1, 2025 – APRIL 30, 2030
+CONTENTS
+ARTICLE 1 RECOGNITION ....................................................................................................... 2
+ARTICLE 2 CLASSIFICATIONS ................................................................................................ 3
+ARTICLE 3 FORM OF AGREEMENT ........................................................................................ 3
+ARTICLE 4 EXECUTIVE COMMITTEES .................................................................................. 4
+ARTICLE 5 PROJECT COMMITTEES ....................................................................................... 4
+ARTICLE 6 ACCREDITED UNION REPRESENTATIVES ...................................................... 5
+ARTICLE 7 UNION STEWARDS ................................................................................................ 5
+ARTICLE 8 ADVANCE NOTICE ................................................................................................ 6
+ARTICLE 9 WORK ASSIGNMENT ............................................................................................ 6
+ARTICLE 10 JURISDICTIONAL DISPUTES ............................................................................ 8
+ARTICLE 11 UNION SECURITY ............................................................................................. 10
+ARTICLE 12 EMPLOYMENT ................................................................................................... 11
+ARTICLE 13 LAYOFF PROCEDURE ....................................................................................... 13
+ARTICLE 14 RECALL PROCEDURE ....................................................................................... 14
+ARTICLE 15 HOURS OF WORK .............................................................................................. 14
+ARTICLE 16 OVERTIME RATES ............................................................................................. 15
+ARTICLE 17 STATUTORY HOLIDAY AND VACATION PAY ............................................... 16
+ARTICLE 18 WAGES ................................................................................................................. 17
+ARTICLE 19 PAY PROCEDURE .............................................................................................. 17
+ARTICLE 20 BENEFITS ........................................................................................................... 19
+ARTICLE 21 CALL-IN PAY....................................................................................................... 20
+ARTICLE 22 REPORTING PAY ................................................................................................ 20
+ARTICLE 23 INCLEMENT WEATHER PAY ........................................................................... 20
+ARTICLE 24 GENERATION PROJECTS DAILY TRAVEL ALLOWANCE AND ROOM AND
+BOARD ........................................................................................................................................ 21
+ARTICLE 25 TRAVEL AND TRANSPORTATION .................................................................. 24
+ARTICLE 26 STANDOFF .......................................................................................................... 25
+ARTICLE 27 REST PERIOD ..................................................................................................... 25
+ARTICLE 28 LUNCHROOM FACILITIES ............................................................................... 26
+ARTICLE 29 MEALS ON OVERTIME ..................................................................................... 26
+ARTICLE 30 TOOLS AND CLOTHING.................................................................................... 27
+ARTICLE 31 PROTECTIVE CLOTHING AND EQUIPMENT ............................................... 28
+ARTICLE 32 APPRENTICESHIP AND TRADES TRAINING ................................................ 28
+ARTICLE 33 GRIEVANCE PROCEDURE ............................................................................... 29
+ARTICLE 34 ARBITRATION .................................................................................................... 31
+ARTICLE 35 ASSOCIATION FUND ......................................................................................... 32
+ARTICLE 36 RADIATION WORK ............................................................................................ 32
+ARTICLE 37 INDIGENOUS CONTENT COMMITMENT ...................................................... 33
+ARTICLE 38 NO STRIKE - NO LOCKOUT ............................................................................. 33
+ARTICLE 39 EQUITY, DIVERSITY AND INCLUSION.......................................................... 33
+ARTICLE 40 RESPECT IN THE WORKPLACE ...................................................................... 33
+ARTICLE 41 HELMETS TO HARDHATS ................................................................................ 33
+ARTICLE 42 TERM OF AGREEMENT .................................................................................... 34
+APPENDIX A TOOL LIST ......................................................................................................... 35
+APPENDIX B FOREPERSON APPENDIX............................................................................... 37
+APPENDIX C MOOSE RIVER BASIN: NORTHERN ONTARIO............................................ 40
+APPENDIX D 7-DAY COVERAGE NUCLEAR SITES ............................................................ 42
+APPENDIX E 7-DAY COVERAGE HYDRO ONE (LINES AND STATIONS) ....................... 44
+APPENDIX F LINES AND STATIONS .................................................................................... 46
+STATEMENT OF UNDERSTANDING NO. 1 .......................................................................... 52
+STATEMENT OF UNDERSTANDING NO. 2 .......................................................................... 53
+LETTER OF UNDERSTANDING NO. 1 ................................................................................... 54
+LETTER OF UNDERSTANDING NO. 2 ................................................................................... 55
+LETTER OF UNDERSTANDING NO. 3 ................................................................................... 56
+LETTER OF UNDERSTANDING NO. 4 ................................................................................... 58
+                                         COLLECTIVE AGREEMENT
+
+                                                  by and between
+
+       THE ELECTRICAL POWER SYSTEMS CONSTRUCTION ASSOCIATION
+
+                                         (hereinafter called EPSCA)
+
+                                                        and the
+
+                      ONTARIO COUNCIL of the INTERNATIONAL UNION
+                           OF PAINTERS AND ALLIED TRADES
+
+                                       (hereinafter called the Union)
+
+
+
+
+WHEREAS EPSCA is an Association formed to represent Employers in collective bargaining
+and on their behalf enter into collective agreements covering those of their employees in the
+bargaining unit as hereinafter defined;
+
+
+AND WHEREAS it is the desire of the parties to conclude an agreement with a new concept
+designed to bring stability, harmony, and an effective method to amicably resolve problems in
+the electrical power systems sector of the construction industry, in the Province of Ontario;
+
+
+NOW THEREFORE the parties hereby agree as follows:
+
+
+
+
+1    Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+     May 1, 2025 – April 30, 2030
+                                         Article 1 RECOGNITION
+
+1.1        EPSCA recognizes the Union as the exclusive bargaining agent for a bargaining unit
+           comprising employees as defined in Section 1.3 and forepersons as defined in Section
+           1.4 engaged in all construction industry work* performed in the Province of Ontario on
+           Ontario Power Generation, Bruce Power and Hydro One property for the bulk power
+           system, save and except the building of commercial-type office facilities at urban
+           locations remote from operating facilities.
+
+           For the purpose of clarity, the bulk power system comprises generating stations,
+           hydraulic works, heavy water facilities, transmission lines (voltages over 50 kV),
+           transmission stations, microwave and repeater stations.
+
+1.2        The Union recognizes EPSCA as the exclusive bargaining representative for all
+           Employers in respect of work performed by their respective employees in the
+           bargaining unit set forth in Section 1.1.
+
+1.3        The term "employee" shall include all employees of the Employers in the
+           classifications set out in Article 2.
+
+           The term "employee" includes forepersons in Articles 15, 19, 21, 22, 25, 1 (Appendix
+           F), 2 (Appendix F), 26, 27, 28, 29, 30.1 and in the applicable Statutory Holiday and
+           Vacation Pay Article of this Agreement.
+
+1.4         The term "foreperson" shall include all forepersons of the Employers between the
+           ranks of, but not including, working foreperson and general foreperson.
+
+1.5        The term "Employers" shall include individual members of EPSCA and any company,
+           partnership, sole proprietorship, joint venture, contractor, subcontractor or any person
+           that is bound by the terms and conditions of this Agreement.
+
+1.6        EPSCA and the Union agree the use of nomenclature is meant to refer to both
+           genders.
+
+       *          For the purpose of The Electrical Power Systems Construction
+                  Association, the work performed is deemed to be under the responsibility
+                  of the Engineering and Construction Services Branch. The work
+                  encompasses:
+
+                  - construction of new facilities
+                  - additions to existing facilities
+                  - major    - modifications
+                             - rehabilitation
+                             - reconstruction of existing facilities
+
+
+
+
+2     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+                                     Article 2 CLASSIFICATIONS
+
+EPSCA and the Union have agreed to the following conditions to apply to employees in
+classifications listed below.
+
+2.1        The following is a list of classifications covered by this Appendix:
+
+           Painter and Allied Trades
+
+           Brush Painter
+           Spray Painter
+           Paper Hanger and Fabric Hanger
+           Sandblaster
+           Wall Coverings Applicator
+           Sign Writer
+           Subforeperson
+           Apprentice
+           Asbestos Remover and Trainee
+           Glass and Metal Technician
+           Glazier Metal Mechanic Apprentice
+           Drywall Taper
+           Drywall Taper Apprentice
+           Lead Abatement Worker
+
+           The "classifications" referred to above do not establish craft jurisdiction. Such
+           jurisdiction is established in accordance with Articles 9 and 10 of this Collective
+           Agreement.
+
+2.2        An Apprentice is an employee in training who has been registered with the Ministry of
+           Colleges, Training and Universities through the Union.
+
+2.3        Working Forepersons
+
+           Where the crew size is (5) or less, the foreperson may work with the tools.
+
+                                 Article 3 FORM OF AGREEMENT
+
+3.1        This Agreement shall apply to employees and to forepersons who work for
+           Employers while such employees and forepersons are engaged in work as described
+           in Article 1, Recognition.
+
+           There shall be an appendix negotiated by the Union for forepersons. The agreement
+           and the Foreperson’s appendix shall apply province-wide.
+
+
+
+
+3     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+                              Article 4 EXECUTIVE COMMITTEES
+
+4.1       The Union and EPSCA shall each appoint an Executive Committee. The Executive
+          Committee of EPSCA shall consist of the Board of Directors and the officers of
+          EPSCA. The Executive Committee of the Union shall consist of the officers of the
+          Union and the senior representative of the Union. The Committees will meet together
+          at least annually to review matters associated with the administration of this Collective
+          Agreement, with the intent that administrative policies will be formulated for
+          consideration by each Executive Committee. The Executive Committees will also
+          meet together to receive reports of joint committees established under this
+          Agreement.
+
+                                Article 5 PROJECT COMMITTEES
+
+5.1       A Project Committee shall be established for each of the Major Projects and the Lines
+          and Stations Construction Zone.
+
+5.2        The Committee will be responsible for conducting EPSCA/Union concerns for each
+          Major Project and will meet as necessary to deal with working and living conditions on
+          the job, excluding matters which may be grieved or negotiated and disputes involving
+          work assignments.
+
+5.3       On the part of EPSCA, each Project Committee shall be comprised of appropriate
+          representatives, including contractors. In addition, the officers of EPSCA are ex
+          officio members of this Committee.
+
+5.4       On the part of the Union, each Project Committee shall be comprised of appropriate
+          representatives. In addition, the officers of the Union are ex officio members of this
+          Committee.
+
+5.5       The chairperson of each EPSCA Project Committee shall be appointed by EPSCA.
+
+5.6        The chairperson of each Union Project Committee shall be appointed by the Union
+           members.
+
+5.7        Chairpersonship of the meetings will alternate between the EPSCA Project
+           Committee chairperson and the Union Project Committee chairperson.
+
+5.8       Answers to questions raised by either party shall be given, in writing, within five (5)
+          working days of the meeting by the party answering the questions to the party who
+          raised the questions.
+
+5.9        When an urgent answer is needed to a problem not relevant to negotiation, grievance
+           or work assignment, the Project Committee will be called to meet within forty-eight
+           (48) hours, where practicable, to deal with the problem. The Committee's answer will
+           be given, in writing, to the party raising the question within forty-eight (48) hours of
+           the meeting.
+
+           EPSCA and the Union will set the time and place of all Project Committee meetings.
+
+4     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+                Article 6 ACCREDITED UNION REPRESENTATIVES
+
+6.1       The senior representative of the Union will designate local Union representatives as
+          Accredited Union Representatives to handle the day-to-day administration of this
+          Agreement on the basis of not more than two representatives from each Union for
+          each Major Project and a suitable number for the Lines and Stations Construction
+          Zone. The Union will notify the General Manager of EPSCA, in writing, of the names
+          of such Union representatives, or alternates in the event of illness or unavailability, so
+          that they may be issued identification cards to permit entry to the site. Such
+          representatives, after identifying themselves to the EPSCA representative upon
+          entering the job site, will be free to observe the progress and conduct of the work and
+          to conduct normal Union business. The Union undertakes that these representatives
+          will not hinder or interfere in any way with the said work.
+
+6.2       An Accredited Union Representative may be appointed by the International
+          Representative to be their designate in matters requiring the involvement of the
+          International Representative.
+
+          The International Representative will inform EPSCA, in writing, of the name, duration
+          of, appointment and function of such designate.
+
+                                     Article 7 UNION STEWARDS
+
+7.1       Accredited Union Representatives shall inform the appropriate EPSCA
+          Representative and the Employer of the steward, in writing, of the names of all
+          stewards, one of whom shall be designated Chief Steward, as they are appointed and
+          when they cease to act as stewards. A steward, other than a Chief Steward, shall
+          exercise their duties only in respect to employees of their Employer. A Chief
+          Steward, in order to carry out their duties in respect to employees of other than their
+          Employer, shall first involve the EPSCA Representative. Any steward shall obtain
+          permission from their immediate supervisor before leaving their work area for Union
+          business. Such permission shall not be unreasonably denied.
+
+          For the Pickering, Darlington and Bruce Power LP Nuclear sites, a Chief Steward at
+          each site shall be paid at the foreperson rate. All Chief Stewards in receipt of the
+          foreperson rate are still eligible to work on the tools.
+
+          The foreperson rate does not apply when Chief Stewards are working overtime on the
+          tools.
+
+          Except at Bruce Nuclear Power Development (BNPD):
+
+          Only in situations where an accredited Union Representative is unable to attend
+          pre-job and/or mark-up meetings, may the Chief Steward be designated and attend,
+          as part of the Chief Steward's duties, on behalf of the accredited Union
+          representative.
+
+
+
+
+5     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+7.2       The Union shall receive written notice before the employment of a steward is
+          terminated by their Employer, and provided the steward is able to perform the work
+          required, they will be the last employee to be retained by their Employer in a
+          layoff/standoff situation.
+
+7.3       The chief steward will be informed of all scheduled overtime. Where practical, a
+          steward, in accordance with practices set out in individual trade appendices, shall be
+          given the first opportunity to work the overtime providing they are qualified to perform
+          the work.
+
+7.4       No foreperson or subforeperson shall be permitted to act as a steward.
+
+                                     Article 8 ADVANCE NOTICE
+
+8.1       EPSCA will advise the Union of all new Generation Station Projects and Hydro One
+          (Lines and Stations) Construction Projects coming under the provisions of this
+          Agreement for the construction field forces of the Employers.
+
+           Upon the request of the Union, EPSCA will convene a prejob conference before work
+           commences to discuss preliminary details of the proposed work to be performed and
+           to establish conditions in accordance with this Agreement for the project. EPSCA will
+           record the minutes of prejob conferences and forward them within fifteen (15)
+           working days to the Union.
+
+8.2        Subsequent prejob conferences will be convened by EPSCA before specific portions
+           of work commence to discuss the final details of the work and to establish conditions in
+           accordance with this agreement for that work.
+
+8.3        EPSCA will provide written notice to the Union as far in advance as possible of new
+           work and prejob conferences as noted in Sections 8.1 and 8.2 above. For work of
+           less than one week's duration and requiring five (5) or less employees, prejob
+           meetings must be arranged with as much advance notice as possible by EPSCA, but
+           without formal notice, in writing, unless the prejob meeting has been waived by the
+           parties.
+
+                                    Article 9 WORK ASSIGNMENT
+
+9.1       The jurisdiction of the Union shall be that jurisdiction established by Agreements
+          between International Unions claiming the work or Decisions of Record recognized by
+          the AFL-CIO for the various classifications and the character of work performed,
+          having regard for the special requirements of thermal, nuclear or hydraulic generation
+          and transmission and transformation construction. An Agreement or Decision of
+          Record is one that is published by the Building and Construction Trades Department,
+          AFL-CIO (Agreement and Decisions Rendered Affecting the Building Industry).
+
+          Where no Decision or Agreement applies, the Employer agrees to consider evidence
+          of established practices within the industry when making jurisdictional assignments.
+
+
+6     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+9.2        (a)     A markup process will be utilized when an Employer intends to perform work on
+                   a project site*. The purpose of this markup process is to indicate to the Union
+                   the work which is planned to be carried out by the Employer in order to
+                   minimize the potential for jurisdictional disputes.
+
+            (b)    When work is to be performed on a project site and it meets the following criteria:
+                   same Employer, same work, same project site, the markup process will not be
+                   required. This procedure shall not preclude a Union’s right to contest previously
+                   disputed work.
+
+                   In the Electricity Production Zones when work falls within this criteria the EPSCA
+                   Office will send out a “Notification of Work” along with a copy of the original
+                   minutes of mark-up meeting(s) to the Local Unions prior to work commencing.
+                   This procedure shall not preclude the Union’s right to contest previously assigned
+                   work, if the work is in a Local Union jurisdiction other than the one it was marked
+                   up in.
+
+            (c)    When an Employer has work that is less than a 3 week duration and there are
+                   ten (10) or fewer employees covered by EPSCA Collective Agreements
+                   employed on this specific work, the Union will be notified of the scope of work
+                   and the Employer’s proposed work assignments. The Union will have two (2)
+                   weeks from the date of notification to submit jurisdictional claims and supporting
+                   evidence to the Employer for consideration. The Employer will notify the Union
+                   of the final work assignments prior to the commencement of the work.
+
+            (d)    All work that does not meet the criteria set out in clauses 9.2(b) or 9.2(c) will be
+                   reviewed and assigned at a markup meeting.
+
+            (e)    EPSCA will provide written notice to the Union as far in advance as possible of
+                   markup meetings. The Union may attend these markup meetings, and every
+                   effort will be made to settle questions of jurisdiction before the work is expected
+                   to commence.
+
+            (f)    The Employer who has the responsibility for the work shall make a proposed
+                   assignment of the work involved. The Employer shall be responsible for
+                   providing copies of proposed assignments to the Unions in attendance at the
+                   markup meeting. The Employer will specify a reasonable time limit for the
+                   Unions involved to submit evidence of their claims. The Employer will evaluate
+                   all evidence submitted and make a final assignment of the work involved. This
+                   final assignment will be in accordance with the procedural rules established by
+                   the
+
+*     For purposes of this Article, Nanticoke, Lambton, Lakeview/Hearn, BNPD, Pickering,
+      Darlington, Lines and Stations and the 5 Electricity Production Zones are each
+      considered individual project sites.
+
+                   Plan for the Settlement of Jurisdictional Disputes in the Construction Industry.
+                   The Employer will advise the Unions of the final assignments prior to the work
+                   commencing.
+
+
+7      Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+            (g)    The EPSCA representative will record the proposed assignments and
+                   jurisdictional claims and forward a copy of them within fifteen (15) working days
+                   to the Union.
+
+            (h)    The parties recognize that circumstances may arise, particularly with discovery
+                   and emergency work, where the process set out above may not be practical or
+                   possible, however reasonable effort will be made by the Employer to adhere to
+                   the appropriate trade jurisdiction.
+
+                            Article 10 JURISDICTIONAL DISPUTES
+
+10.1        (a)    In the event there is a jurisdictional dispute which cannot be settled on a local
+                   basis by the Unions involved, it shall be submitted to the International Unions
+                   involved for settlement without permitting it to interfere in any way with the
+                   progress of the work at any time.
+
+                   Any Union shall have the right to elect to pursue or respond to any jurisdictional
+                   disputes at the Plan for the Settlement of Jurisdictional Disputes in the
+                   Construction Industry. In the event the Union elects to pursue or respond to the
+                   jurisdictional disputes at the Plan for the Settlement of Jurisdictional Disputes in
+                   the Construction Industry, clauses 10.1(b), 10.2, 10.3, and 10.4 will apply.
+
+                   In the event another Union has the option to pursue jurisdictional disputes at
+                   the Ontario Labour Relations Board, the Union shall have the right to pursue or
+                   respond to any jurisdictional disputes at the Ontario Labour Relations Board
+                   when these Unions are involved in the jurisdictional dispute.
+
+                   In the event the Union elects to pursue or respond to the jurisdictional dispute
+                   at the Ontario Labour Relations Board, clauses 10.1(b), 10.2, 10.3, and 10.4
+                   will NOT apply.
+
+            (b)    In the event that a jurisdictional dispute arises over a work assignment, the
+                   Employer will make an assignment for the work in dispute in accordance with
+                   the Procedural Rules and Regulations of the Plan for the Settlement of
+                   Jurisdictional Disputes in the Construction Industry. Any Union which protests
+                   that a contractor has failed to assign work in accordance with the procedures
+                   specified above, shall remain at work and process the complaint through its
+                   international office. The parties will settle such jurisdictional dispute in
+                   accordance with procedure as outlined by the Plan for the Settlement of
+                   Jurisdictional Disputes in the Construction Industry of the Building Trades
+                   Department, AFL-CIO or any successor agency of the Impartial Jurisdictional
+                   Disputes Board authorized by the Building Trades Department.
+
+
+
+
+8      Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+10.2        In the event the dispute is not settled by the International Unions involved, it shall
+            then be submitted to the Administrator of the Plan for the Settlement of Jurisdictional
+            Disputes in the Construction Industry for resolution. In the event that the
+            International Office of the Union elects not to file with the Plan for the Settlement of
+            Jurisdictional Disputes in the Construction Industry, EPSCA agrees to file the dispute
+            at the Plan for the Settlement of Jurisdictional Disputes in the Construction Industry
+            at the request of the International Representative of the Union. Those Unions and
+            Employers involved shall advise the Union and EPSCA respectively, in writing, of
+            intent to submit a jurisdictional dispute to the Impartial Jurisdictional Disputes Board
+            and will identify the work in question. An arbitration decision under the Plan for the
+            Settlement of Jurisdictional Disputes in the Construction Industry will be final and
+            binding to the parties to this Agreement with no further recourse to the Ontario
+            Labour Relations Board on the issue decided by the Plan for the Settlement of
+            Jurisdictional Disputes in the Construction Industry.
+
+10.3       EPSCA shall have direct recourse to the Plan for the Settlement of Jurisdictional
+           Disputes in the Construction Industry when the Plan for the Settlement of
+           Jurisdictional Disputes in the Construction Industry has under its consideration a
+           dispute involving the assignment of work being done by employees who are covered
+           by this Agreement.
+
+10.4       In the event that an arbitration decision under the Plan for the Settlement of
+           Jurisdictional Disputes in the Construction Industry is not rendered within sixty (60)
+           days of the disputed assignment being referred to the Plan, EPSCA and/or the Union
+           shall have recourse to the Ontario Labour Relations Board for a decision provided it is
+           processed as a jurisdictional dispute.
+
+10.5       When a jurisdictional dispute exists in the electrical power systems sector, upon
+           request by the International Representative of either of the Unions involved,
+           Employers shall furnish the International Representative with a letter from a duly
+           authorized official of the Employer on the Employer's stationery, stating that the Union
+           requesting the letter was employed on specific types of work on a given project. The
+           Union requesting the information will supply the Employer with the name of the other
+           Union involved in the dispute and the Employer will provide that Union's International
+           Representative with a copy of the letter being given to the requesting Union.
+
+           When a jurisdictional dispute exists in the electrical power system sector between
+           Unions and upon written request by the International Representative of the Union, the
+           Employer shall supply the International Representative of the Union involved with a
+           copy of the evidence submitted by the other Union(s) involved along with drawings
+           and/or prints plus a description of the work or process in dispute.
+
+
+
+
+9      Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+10.6       In the event the Union elects to pursue or respond to the Jurisdictional Dispute at the
+           Ontario Labour Relations Board as governed by 10.4 above, the arbitration board
+           panel appointed by the Ontario Labour Relations Board pursuant to the Act is not
+           authorized to award damages in respect of a mis-assignment of work only in
+           circumstances where the other Union(s) involved in the proceedings is (are) equally
+           restricted in their ability to claim for damages. However this clause 10.6 shall not
+           apply where the Jurisdictional Dispute and the mis-assignment of work involves the
+           same Employer and the same work, and on the same job previously the subject of a
+           Jurisdictional Dispute before the Ontario Labour Relations Board or the Plan for the
+           Settlement of Jurisdictional Disputes in the Construction Industry.
+
+10.7       The board panel appointed by the Ontario Labour Relations Board will govern its
+           decision pursuant to its normal criteria.
+
+10.8       In the event the Union elects to pursue or respond to the Jurisdictional Dispute at the
+           Ontario Labour Relations Board as governed by 10.4 above, the decision of the
+           panel of the Ontario Labour Relations Board will be final and binding upon the parties
+           to this agreement with no further recourse to the Plan on the issue decided by the
+           Ontario Labour Relations Board.
+
+                                      Article 11 UNION SECURITY
+
+11.1       UNION MEMBERSHIP
+
+           (a)       Employees
+
+                     As a condition of employment, all employees covered by this Agreement shall
+                     either be members of, or will apply for membership in, the Union within seven
+                     (7) days of employment. It shall also be a condition of continued employment
+                     that employees maintain their Union membership in good standing.
+
+           (b)       Forepersons
+
+                     As a condition of employment, all forepersons covered by this Agreement
+                     shall either be members of, or will apply for membership in, the Union within
+                     seven (7) days of employment. It shall also be a condition of continued
+                     employment that forepersons maintain their Union membership in good
+                     standing.
+
+11.2       CHECKOFF
+
+           The Employers shall deduct Union initiation fees and dues from their employees' and
+           foreperson's wages. Such fees and dues will be deducted weekly or monthly and
+           transmitted to the designated officials of the Union, on or before the 15th day of the
+           month following the month in which deductions are made, together with full checkoff
+           lists of employees and forepersons subject to checkoff.
+
+           The Union shall indemnify EPSCA and the Employers for any liability arising from the
+           deduction of initiation fees and dues.
+
+
+10     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+           The Employer will check off initiation fees on receipt from the Union of authorization
+           signed by the employee.
+
+11.3       The Union may designate dues from any of the following options:
+
+            • a fixed dollar amount per month,
+
+            • a fixed percentage of vacationable gross earnings,
+
+            • a fixed cents per hour worked or paid,
+
+            • a fixed cents per hour worked or paid plus a fixed dollar amount per week or
+              month,
+
+            • a fixed dollar amount per month plus a percentage of vacationable gross earnings.
+
+           Regardless of the option selected, the Employer will only remit monies to a single
+           location. Any redistribution is the responsibility of the Union. By mutual agreement
+           with the Union, an Employer may elect to continue current administrative practices
+           relative to the deduction of Union dues.
+
+11.4       Wage schedule, dues and remittance changes are to be provided in writing to EPSCA
+           and changes shall only take place during the month of March in each calendar year.
+           The effective date of such changed wage schedules, dues and remittances shall be the
+           date of issuance.
+
+11.5       In the event that an error is subsequently discovered on the wage schedules the error
+           shall be corrected and applied on a prospective basis and there shall be no retroactive
+           adjustment or claw back.
+
+                                         Article 12 EMPLOYMENT
+
+12.1       (a)       For purposes of this Article, a geographic area will be established for each
+                     Major Project. The size of these geographic areas will be dependent upon the
+                     location of the work and the trade concerned.
+
+           (b)       The boundaries of the geographic areas will be jointly established at prejob
+                     conferences.
+
+12.2       An office will be established by EPSCA, or the Employer with the approval of
+           EPSCA, for each Major Project. A purpose of this office will be to co-ordinate
+           employment as specified in this Article.
+
+12.3       EPSCA, or the Employer with the approval of EPSCA, and the Union will
+           exchange the names of their representatives in each of the areas described in
+           12.1(a), who will be responsible for co-operating in the referral and employment of
+           reliable and competent Union members.
+
+
+
+11     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+12.4       EPSCA, or the Employer with the approval of EPSCA, will notify the appropriate
+           Union of future workforce requirements for all employees coming within the scope of
+           this Agreement.
+
+12.5       Where key tradespersons are required, Employers reserve the right to employ,
+           transfer and retain six (6) key tradespersons to effectively utilize their special skills,
+           having regard for the special requirements of thermal, nuclear or hydraulic generation
+           projects and transmission and transformation construction.
+
+12.6       The employment of additional tradespersons and apprentices, excluding key
+           tradespersons and tradespersons employed through the Employment Request
+           Article, shall be carried out on the following basis and sequence:
+
+           (a)       The EPSCA office, or the Employer with the approval of EPSCA, will request
+                     the appropriate local Union office for tradespersons and apprentices required.
+                     The request will include a description of the work, the number of qualified
+                     tradespersons and apprentices required, and the name of the Employer for
+                     whom the tradespersons and apprentices will be working.
+
+           (b)       The Union members who are resident in the designated geographic area will
+                     be referred by the Union for employment through the EPSCA office. As much
+                     as their out-of-work lists will permit, the Unions will supply members on a
+                     fan-out basis from the project or work location.
+
+                     The Employers will either hire such persons or substantiate their reasons, in
+                     writing, for not doing so.
+
+                     The Union will co-operate with the Employer and advise the EPSCA office of
+                     the name, address and telephone number of members being referred for work
+                     with Hydro One (Lines and Stations) Construction as soon as they are known.
+
+           (c)       If, after a request has been made, the Union is unable to supply sufficient
+                     tradespersons and apprentices to meet the workforce requirements of the
+                     Employers, the Employers may employ tradespersons and apprentices who
+                     are resident within the geographic area. Such tradespersons and apprentices
+                     shall comply with the requirements of Article 11 of this Agreement. EPSCA
+                     shall promptly notify the Accredited Union Representative, in writing, of the
+                     names, addresses, date of hire, social insurance numbers, telephone
+                     numbers, job location and classification of the persons hired.
+
+           (d)       Once the supply of suitable tradespersons and apprentices within the
+                     geographic area has been exhausted and additional tradespersons and
+                     apprentices are required, EPSCA will contact the International Representative
+                     for the trade concerned, or their designee, in order to determine whether
+                     suitable Union tradespersons and apprentices are available outside of the
+                     geographic area. EPSCA will co-operate in providing employment to such
+                     Union tradespersons and apprentices on the basis that they be supplied from
+                     the nearest location where they are available.
+
+
+
+12     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+12.7        An Employer may transfer employees from one Employer to another on the same
+            site, or from one project to another within the geographic jurisdiction of the Local
+            Union. This provision shall have no sectoral restrictions.
+
+12.8       Notwithstanding the provisions of Articles 12.5 and 12.6, re-employment as required
+           by the Workers Safety and Insurance Board shall not be a violation of this collective
+           agreement nor be subject to the provisions of Articles 33 and 34.
+
+
+12.9       The Employer reserves the right to transfer employees from one project to another to
+           effectively utilize their special skills, having regard for the special requirements of
+           thermal, nuclear or hydraulic generation and transmission and transformation
+           construction.
+
+12.10      The Employer shall have the right to request up to fifty (50) per cent name hire from the
+           Local Union Hall. If the percentage of name hires in the ICI sector exceeds fifty (50)
+           per cent, then the Employer will be entitled to the higher percentage.
+
+12.11      It is understood that the Employer will hire at least 75% of employees from within the
+           geographic area designated for the Project or Hydro One (Lines and Stations) Zone
+           providing sufficient suitable employees are available to meet the Employer's
+           requirements.
+
+12.12      An employee who voluntarily terminates their employment with an Employer on an
+           EPSCA site shall not be entitled to be referred to another Employer on the same site
+           for a period of thirty (30) days unless both Employers agree.
+
+12.13      In the event that the percentages of Employer selection (i.e. name hire, transfers,
+           recall) in the ICI sector are greater than contained in this Article, the Employers under
+           this agreement will have access to those higher percentages.
+
+                                  Article 13 LAYOFF PROCEDURE
+
+13.1       Layoff will be carried out on a project seniority basis for employees who have more
+           than ninety (90) calendar days project service providing the remaining employees are:
+
+           (i)       able to perform the work remaining to be done, and
+
+           (ii)      capability and performance are at an acceptable level.
+
+13.2       As per Article 10.1 of the Foreperson's Appendix, the Employer shall have the right to
+           move forepersons from construction site to construction site.
+
+           When a requirement for forepersons no longer exists, the treatment of forepersons
+           shall be as follows:
+           (i)     Forepersons who are transferred into an OPG, Bruce Power or Hydro One
+                   construction site as a foreperson shall be laid off as a foreperson or transferred
+                   out to another OPG, Bruce Power or Hydro One construction site as a
+                   foreperson,
+
+
+13     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+           (ii)      A tradesperson who has been elevated to the foreperson level by the Employer
+                     during the course of their employment on an OPG, Bruce Power or Hydro One
+                     construction site, shall be returned to their last trade classification. The
+                     tradesperson will assume their position on the seniority list based on their total
+                     continuous service credit with the Employer.
+
+                                  Article 14 RECALL PROCEDURE
+
+14.1     The Employer may recall former employees who are on the Unions' out-of-work list
+         provided that they are in good standing with the Union and have been employed by
+         the Employer within the previous twelve (12) months.
+
+                                      Article 15 HOURS OF WORK
+
+15.1     One (1) or Two (2) Shift Operation
+
+         The weekly hours of work for all employees may be arrived at by having the employees
+         work four (4) consecutive ten-hour shifts, either Monday –Thursday or Tuesday – Friday
+         but not concurrently on the same project, or by having the employees work five (5)
+         consecutive eight-hour shifts. Weekly hours of work will be established for a minimum
+         period of two (2) weeks. The Employer will notify the Local Union of the weekly hours of
+         work for each work program at the site. If an Employer, with the approval of the owner,
+         intends to change the weekly hours of work. The Union shall be informed in the
+         previous week, with no less than three (3) days notice.
+
+         The start time for the day shift shall be between the hours of 6:00 a.m. to 9:00 a.m. The
+         start time for the afternoon shift shall be immediately following the day shift or within two
+         (2) hours either way of the end of the day shift. The Employer will notify the Local Union
+         of its start times in advance of the work commencing. Crews may have different start
+         times.
+
+         Trades assigned to fire watch duties may commence work after the start of the rest of
+         the crew. In these cases, normal scheduled hours of work beyond the quit time of the
+         rest of the crew will not be subject to overtime premiums.
+
+         Employees required to work shift work other than day shift will receive a shift differential
+         of one fifth (1/5) for normal scheduled shift hours worked. For clarity, this only applies on
+         a one (1) or two (2) shift operation.
+
+         Shift Differential will not be paid on overtime hours.
+
+         Three (3) Shift Operation
+         When a three (3) shift operation is established by the Employer, the following conditions
+         will apply:
+
+         Those employees working on the day shift shall work eight (8) hours per shift at the
+         straight time rate.
+
+
+
+
+14     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+         Employees required to work shift work on the third shift of a three shift operation shall
+         receive a shift differential of one-fifth (1/5) for normal scheduled hours worked.
+         Employees required to work shift work on the second shift of a three (3) shift operation
+         shall receive a shift differential of one-seventh (1/7) for normal scheduled hours worked.
+         Shift differential will not be paid on overtime hours.
+
+15.2     Shift Change
+
+         A shift will be deemed to be established providing at least four (4) consecutive days of
+         a shift are to be worked excluding Saturdays, Sundays and recognized holidays. If an
+         employee is removed from their scheduled shift prior to completing four (4) consecutive
+         shifts, the employee will be paid shift differential for the balance of the four (4)
+         consecutive shifts that would have been worked had the employee not been
+         reassigned.
+
+15.3     It may be necessary from time to time to vary the hours of work established in this
+         Article. Any amendments to the hours of work will be established by mutual agreement
+         between EPSCA and the Union.
+
+15.4     LUNCH PERIODS FOR MAJOR PROJECTS, AND LINES AND STATIONS
+         CONSTRUCTION ZONE
+
+         A lunch period will be given no earlier than four (4) hours and no more than five (5)
+         hours after the start of the shift and will be one-half (1/2) hour in duration.
+         A lunch period will be given no earlier than three and one-half (3-1/2) hours and no
+         more than five (5) hours after the start of the third shift and will be one-half (1/2) hour in
+         duration.
+
+15.5     When an employee is required to return to work without an eight (8) hour break, all
+         work performed shall be at the premium rate until such time as the employee receives
+         an eight (8) hour break. This provision does not apply when a change in an
+         employee's normal shift (as defined in this Article) occurs or to call-in situations. \
+
+15.6     NORTHERN HOURS OF WORK
+
+         For work North of the French River, in remote locations where it is not practical for
+         employees to return home daily, the Employer, at their discretion, may establish a shift
+         consisting of fourteen (14) consecutive days, at the applicable rates, followed by seven
+         (7) consecutive days off.
+
+15.7     The Union and EPSCA may, upon mutual agreement, establish alternative work
+         schedules.
+
+                                      Article 16 OVERTIME RATES
+
+16.1     Overtime rates are paid for work performed outside of normal hours as defined in the
+         "Hours of Work" Article of this Agreement and for work performed on non-shift days.
+         Overtime rates shall be calculated as a premium over the basic wage rate.
+
+
+
+15     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+16.2     Effective May 1, 2025 and until April 30, 2030 the overtime rates for the
+         classifications listed in Article 2 of this Agreement shall be as set forth in the wage
+         schedules, attached hereto.
+
+16.3     In any area where an overtime rate for Glazier Metal Mechanic has not been established
+         by Employers under agreement with the Union for construction work of a related nature,
+         the EPSCA Glazier Metal Mechanic overtime rate shall be the same as the EPSCA
+         Painter journeyperson overtime rate for that area.
+
+16.4     The Chief Steward shall be informed of all overtime work on a site and shall be given the
+         opportunity to work providing they are qualified to perform the work and it is with their
+         Employer. When the Chief Steward declines the opportunity to work overtime, they will
+         appoint an acting Union steward from the workers assigned to work the overtime.
+
+16.5     On Monday to Friday inclusive, overtime work shall be paid at one and one-half
+         (1-1/2) times the basic hourly rate for all hours worked beyond the normal daily
+         scheduled number of hours, up to a maximum of 12 hours per day. All hours in
+         excess of 12 hours per day shall be paid at two (2) times the basic hourly rate.
+
+16.6     Overtime work performed on non-shift days, shall be paid at two (2) times the basic
+         hourly rate.
+
+16.7     The Union and Employer have a mutual interest in reducing unauthorized absenteeism.
+         At the Employer’s discretion, an unapproved absence of the Employee may disentitle the
+         Employee to overtime opportunities. The application of the Employer’s discretion, will be
+         subject to referral to the Nuclear Project Committee.
+
+               Article 17 STATUTORY HOLIDAY AND VACATION PAY
+
+17.1     The Statutory Holiday and Vacation pay rate shall be ten (10) percent (six (6) percent
+         vacation pay and four (4) percent statutory holiday pay) of vacationable gross earnings*.
+         Payment shall be made weekly on the employee’s regular pay cheque.
+
+17.2     The Statutory Holidays recognized under this Agreement are:
+
+                        New Year’s Day                        Civic Holiday
+                        Family Day                            Labour Day
+                        Good Friday                           Thanksgiving Day
+                        Easter Monday                         Christmas Day
+                        Victoria Day                          Boxing Day
+                        Canada Day
+
+         Recognized holidays falling on a Saturday or Sunday shall be observed on the following
+         Monday. When Christmas Day falls on a Saturday or Sunday, it shall be observed on
+         the following Monday and Boxing Day on the following Tuesday. When New Year’s Day
+         falls on a Saturday or Sunday, it shall be observed on either the preceding Friday or the
+         following Monday.
+
+         The Employer reserves the right to change the day of observance of a Statutory Holiday
+         when such a holiday falls on a Tuesday, Wednesday (Canada Day only) or Thursday.
+16     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+17.3     A three (3) week leave of absence for the purpose of taking an annual vacation will be
+         granted in the calendar year in which the employee completes one year of continuous
+         service with the Employer. In special circumstances, where the work schedule permits,
+         additional time off may be granted an employee. The additional time off will not be
+         unreasonably denied.
+
+         * “Vacationable gross earnings” means pay for regular hours, overtime, premium
+         pay, shift differential, lines and stations daily travel time, retroactive pay
+         adjustments, reporting pay, inclement weather pay, call-in pay, Saturday and
+         Sunday premiums and trade training, but does not include payment for initial and
+         return travel.
+
+                                                Article 18 WAGES
+
+18.1        Effective May 1, 2025 and until April 30, 2030 the rates of pay for employees in the
+            classifications listed in Article 2 of this Agreement shall be as set forth in the wage
+            schedules, attached hereto.
+
+18.2       In any area where a rate for Glass and Metal Technician has not been established by
+           Employers under agreement with the Union for construction work of a related nature,
+           the EPSCA Glazier Metal Technician rate shall be 90 percent of the EPSCA Painter
+           journeyperson rate for that area.
+
+18.3       The following premiums are to be applied to Generation Station Projects, Hydro One
+           (Lines and Stations) Construction Zones, and Miscellaneous Projects.
+
+           All work on Swing Stage, Bosun Chair, and exterior work on Scaffolding and Ladders:
+
+                               10 meters or over - $1.00 hourly premium
+
+
+           These premiums are in addition to the rates for the classifications listed in Article 2.
+
+                                      Article 19 PAY PROCEDURE
+
+19.1       NORMAL
+
+            (a)      Employees will be paid weekly.
+
+            (b)      Direct deposit may be implemented at the Employer’s option. .
+
+            (c)      Payment for any given payroll period will be made not later than the sixth
+                     working day after the close of the payroll period, but in any event not later than
+                     Thursday of the following week. For employees who are paid by cheque,
+                     except as provided for in 19.1(f), employees who are at work on Thursday and
+                     are not paid will be paid on Friday. Such employees will be released one (1)
+                     hour, with pay, prior to normal quitting time on Friday to enable them to cash
+                     their cheque.
+
+17     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+            (d)      The Employer will make an electronic statement available, setting forth:
+
+                     (i)         the period of time or the work for which the wages are being paid;
+                     (ii)        the rate of wages to which the employee is entitled;
+                     (iii)       the amount of wages to which the employee is entitled;
+                     (iv)        the amount of each deduction from the wages of the employee and
+                                 the purpose for which each deduction is made;
+                     (v)         any allowance or other payment to which the employee is entitled;
+                     (vi)        the amount of vacation pay for which the employee is being credited;
+                     (vii)       the amount of statutory holiday pay for which the employee is being
+                                 credited; and
+                     (viii)      the net amount of money being paid to the employee.
+
+19.2       ON TERMINATION
+
+           (a)       An employee who voluntarily terminates their employment will be provided
+                     their final pay on the next regular payday.
+
+           (b)       An employee who is laid off from a Generation Project will have their final pay
+                     and termination documents mailed to their last known address on file with the
+                     Employer by Priority Post within five (5) working days of termination. An
+                     employee who is laid off from a Hydro One (Lines and Stations) construction
+                     site will have their final pay and termination documents mailed to their last
+                     known address on file with the Employer within eight (8) working days of
+                     termination. This does not preclude an employee being issued their final pay
+                     and termination documents on the job prior to the five or eight-day period. After
+                     48 hours of notifying the Employer, the Employee will be entitled to four (4)
+                     hours at straight time for each normal workday for which there is
+                     non-compliance thereafter.
+
+           (c)       An employee who is discharged shall be provided with their final pay
+                     immediately if the Employer's pay facilities are on site or as per 19.2(b) if the
+                     Employer's pay facilities are not on site.
+
+           (d)       Employers will provide one hour's notice of layoff or one hour's pay in lieu of
+                     notice to employees who are to be laid off.
+
+                     When possible, the Employer shall notify the Local Union three (3) days prior
+                     to layoff.
+
+           (e)       When an employee is laid off, they will be paid for a reasonable amount of
+                     time by the Employer if they are required to travel or wait unduly before they
+                     receive their final pay.
+
+           (f)       The Employer will provide a Record of Employment (ROE) Form in the
+                     employee’s final pay or will send the ROE information electronically to Service
+                     Canada within the timelines specified by the relevant legislation.
+
+
+
+18     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+           (g)       In established cases of long-term sickness, compensable accident or jury
+                     duty, an employee will be maintained on the Employer's payroll until their
+                     normal date of layoff.
+
+                                             Article 20 BENEFITS
+
+20.1       The Employer agrees to pay into the International Union of Painters and Allied Trades
+           Province of Ontario Pension Plan Trust Fund, Health & Welfare Trust Fund and
+           Vacation Pay Trust Fund the amounts specified as set forth in the wage schedules,
+           attached hereto, for employees covered by this Agreement during the time they are
+           employed.
+
+20.2       The Union agrees to supply the Employer with all information regarding remittances
+           and also all administrative material that is required for the implementation of them.
+
+           Any changes in welfare or pension plan contributions recognized under this Agreement
+           will be confirmed in writing by the Union to EPSCA before such changes are put into
+           effect. Within three (3) weeks of receipt of an acceptable written notice, such changes
+           will be implemented. The effective date will be the date of implementation. Should the
+           welfare or pension plan contributions change during the term of this Agreement, then an
+           adjustment may be made to the base rate. The total wage package will not be changed.
+
+20.3       In any area where the rate of pay for Glazier Metal Mechanic has been established as
+           90 percent of the EPSCA Painter journeyperson rate for that area, the Employer will
+           pay into operative Painter welfare and pension benefit plans on behalf of the Glazier
+           Metal Mechanic the amount of welfare and pension benefits which have been
+           established by EPSCA as payable on behalf of Painter journeypersons when employed
+           in that area.
+
+20.4       In the event an Employer is more than fifteen (15) days in arrears of the requirement to
+           forward contributions and/or deductions to the Trustees by the fifteenth of the month
+           following, the Employer shall pay as liquidated damages and not as a penalty an
+           amount equal to two (2%) percent (equivalent to 24%) per annum for each month or
+           part thereof that the contributions and/or deductions are in default for greater than
+           fifteen (15) days provided the Employer has received five (5) days' written notice to
+           correct such default. The trustees may require a delinquent Employer to pay for the
+           costs, legal or otherwise, of collecting the amount owing, as outlined in the operative
+           benefit plan trust documents.
+
+20.5       The Trustees of the Plans referred to in 20.1 above shall promptly notify the Union of
+           the failure by the Employer to pay any employee benefit contributions required to be
+           made under this Collective Agreement and which are owed under the said plans in
+           order that the program administrator of the Employee Wage Protection Program may
+           deem that there has been an assignment of compensation under the said program in
+           compliance with the Regulation to the Employment Standards Amendment Act, 1991 in
+           relation to the Employee Wage Protection Program.
+
+
+
+
+19     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+20.6       The parties agree there is benefit to continue addressing the mental and physical well
+           being of our members. In support of the objectives of the De Novo Treatment Centre,
+           the Parties to this Agreement agree that $0.10 per hour worked shall be contributed to
+           De Novo. Each Employer and employee, working under the terms and conditions of
+           this Agreement shall each contribute $0.05 per hour worked as set out in the wage
+           schedules attached hereto.
+
+                                           Article 21 CALL-IN PAY
+
+21.1     When an employee is called in to work outside of their normal hours of work, they shall
+         receive a minimum of four (4) hours' work at the appropriate premium rate plus travel
+         allowance where applicable.
+
+         If the employee's normal hours of work commence within this four (4) hour period, the
+         employee will be paid premium time from the time they commence work until the start
+         of their normal hours and will revert to their normal hourly rate at the commencement of
+         their normal hours of work.
+
+                                       Article 22 REPORTING PAY
+
+22.1     An employee who reports for work, unless directed not to report the previous day by
+         their Employer, shall receive a minimum of a half shifts pay (4 hours or 5 hours) at the
+         applicable rate when they report for work, but is given no opportunity to work because
+         none is available. This allowance will be paid to an employee if they are requested to
+         report for any part of the first half of a shift and an additional half shifts pay (4 hours or 5
+         hours) will also be paid if they are requested to report for work for any part of the second
+         half of the same shift. It is not intended by this Section that an employee receive a
+         reporting pay allowance greater than their pay for normal daily hours.
+
+22.2     An employee in receipt of reporting pay shall also receive travel or board allowance, if
+         applicable.
+
+22.3     Notwithstanding that work is available and an employee is able to commence or
+         continue work, the Employer may shut down a job to avoid the possible loss of human
+         life because of an emergency situation such as H2S leaks, bomb threats, fire, etc., that
+         could endanger the life and safety of an employee. In such cases, employees will be
+         compensated only for the actual time worked.
+
+                             Article 23 INCLEMENT WEATHER PAY
+
+23.1       When an employee reports at the beginning of a shift but is unable to commence work
+           because weather conditions are unsuitable, three (3) hours' pay at the appropriate
+           straight-time rate, plus shift differential if on shift or the appropriate premium rate if on
+           overtime, will be allowed, plus travel allowance where applicable, when an employee
+           reports at the beginning of a shift and remains for three (3) hours at their place of work.
+
+
+
+
+20     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+23.2       When an employee reports at the beginning of a shift and commences work but is
+           unable to continue work because weather conditions are unsuitable, they shall receive
+           three (3) hours' pay at the appropriate straight-time rate, plus shift differential if on shift
+           or the appropriate premium rate if on overtime, plus travel allowance where applicable,
+           or pay for the actual time worked for that shift, whichever is greater.
+
+Article 24 GENERATION PROJECTS DAILY TRAVEL ALLOWANCE AND
+                       ROOM AND BOARD
+
+DAILY TRAVEL ALLOWANCE
+
+24.1        The daily travel allowance will be paid by the Employers to employees who are not
+            receiving room and board as referred to in Article 24.2, on the following basis:
+
+           (a)     If an employee lives less than fifty road-driven kilometers from the project, no
+                   travel allowance will be paid.
+
+           (b)     If an employee lives within 50 to 70 road-driven kilometers from the project, they
+                   shall receive the rates as set out below for each day worked or reported for.
+
+
+            (c)    If an employee lives within 70 to 96 road-driven kilometers from the project, they
+                   shall receive the rates as set out below for each day worked or reported for.
+
+            (d)    If an employee lives within 96 to 110 road-driven kilometers from the project,
+                   they shall receive the rates as set out below for each day worked or reported
+                   for.
+
+            (e)    If an employee lives greater than or equal to 110 road-driven kilometers from
+                   the project and does not qualify for subsistence allowance under Article 24.2
+                   below, they will receive the rates as set out below provided they continue to
+                   travel greater than or equal to 110 road-driven kilometers for each day worked
+                   or reported for.
+
+                                  Daily Travel Rates - Painters (Generation)
+         Year                    50-70 road-     70-96 road-      96-110 road-                       >110 road-
+                                  driven km       driven km        driven km                         driven km
+                                   24.1 (b)        24.1 (c)         24.1 (d)                          24.1 (e)
+         2025-05-01                $33.14          $38.50            $42.00                            $60.00
+         2026-05-01                $33.97          $39.46            $43.05                            $60.00
+         2027-05-01                $34.82          $40.45            $44.13                            $60.00
+         2028-05-01                $35.69          $41.46            $45.23                            $60.00
+         2029-05-01                $36.58          $42.50            $46.36                            $60.00
+
+
+            (f)    Employees using company vehicles are not entitled to daily travel.
+
+
+
+
+21     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+              For the purpose of the Collective Agreement, “road-driven kilometers” is based on the
+              shortest available road-driven distance from where an employee lives to the project
+              as measured through Google Maps.
+
+ROOM AND BOARD
+
+24.2        The following conditions will apply for employees whose regular residence* is greater
+            than or equal to 110 road-driven kilometers from the project:
+
+*             An employee's 'regular residence' is:
+
+     1.       The place where the employee maintains a self-contained, domestic
+              establishment (a dwelling house, apartment or similar place of residence where
+              a person generally eats and sleeps and for which they can show proof of
+              financial commitment). This is in contrast to a boarding house facility which is
+              not self-contained; and
+
+     2.       The employee normally resides in the residence except for those periods of
+              time when, because of the location of the work, the employee is forced to
+              obtain temporary accommodation at that work location.
+
+            (a)       An Employer may supply either:
+
+                        (i)        Room and board in camp or a good standard of board
+                                   and lodging within a reasonable distance of a project; or
+
+                        (ii)       a subsistence allowance;
+
+                        subject to Sections 24.2 (b), (c) and (d) below.
+
+              (b)       An employee may exercise their option not to stay in a camp or accept room
+                        and board. An employee who exercises this option and qualifies for
+                        subsistence allowance shall receive a subsistence allowance of the rates as
+                        set out below for each day worked or reported for when employed at a
+                        location south of the French River and the rates as set out below
+                        per day for each day worked or reported for when employed at a location
+                        north of the French River subject to Sections 24.2(c) and 24.2(d) below.
+
+              (c)       To qualify for subsistence allowance an employee must maintain temporary
+                        accommodation at or near a project. Employees who travel daily to locations
+                        greater than or equal to 110 road-driven kilometers from the project will be
+                        entitled to the rates as set out below per day worked or reported for.
+
+              (d)       An employee employed at the Pickering or Darlington Project who qualifies for
+                        a subsistence allowance as provided for above shall receive a subsistence
+                        allowance of the rates as set out below per day for each day worked or
+                        reported for.
+
+
+
+
+22        Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+          May 1, 2025 – April 30, 2030
+           (e)       An employee employed at the Bruce Power site who qualifies for a
+                     subsistence allowance as provided for above shall receive a subsistence
+                     allowance of the rates as set out below per day worked or reported for.
+
+                                  Room and Board - Painters (Generation)
+         Year                   North of the South of the     DNGS/PNGS                                 Bruce
+                                  French       French           24.2 (d)                                Power
+                                  24.2 (b)     24.2 (b)                                                 24.2 (e)
+         2025-05-01                $135          $120            $115                                    $135
+         2026-05-01                $140          $125            $120                                    $140
+         2027-05-01                $145          $130            $125                                    $145
+         2028-05-01                $150          $135            $130                                    $150
+         2029-05-01                $155          $140            $135                                    $155
+
+
+24.3       An employee shall not qualify for daily travel allowance or room and board allowance
+           as provided for in Sections 24.1 and 24.2 above when such employee reports for
+           work but does not remain at work for their scheduled daily hours unless excused by
+           an authorized representative of their Employer.
+
+
+24.4       All applications for daily travel and room and board must be completed and filed with
+           the Employer within seven (7) days of the start of employment. The Employer will not
+           be responsible for any applications filed thereafter, inclusive of an employee who has
+           been laid off, has quit or has been terminated within the first seven (7) days of
+           employment.
+
+24.5       The Union recognizes the Employer's right to charge for board and other existing
+           services. The Employer fixes the charge for board and other existing services in
+           camps at $25.00 per day. This will be applied on the following basis:
+
+           (a)       An employee who remains in camp on a normally scheduled work day on
+                     which they do not work will be charged $25.00 per day, unless they are
+                     excused from work for a legitimate reason by the project medical attendant or
+                     an authorized representative of their Employer.
+
+           (b)       An employee who is absent from work on Friday without approval and who
+                     remains in camp and who is still absent from work on the following Monday
+                     without approval will be charged for room and board for Friday, Saturday,
+                     Sunday and Monday.
+
+           (c)       An employee who is absent from work without approval on Friday but who
+                     works the following Monday will be charged for the day of absence and will
+                     not be charged for Saturday and Sunday.
+
+         (d)       An employee who works the Friday and is absent from work without approval on
+                   the following Monday will be charged for the day of absence and will not be
+                   charged for Saturday and Sunday.
+
+
+23     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+24.6     If an apprentice does not qualify for Room and Board under Article 24.2 and lives
+         greater than or equal to 110 road-driven kilometers from the project, they shall receive
+         daily travel rates as per the rates in Article 24.1 (e).
+
+                        Article 25 TRAVEL AND TRANSPORTATION
+
+25.1       INITIAL EMPLOYMENT
+
+           On recruitment of tradespersons who live between 96 and 189 road-driven kilometers
+           from the project, the Employer shall pay $50.00 for the initial trip to the project.
+
+25.2       ONTARIO RESIDENTS
+
+           On recruitment of tradespersons who live in Ontario but beyond 189 road-driven
+           kilometers from the project, the Employer shall pay $0.47 per road-driven kilometer
+           ,plus an allowance for travel time of one hour's base rate of pay for each 96 road-driven
+           kilometers of travel to a maximum of 8 hours' pay for the initial trip to the project from
+           where the tradesperson lives or place of recruitment, whichever is closer to the project.
+
+25.3       NON-ONTARIO RESIDENTS
+
+           On recruitment of tradespersons who live outside Ontario and beyond 189 road-driven
+           kilometers from the project, the Employer shall pay the equivalent of the cost of public
+           transportation plus an allowance for travel time of one hour's base rate of pay for each
+           96 road-driven kilometers of travel to a maximum of 8 hours' pay for the initial trip to the
+           project from where the tradesperson lives or place of recruitment, whichever is closer
+           to the project.
+
+25.4       To qualify for payment in 25.1, 25.2 and 25.3, the employee must remain at the project
+           for a minimum of fifteen (15) working days or the duration of their job, whichever is
+           lesser.
+
+25.5       On termination of employment due to a reduction of staff, an employee entitled to
+           payment under 25.1, 25.2 or 25.3 shall be entitled to return expenses calculated in the
+           same manner as in 25.1, 25.2 or 25.3 above, for the return trip from the project to
+           where the tradesperson lives or place of recruitment whichever is closer to the project.
+           An employee whose employment terminates for any reason other than reduction of
+           staff shall not be eligible for return payment.
+
+25.6       TRANSFER
+
+           When transferring employees, the Employer shall pay the equivalent of the cost of
+           public transportation for the initial trip to the project from the employee's most recent
+           work location. In addition, the Employer will pay travelling time at straight-time rates up
+           to a maximum of 8 hours.
+
+
+
+
+24     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+                                            Article 26 STANDOFF
+
+26.1       When unable to proceed with their work, an Employer may elect to Standoff part or
+           all of their crew. The parties agree Standoff is not intended to circumvent the layoff
+           procedure.
+
+26.2        The Employer reserves the right to Standoff its employees without pay up to a
+            maximum of ten (10) consecutive working days. Notification of Standoff will be made
+            by the Employer during normal working hours. A Record of Employment will be
+            issued upon the commencement of the Standoff. No travel or subsistence allowance
+            will be paid to an employee for the Standoff period.
+
+26.3       If Standoff continues beyond ten (10) consecutive working days, an employee, at
+           their option, may elect to remain on Standoff for an additional twenty (20) consecutive
+           working days or be removed from Standoff. The Employer retains recall rights on
+           employees electing to continue on Standoff.
+
+26.4       If an employee elects layoff beyond the tenth (10th) consecutive working day, it shall
+           be carried out in accordance with the terms of the Layoff provisions this Agreement.
+           An employee will be issued a Record of Employment (ROE) or provided an ROE
+           electronically on their date of layoff indicating ‘Layoff shortage of work’.
+
+26.5        Standoff shall only continue beyond thirty (30) consecutive working days with the
+            mutual consent of the Employer and the Union, in writing.
+
+           For the purpose of this Article, when working on a 4 x 10 hour shift arrangement, the
+           following will apply:
+
+            •    eight (8) scheduled working days will be considered the equivalent of ten (10)
+                 consecutive working days.
+
+            •    sixteen (16) scheduled working days will be considered the equivalent of twenty
+                 (20) consecutive working days.
+
+            •    twenty-four (24) scheduled working days will be considered the equivalent of
+                 thirty (30) consecutive working days.
+
+                                          Article 27 REST PERIOD
+
+27.1     For employees working normal hours, a fifteen (15) minute rest period will be allotted, at
+         the time and in a reasonable location as directed by the Employer, for each half shift
+         worked. Where a half shift is less than four (4) hours, there shall be no rest period.
+
+27.2     For employees required to work overtime, a ten (10) minute rest period will be allotted
+         prior to the end of the normal shift before commencing overtime work.
+
+27.3     For employees working overtime, a fifteen (15) minute rest period will be allotted, at the
+         time directed by the Employer, after each two hours of overtime worked.
+
+
+25     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+                               Article 28 LUNCHROOM FACILITIES
+
+28.1       Adequately heated accommodation separate from changerooms and washrooms shall
+           be provided by the Employer on each project when necessary and where such
+           accommodation can be reasonably provided for. Such accommodation shall be
+           weatherproof and shall be kept reasonably clean. A table and sufficient benches or
+           seats for the employees on the job shall be provided in the accommodation.
+           Trailerized or portable accommodation shall include tables, benches, light, heat
+           maintained at a minimum sixty-eight (68) degrees Fahrenheit, proper access and
+           egress, and shall not be used for material storage.
+
+                                  Article 29 MEALS ON OVERTIME
+
+29.1     Scheduled Eight (8) Hour Shifts
+
+         When an employee has not been notified the previous day that they will be required to
+         work for more than two (2) hours beyond the normal quitting time of the first or second
+         shifts or for more than three and one half (3 ½) hours beyond the normal quitting time of
+         the third shift, they shall be provided with a meal and be allowed thirty (30) minutes to
+         consume same and the employee shall be paid at the base hourly rate of pay. This meal
+         break will be taken following the first two (2) hours of overtime worked. After each
+         additional four (4) is worked and when work is required beyond that four (4) hour period,
+         the employee shall be allowed thirty (30) minutes to eat and be paid at the base hourly
+         rate of pay and they shall be provided with a meal. The Employer will supply a hot meal
+         when possible. If supplying a hot meal is not possible, the Employer will pay the
+         employee $25.00. Where an employee has been notified the previous day, no meal will
+         be provided after the first two (2) hours of overtime worked, but the employee will be
+         allowed thirty (30) minutes to eat and be paid at the base hourly rate of pay. After each
+         additional four (4) hours is worked and when work is required beyond that four (4) hour
+         period, the employee shall be allowed thirty (30) minutes to eat and be paid at the base
+         hourly rate of pay and they shall be provided with a meal.
+
+         When a paid meal period overlaps a rest period, the paid meal period will supplant the
+         rest period.
+
+         The above-noted is not applicable to the first eight (8) hours worked on Saturdays,
+         Sundays or Recognized Holidays for employees who normally work the first or second
+         shifts.
+
+         The above-noted is not applicable to the first six and one half (6 ½) hours worked on
+         Saturdays, Sundays or Recognized Holidays for employees who normally work the third
+         shift.
+
+
+
+
+26     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+29.2     Scheduled Ten (10) Hour Shifts
+
+         When an employee has not been notified the previous day that they will be required to
+         work beyond their normal quitting time, prior to commencing the overtime work, they
+         shall be provided with a meal and be allowed thirty (30) minutes to consume same and
+         the employee shall be paid at the base hourly rate of pay. After each additional four (4)
+         hours is worked and when work is required beyond that four (4) hour period, the
+         employee shall be allowed thirty (30) minutes to eat and be paid at the base hourly rate
+         of pay and they shall be provided with a meal. The Employer will supply a hot meal
+         when possible. If supplying a hot meal is not possible, the Employer will pay the
+         employee $25.00.
+
+         Where an employee has been notified the previous day, no meal will be provided prior to
+         commencement of overtime work, but the employee will be allowed thirty (30) minutes to
+         eat and be paid at the base hourly rate of pay. After each additional four (4) hours is
+         worked and when work is required beyond that four (4) hour period, the employee shall
+         be allowed thirty (30) minutes to eat and be paid at the base hourly rate of pay and they
+         shall be provided with a meal.
+
+         The above-noted is not applicable to the first ten (10) hours worked on Saturdays, Sundays or
+         Recognized Holidays for employees who normally work the first and second shifts.
+
+         When a paid meal period overlaps a rest period, the paid meal period will supplant the
+         rest period.
+
+                                 Article 30 TOOLS AND CLOTHING
+
+30.1       An employee shall be required to provide himself with the ordinary hand tools of their
+           trade, based on established trade Union practices at the time of signing of this
+           Agreement. EPSCA and the Union shall establish an appropriate tool list for each
+           trade. The tool list is specified in the attached Appendix. Each Employer will provide,
+           insofar as is practical, separate facilities for storing the tools of each trade, but shall
+           not be held responsible for losses, except as noted hereunder:
+
+           (a)       When personal tools valued in excess of $15.00 are lost due to fire, the
+                     Employer will consider the full estimated value on the merit of each case in
+                     determining replacement or payment. This will include only personal tools that
+                     a tradesperson is required to have to perform their normal duties with their
+                     Employer.
+
+           (b)       Each Employer will compensate their employees for ordinary hand tools and
+                     clothing lost by theft from locked storage provided by them for their
+                     employees. Claims must be submitted, in writing, and must provide
+                     substantiating evidence of forcible entry to locked storage. Payment or
+                     replacement for personal clothing lost by theft on the work site shall be limited
+                     to clothing that a tradesperson is required to have to perform their normal
+                     duties with their Employer.
+
+
+
+
+27     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+           (c)        In the event of loss by fire at an Employer's camp or on the work site in an
+                      Employer designated storage area, replacement or payment of the full
+                      estimated value in excess of $15.00 but not exceeding $750.00 for the loss of
+                      personal clothing will be made by the Employer. Payment or replacement for
+                      personal clothing lost by fire on the work site shall be limited to clothing that a
+                      tradesperson is required to have to perform their normal duties with their
+                      Employer.
+
+           (d)       Employers may supply additional tools and equipment to employees.
+                     Employees receiving such tools or equipment shall be responsible for them in
+                     accordance with the provisions of this article. Employees will be charged for
+                     tools lost and not reported immediately.
+
+30.2       An employee who has obtained tools from their Employer shall be allowed sufficient
+           time, in the opinion of Management, to return such tools to their Employer during
+           working hours. An employee receiving tools from their Employer shall be held
+           responsible for the return of such tools in good condition, subject to normal wear and
+           tear. On layoff, an employee will be allowed reasonable time to return tools to their
+           Employer.
+
+30.3       Gang tools shall be the responsibility of the Employer. They are tools which are
+           issued to a foreperson and are used by one or more members of the crew. Such
+           tools are not identified on the Tool List, nor are they the tools and equipment
+           identified in 30.1 of this article.
+
+                 Article 31 PROTECTIVE CLOTHING AND EQUIPMENT
+
+31.1       When an Employer determines that weather conditions warrant it, they will supply
+           rainwear to employees.
+
+31.2       Employees are required to wear protective clothing and use protective equipment
+           appropriate for the work being done.
+
+31.3       The protective clothing and equipment covered in 31.1 and 31.2 of this Article will be
+           charged out to an employee and the employee shall be responsible for the return of
+           such clothing and equipment to their Employer.
+
+31.4       Employees working in a radiation area, in plastic suits or replacement material of the
+           fully enveloping type with an independent air supply, will receive twenty dollars
+           ($20.00) per day. A day for the purposes of this item shall be defined as any period up
+           to twelve (12) hours.
+
+                 Article 32 APPRENTICESHIP AND TRADES TRAINING
+
+32.1     Apprenticeship and other training programs should be instituted as required to maintain
+         an adequate skilled and competent work force to perform work within the electrical
+         power systems sector by apprenticeship training programs, upgrading programs and
+         retraining programs.
+
+
+28     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+32.2     Apprentices shall be employed on work covered by this Agreement in the ratio of one
+         (1) Apprentice to two (2) Journeypersons. By agreement of the parties the ratio may be
+         further reduced. The Employer reserves the right to retain one (1) Registered
+         Apprentice regardless of seniority.
+
+32.3     The Union agrees to supply EPSCA with all pertinent information regarding these funds.
+
+32.4     Training programs established by the Employers to provide skills required in the
+         electrical power systems sector shall be funded by reducing the Employer's contributions
+         to the training fund in the specific locality where the training is taking place by an amount
+         of money equivalent to the cost of such programs.
+
+32.5     For the purposes of continued employment, the Employer may transfer apprentices to
+         any work location.
+
+32.6     The Union and the Employer shall maintain a balanced apprenticeship program. All
+         levels of apprentices shall be made available.
+
+32.7     The Joint Training and Apprenticeship Committee (JTAC) shall allow for participation of
+          EPSCA and/or an Employer Delegate.
+
+                               Article 33 GRIEVANCE PROCEDURE
+
+33.1       Grievances within the meaning of the grievance and arbitration procedure shall consist
+           only of disputes about the interpretation or application of particular clauses of this
+           Agreement and about alleged violations of this Agreement. In the event of any dispute
+           concerning the meaning or application of any provision of this Agreement or a dispute
+           concerning an alleged violation of this Agreement, there shall be no suspension or
+           disruption of work, but such dispute shall be treated as a grievance and shall be
+           settled, if possible, by the Appropriate EPSCA Representative or the Employer and the
+           appropriate Union. In the interests of expediting the procedure, the parties shall
+           process grievances in the following manner:
+
+           The grievance procedure and arbitration procedure in Article 33 does not apply to
+           jurisdictional disputes.
+
+33.2       PRELIMINARY DISCUSSION
+
+           Disputes arising out of the interpretation or alleged violation of this Agreement should,
+           if possible, be settled by discussion between the employee and/or their steward and
+           the employee's supervisor. If the employee affected is a foreperson, the preliminary
+           discussion will be between the Accredited Union Representative and the foreperson's
+           supervisor.
+
+33.3       FIRST STEP
+
+           If a dispute cannot be resolved by this method, the Accredited Union Representative
+           for the trade concerned may file a formal grievance on the prescribed form with the
+           Appropriate EPSCA Representative or the Employer within fifteen (15) working days of
+           the alleged grievous act.
+29     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+           Within ten (10) working days of the filing of the grievance, the Appropriate EPSCA
+           Representative or the Employer shall investigate the grievance and convene a First
+           Step meeting which they or the Accredited Union Representative considers necessary
+           to resolve it.
+
+           The Management Committee shall be comprised of the Appropriate EPSCA
+           Representative or the Employer or their designate plus at least one representative of
+           the Employer named in the grievance. The Union Committee shall include at least two
+           persons, one of whom shall be the Accredited Union Representative for the grievor.
+
+           The Appropriate EPSCA Representative or the Employer shall give their reply on the
+           prescribed form to the Accredited Union Representative within five (5) working days
+           from the date of the First Step meeting.
+
+           Copies of completed grievance forms signed by the appropriate parties shall be filed by
+           the Appropriate EPSCA Representative or the Employer. The Accredited Union
+           Representative for the grievor will file a copy with the Union.
+
+           The EPSCA Representative or the Employer will send a copy of any signed first step
+           grievance settlement between the Accredited Union Representative and EPSCA to the
+           Union and EPSCA office.
+
+33.4       SECOND STEP
+
+           Within ten (10) working days after the disposition has been issued under the First Step
+           of this procedure, the Accredited Union Representative may refer the grievance on the
+           prescribed form to the Appropriate EPSCA Representative or the Employer. A copy of
+           the grievance form shall be forwarded by the Accredited Union Representative to the
+           International Representative of the Union.
+
+           The Appropriate EPSCA Representative or the Employer shall investigate the
+           grievance and convene a meeting which they or the International Representative
+           considers necessary to resolve it and give their reply on the prescribed form to the
+           International Representative of the Union within five (5) working days from the receipt
+           of the grievance form which was completed at First Step.
+
+           The Management Committee shall comprise the Appropriate EPSCA Representative
+           plus two other Management Representatives, one of whom shall be a representative of
+           the Employer named in the grievance. The Union Committee shall be comprised of at
+           least the International Representative or their designate for the grievor. If the
+           International Representative elects to appoint a designate, they shall inform EPSCA, in
+           writing, of the name of the designate and the duration of appointment.
+
+33.5       EPSCA OR UNION GRIEVANCES
+
+           The processing of EPSCA or Union grievances will begin at the Second Step. EPSCA
+           or the Union may submit either policy or specific grievances. Such policy or specific
+           grievances shall be submitted within thirty (30) days of the alleged grievous act.
+
+
+30     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+33.6       TIME LIMITS
+
+           The time limits as to both documents and procedures set out in the above sections
+           shall be complied with by the parties to this Agreement provided, however, that the
+           parties may mutually agree, in writing, in respect to an extension or waiver of any of the
+           time limits imposed. Where no answer is given within the time limits specified in the
+           grievance procedure, the employee concerned, the Union, the Union or EPSCA shall
+           be entitled to submit the grievance to the next step of the grievance procedure. Any
+           grievance not processed within the time limits specified in the grievance procedure
+           shall be deemed to have been settled and ineligible for arbitration.
+
+33.7       Alleged unjustified termination, discharge, suspension or disciplinary action may be
+           grieved against the griever’s Employer beginning at First Step.
+
+33.8       GRIEVANCE FACILITIES
+
+           EPSCA shall provide the necessary facilities for all grievance meetings.
+
+                                         Article 34 ARBITRATION
+
+34.1       If any dispute about the interpretation or application of particular clauses of this
+           Agreement or about an alleged violation of this Agreement cannot be settled through
+           the grievance procedure outlined in Article 33, the matter may be submitted within thirty
+           (30) days of its failure of settlement by grievance procedure by either EPSCA or the
+           Union to Arbitration for adjudication.
+
+           The party desiring to submit the dispute to arbitration shall notify the other party, in
+           writing, of its desire and the notice shall contain the name of the first party's nominee to
+           arbitration board. The recipient of the notice shall, within five (5) working days, inform
+           the other party of the name of its nominee to the arbitration board. The two nominees
+           so selected shall, within ten (10) working days of the appointment of the second of
+           them, appoint a third person who shall be the Chairperson. If the recipient of the notice
+           fails to appoint a nominee, or if the nominees fail to agree upon a Chairperson, the
+           appointment shall be made by the Minister of Labour for Ontario upon the request of
+           either party. The arbitration board, when selected or appointed, will proceed as soon
+           as practicable to hear and determine the dispute and it shall issue a decision which is
+           final and binding upon the parties and upon their respective members. The decision of
+           a majority is the decision of the arbitration board, but if there is no majority, the
+           decision of the Chairperson governs.
+
+34.2        The arbitration board shall have no power to add to or subtract from or modify any of
+            the terms of this Agreement. The arbitration board shall not substitute its discretion for
+            that of the parties except where the board determines that an employee has been
+            discharged or otherwise disciplined for cause when this Agreement does not contain a
+            specific penalty for the infraction that is the subject matter of the arbitration. In such
+            cases, the arbitration board may substitute such other penalty for the discharge or
+            discipline as to the arbitration board seems just and reasonable in all circumstances.
+            The arbitration board shall not exercise any responsibility or function of the parties.
+            The arbitration board shall not deal with any matter not contained in the original
+            statement of grievance filed by the party referring the matter to arbitration.
+31     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+34.3       In arbitration proceedings, each party shall pay the fees and expenses of its nominee,
+           whether appointed by the party or by the Minister of Labour for Ontario, and the fees
+           and expenses of the Chairperson shall be shared equally by the parties.
+
+34.4       The time limits as to both documents and procedure set out in the above sections shall
+           be observed by the parties to this Agreement provided, however, that the parties may
+           mutually agree, in writing, in respect to an extension or waiver of any of the time limits
+           imposed.
+
+                                    Article 35 ASSOCIATION FUND
+
+35.1        Each Employer bound by this agreement shall contribute to the Electrical Power
+            Systems Construction Association Fund, the amount specified on the wage schedules
+            attached hereto for each hour worked by each employee covered by this agreement.
+
+           The Employer shall remit such contribution together with the supporting information as
+           required on the reporting forms.
+
+           EPSCA shall indemnify the Union for any liability arising from an Employer's failure to
+           remit such contributions.
+
+                                     Article 36 RADIATION WORK
+
+36.1       (a)       Local Union to be provided with a copy of Ontario Power Generation or Bruce
+                     Power Radiation Protection Regulations and any revisions.
+
+           (b)       Local Union to be provided with a copy of Ontario Power Generation or Bruce
+                     Power Protection Procedures and any revisions.
+
+           (c)       Each employee will have access to their personal radiation exposure record.
+
+           (d)       Long-term employees who reach their exposure limit will be given alternate
+                     employment until they can resume radiation work.
+
+           (e)       Short-term employees will be given a guaranteed period of employment at their
+                     time of hire.
+
+36.2        Construction Radiation Protection Assistant (R.P.A.) is a Construction Trades
+            Person (Greenperson) who has achieved the full radiation qualification via (i) the
+            approved Ontario Power Generation Inc. and/or Bruce Power Training Program, (ii)
+            has successfully completed the construction R.P.A. training and checkouts, and (iii)
+            has performed R.P.A. functions while under supervision of a fully qualified
+            Construction R.P.A. to the satisfaction of the Construction Site Safety Officer and the
+            Station Health Physics Unit.
+
+           The Employer will select for Greenperson training only those employees who are
+           members of the Local Union for the Project.
+
+
+32     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+           R.P.A. will be paid the appropriate equivalent foreperson's rate when performing an
+           R.P.A. function. An R.P.A. is a "qualification" and not a "trade function" irrespective of
+           Union or trade affiliation.
+
+           In the case of a recall to work, Employers reserve the right to recall qualified
+           Greenpersons in sequence from the out-of-work list to the location from where they
+           were laid off. Recalled Greenpersons will perform sufficient Greenpersonwork to
+           maintain their skill level.
+
+                   Article 37 INDIGENOUS CONTENT COMMITMENT
+
+37.1     Where an Indigenous commitment has been established on a project, the Union will
+         agree to the conditions required to meet the commitments.
+
+         For projects, or jobs within a project, that are less than $100,000 field labour, and have
+         Indigenous content commitments, the terms of the collective agreement will not apply to
+         those Indigenous commitments.
+
+         The parties acknowledge the traditional lands and treaty territories of the Indigenous
+         communities of Ontario and are committed to a strong and respectful relationship with
+         participating Indigenous communities.
+
+         The parties agree to work together with the Indigenous communities proactively towards
+         removing barriers that hinder the appropriate participation of Indigenous people in the
+         Building Trade Union workforce.
+
+         The terms and conditions of this article may be modified by the mutual consent of the
+         Union and EPSCA when they deem it prudent.
+
+                              Article 38 NO STRIKE - NO LOCKOUT
+
+38.1       There shall be no strikes or lockouts so long as this Agreement continues to operate.
+
+                  ARTICLE 39 EQUITY, DIVERSITY AND INCLUSION
+
+39.1       The parties are committed to achieving and maintaining a fair and representative
+           work force through EDI strategies intended to reduce barriers to equity, diversity and
+           inclusivity in the EPSCA sector. To further this goal, EDI initiatives shall be a standing
+           agenda item at regularly scheduled meetings between the parties.
+
+                        ARTICLE 40 RESPECT IN THE WORKPLACE
+
+40.1       The Union commits to training its members in "Respect in the Workplace" within six
+           (6) months of signing of the Collective Agreement.
+
+                             ARTICLE 41 HELMETS TO HARDHATS
+
+41.1       EPSCA and the Union will contribute 2 cents/hour worked.
+
+
+33     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+                                 Article 42 TERM OF AGREEMENT
+
+42.1       This Agreement shall continue in full force and effect from May 1, 2025 until April 30,
+           2030, inclusive, and thereafter it shall be considered automatically renewed for
+           successive periods of two (2) years unless at least sixty (60) days prior to the end of
+           any two (2) year period, either party serves written notice upon the other that it desires
+           termination, revision, or modification of any provision or provisions of this Agreement.
+
+           Upon the third (3rd) anniversary of this collective agreement the parties may initiate
+           discussions regarding proposed changes to the agreement. These discussions will
+           take place upon mutual consent by both parties with the requesting party providing a
+           minimum of sixty (60) days notice.
+
+
+IN WITNESS WHEREOF, the parties through their duly authorized officers have executed this
+Agreement, this 23 day of April ,2025
+
+
+
+
+__________________________________ _______________________________
+THE ELECTRICAL POWER SYSTEMS        ONTARIO COUNCIL of the INTERNATIONAL
+CONSTRUCTION ASSOCIATION           UNION of PAINTERS and ALLIED TRADES
+
+
+
+
+34     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+                                        APPENDIX A TOOL LIST
+
+                       ONTARIO COUNCIL of the INTERNATIONAL UNION
+                            OF PAINTERS AND ALLIED TRADES
+
+
+PAINTERS
+
+-   clean white overalls
+-   dusters
+-   putty knife
+-   broad knife
+
+GLAZIERS
+
+ 1     -   safety helmet
+ 1     -   pair of eye goggles with case
+ 1     -   pair of hand rubber pads
+ 1     -   set allen keys
+ 1     -   caulking gun
+ 1     -   c-clamp
+ 1     -   centre punch
+ 1     -   chalk line
+ 1     -   wood chisel
+ 1     -   cold chisel
+ 1     -   15 m 3-wire extension cord
+ 1     -   pair of glass pliers
+ 1     -   hack saw frame
+ 1     -   claw hammer
+ 1     -   rubber or plastic hammer
+ 1     -   hole saw with arbor
+*1     -   600 mm level
+*1     -   5 m measuring tape
+ 1     -   nail punch
+ 1     -   100 mm paint brush
+ 1     -   combination pliers
+ 1     -   plumb bob
+ 1     -   pointing trowel
+ 1     -   putty knife - straight
+ 1     -   putty knife - bent
+ 1     -   neoprene roller
+
+*Measurement Sensitive
+
+
+
+
+35    Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+(APPENDIX A -Tool List - continued)
+
+
+ 1   -   razor blade scraper
+ 1   -   screwdriver - Robertson drive - green, red and black
+ 1   -   screwdriver - Phillips drive - #1, #2, and #3
+ 1   -   screwdriver - straight drive - 150 mm, 200 mm, and 250 mm
+ 1   -   adjustable wrench
+ 1   -   set of open end wrenches - 3/8" to 1"
+         plus metric size 8 mm to 21 mm
+ 1   -   scriber
+ 1   -   combination square
+ 1   -   bevel square
+ 1   -   set of triple suction cups
+ 1   -   pair of tin snips 1 -          tool box
+ 1   -   wrecking bar - webbing straps
+         approximately 3 mm x 100 mm x 18 m
+
+
+TAPERS
+
+ 3   -   broad knives
+ 1   -   taper's trowel
+ 1   -   corner knife
+ 1   -   hawk
+ 1   -   hammer
+ 1   -   sandpaper block
+
+
+
+
+36   Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+     May 1, 2025 – April 30, 2030
+                           APPENDIX B FOREPERSON APPENDIX
+
+EPSCA and the Union have agreed that the following conditions apply to Forepersons
+
+                                                        Article 1
+
+1.1     It is understood that forepersons hold a key position in the relationship between the
+        Employers and the Union. Both parties agree that every effort should be made to recruit
+        and retain forepersons who have a high degree of efficiency in the performance of their
+        jobs and in the handling of their men. Recognizing the responsibilities involved in being
+        a supervisor and a member of a Union, the Employers and the Union will make every
+        effort to minimize problems that may arise which concern the relationship between the
+        forepersons, the Employers and the Unions.
+
+                                                        Article 2
+
+2.1     Forepersons are the first level of management supervision and, as such, are
+        management representatives. In this capacity, they will exercise duties and
+        responsibilities, as established by their Employers, and will not work with the tools of the
+        trade, except as provided for in the individual trade appendices’ articles.
+
+        The parties recognize the responsibility of forepersons to discharge their managerial
+        duties. If the Union feels that a foreperson is not discharging their managerial duties in a
+        manner that is fair, equitable and without bias, or if an Employer feels that a Union is
+        interfering with a foreperson in the performance of their managerial duties, the Employer
+        or the Union may refer the problem to the Project Committee for resolution. If the matter
+        cannot be resolved by the Project Committee, the grievance procedure may be invoked
+        by either party.
+
+                                                        Article 3
+
+                                       EMPLOYERS' RIGHT TO SELECT
+
+3.1     The selection and retention of forepersons will be the responsibility of the Employers.
+        When making appointments to the foreperson level, the Employers will give
+        consideration to those journeypersons they presently employ. The appointment of
+        forepersons in charge of composite or mixed crews will take into account the nature of
+        the work to be done.
+
+                                                         Article 4
+
+                                                UNION AFFILIATION
+
+4.1     In accordance with the "Union Security" article of this Agreement, and in accordance
+        with Article 3, Employers' Right to Select, contained in this Appendix, the appropriate
+        Union affiliation for forepersons shall be determined, as follows:
+
+
+
+
+37    Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+(APPENDIX B – Foreperson Appendix - continued)
+
+        (a)     Forepersons appointed by internal promotion shall retain the Union membership
+                held prior to appointment.
+
+        (b)     Forepersons recruited externally shall:
+
+                (i)       if a Union member, continue that Union membership; or
+
+                (ii)      if not a Union member, join the appropriate Union in keeping
+                          with the nature of the work to be done.
+
+                                                         Article 5
+
+                                                         WAGES
+
+5.1     The rates of pay for forepersons covered by this Appendix shall be the greater of:
+
+        (i)     twelve percent (12%) above the journeyperson base hourly rate; or
+
+        (ii)    the Employer's current practice; or
+
+        (iii)   the rate negotiated in appropriate local agreements.
+
+                                                         Article 6
+
+                                       WEEKLY HOURS OF WORK
+
+6.1     When the normal weekly hours of work are amended by the "exceptions" recognized
+        under this Agreement, the weekly hours of work for forepersons shall be the same as for
+        the tradespersons represented by the Union with which the foreperson is affiliated.
+
+                                                         Article 7
+
+                                     SHIFT DIFFERENTIAL RATE
+
+7.1     Forepersons required to work shift work other than the regular day shift shall receive the
+        same shift differential rate as the tradespersons represented by the Union with which the
+        foreperson is affiliated.
+
+                                                        Article 8
+
+                                              OVERTIME RATES
+
+8.1     Overtime rates for work performed outside normal hours as defined in the "Hours of
+        Work" article contained in this Agreement and outside hours of work amended by the
+        "exceptions" recognized under this Agreement, shall be the same as for tradespersons
+        represented by the Union with which the foreperson is affiliated.
+
+
+38    Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+(APPENDIX B – Foreperson Appendix - continued)
+
+                                                         Article 9
+                                                         BENEFITS
+
+9.1      The Employer agrees to pay into operative welfare and pension plans on behalf of
+         forepersons covered by this Appendix. Payments will be made on the same basis and in
+         the same amounts as are paid on behalf of tradespersons represented by the Unions
+         with which the forepersons are affiliated.
+
+                                                        Article 10
+                                                        MOBILITY
+
+10.1     To maintain efficiency and productivity, an Employer shall have the right to move
+         forepersons from construction site to construction site, as determined at the pre-job
+         conference.
+
+                                                        Article 11
+                              APPRENTICESHIP AND TRAINING PROGRAMS
+
+11.1     The Employer agrees to pay into operative apprenticeship and training funds on behalf
+         of forepersons covered by this Appendix. Payments will be made on the same basis
+         and in the same amounts as are paid on behalf of tradespersons represented by the
+         Union with which the forepersons are affiliated.
+
+                                                        Article 12
+                                               TOOLS AND CLOTHING
+
+12.1     On a charge-out basis, the Employer shall supply forepersons with protective clothing
+         appropriate for the conditions under which the work is being done.
+
+12.2     Forepersons shall be accountable, but not liable, for gang tools used by their crew.
+
+
+
+
+39     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+          APPENDIX C MOOSE RIVER BASIN: NORTHERN ONTARIO
+                ______________________________________________________
+
+Where the Employer elects to establish a camp, the following conditions will apply for
+employees working in the Moose River Basin:
+
+
+Camp Conditions
+
+(a)   An Employer may elect to provide free room and board in camp at no cost to the
+      employee. Where the Employer elects to provide a camp such employees will not be
+      entitled to receive a daily travel or room & board allowance.
+
+(b)   When an Employer does not elect to provide free room and board in camp, the employee
+      will be entitled to receive a daily travel or room and board allowance as set out in Articles
+      24.1 and 24.2 (and Sections 1.1 and 1.4 in Appendix F Lines and Stations).
+
+(c)   An employee who remains in camp on a normally scheduled work day on which they do
+      not work will be charged $25.00 per day unless they are excused from work for a
+      legitimate reason by the project medical attendant or an authorized representative of their
+      Employer.
+
+(d)   An employee who is absent from work without approval and who remains in camp and is
+      still absent from work the following day without approval will be charged $25.00 for the
+      day of absence and each successive day of unapproved absence.
+
+
+Hours of Work
+
+(1)   The hours of work will consist of a 21 day cycle of fourteen (14) consecutive work days
+      followed by seven (7) consecutive days off.
+
+(2)   Regularly scheduled hours of work of ten (10) hours per day shall be paid at straight time
+      hourly rates.
+
+(3)   Regularly scheduled hours of work on Saturday, Sunday, Recognized Holidays, and the
+      fifth (5th) consecutive weekday shall be paid at two times the straight time hourly rate.
+
+
+
+
+40    Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+(APPENDIX C – Moose River Basin: Northern Ontario - continued)
+
+
+Wrap Around
+
+An employee shall qualify for a return trip from the project every second twenty-one (21) day
+cycle they are on the project on the following basis:
+
+(a)   If an employee lives within 189 road-driven kilometres from the project, the Employer shall
+      pay sixty dollars ($60.00).
+
+(b)   If an employee lives greater than 189 road-driven from the project, the Employer shall pay
+      as an allowance, sixty dollars ($60.00) plus travel time based on the equivalent of one (1)
+      hour’s base rate of pay for each ninety-six (96) road-driven kilometres from where the
+      employee lives or place of recruitment, whichever is closer to the project.
+
+
+
+
+41    Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+                 APPENDIX D 7-DAY COVERAGE NUCLEAR SITES
+
+
+When working under the provisions of this 7-day shift schedule, all conditions listed below will
+supersede those in the other Articles/Sections of this Collective Agreement. Where this shift
+schedule is silent, the appropriate Article/Section in the Collective Agreement applies.
+
+These provisions would only apply to work performed on a Nuclear facility.
+
+This shift schedule is intended for work greater than two (2) weeks in duration, however, it is
+recognized that unforeseen circumstances may require cancellation of this schedule.
+
+If in the transition onto or off this 7-day shift schedule an employee would receive less than 40
+paid hours in a pay period, the employee shall receive the difference between the total paid
+hours for that pay period and 40 hours’ pay. This does not apply to those employees who are
+laid off during or at the end of the schedule.
+
+The employee(s) shift schedule consists of four consecutive shifts (day, afternoon, or night)
+followed by four scheduled days off. Shift overlap may be required.
+
+Shift work may be established by the Employer to provide seven days per week work coverage,
+on a two or three ten (10) hour per day shift basis. When this occurs, a specific shift
+arrangement will be established by the Employer detailing the shift schedule to be worked.
+
+Notice Provision
+
+If this shift schedule is to be used for work on a “planned outage”, the Employer will provide the
+Union with two (2) weeks’ notice prior to the implementation of these shift provisions.
+
+Shift Provisions
+
+Day Shift
+
+Regularly scheduled hours of work per shift, Monday to Friday inclusive, shall be paid at straight
+time hourly rates.
+
+Afternoon Shift
+
+Regularly scheduled hours of work per shift, Monday to Friday inclusive, shall be paid at straight
+time hourly rates, plus a shift differential which shall be equal to the appropriate Shift
+Differential.
+
+
+
+
+42   Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+     May 1, 2025 – April 30, 2030
+(APPENDIX D – 7-Day Coverage Nuclear Sites - continued)
+
+Night Shift
+
+Regularly scheduled hours of work per shift, Monday to Friday inclusive, shall be paid at straight
+time hourly rates, plus a shift differential which shall be equal to the appropriate Shift
+Differential.
+
+All Shifts
+
+Regularly scheduled hours of work on Saturday, Sunday, Statutory and Recognized Holidays
+shall be paid at the appropriate overtime rate for that trade. Recognized Holidays will be
+observed on the actual day on which the holiday occurs or as declared by legislation.
+
+The rate for the shift will be based on the day in which the shift begins.
+
+An unpaid lunch period of one-half hour shall be allowed to be taken no later than five hours
+after the commencement of a shift.
+
+For employees working regularly scheduled hours, two fifteen (15) minute rest periods will be
+allotted at a time and location directed by the Employer for employees to rest.
+
+It may be necessary, from time to time, to vary the established shift arrangements. When this
+occurs, a revised shift arrangement will be established.
+
+
+
+
+43    Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+ APPENDIX E 7-DAY COVERAGE HYDRO ONE (LINES AND STATIONS)
+
+
+This shift schedule is intended for work greater than two (2) weeks in duration; however, it is
+recognized that unforeseen circumstances may require the cancellation of this schedule.
+
+These provisions will only apply to work performed on Lines and Stations as follows:
+
+“for emergency work until the system is restored to the pre-emergent state”
+
+If in the transition onto or off this 7-day shift schedule an employee would receive less than 40
+paid hours in a pay period, the employee shall receive the difference between the total paid
+hours for that pay period and 40 hours’ pay. This does not apply to those employees who are
+laid off during or at the end of the schedule.
+
+The employee(s) shift schedule consists of four consecutive shifts (day, afternoon, or night)
+followed by four scheduled days off. Shift overlap may be required.
+
+Shift work may be established by the Employer to provide seven days per week work
+coverage, on a one, two, or three shift per day basis. When this occurs, a specific shift
+arrangement will be established by the Employer detailing the shift schedule to be worked.
+The Employer will provide the Union with 48 hours’ notice prior to the implementation of these
+shift provisions.
+
+First Shift
+
+Regularly scheduled hours of work, Monday to Friday inclusive, shall be paid at straight time
+hourly rates.
+
+Second Shift
+
+Regularly scheduled hours of work, Monday to Friday inclusive, shall be paid at straight time
+hourly rates, plus a shift differential which shall be equal to the appropriate Shift Differential.
+
+Third Shift
+
+Regularly scheduled hours of work, Monday to Friday inclusive, shall be paid at straight time
+hourly rates, plus a shift differential which shall be equal to the appropriate Shift Differential.
+
+
+
+
+44    Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+(APPENDIX E – 7-Day Coverage Hydro One [Lines and Stations] - continued)
+
+All Shifts
+
+Regularly scheduled hours of work on Saturday, Sunday, Statutory and Recognized Holidays
+shall be paid the appropriate overtime rate for that trade. Recognized Holidays will be observed
+on the actual day on which the holiday occurs or as declared by legislation.
+
+The rate for the shift will be based on the day in which the shift begins.
+
+An unpaid lunch period of one-half hour shall be allowed to be taken no later than five hours
+after the commencement of a shift.
+
+For employees working regularly scheduled hours, two fifteen (15) minute rest periods will be
+allotted at a time and location directed by the Employer for employees to rest.
+
+It may be necessary, from time to time, to vary the established shift arrangements. When this
+occurs, a revised shift arrangement will be established.
+
+
+
+
+45    Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+                              APPENDIX F LINES AND STATIONS
+
+
+All other terms and conditions in the collective agreement will apply to work on Lines and
+stations unless modified or supplemented by this Appendix. In the event of a conflict between
+language in the collective agreement and the language in the Lines and stations Appendix, the
+language in the Lines and Stations Appendix will prevail.
+
+The following Articles will be moved from the main body of the agreement into this Appendix;
+
+      Article 26 - Hydro One (Lines and Stations) Construction Daily Travel Allowance and
+      Room and Board
+
+      Article 27 - Hydro one (Lines and Stations) Daily Travel Time
+
+ARTICLE 1 - LINES AND STATIONS CONSTRUCTION DAILY TRAVEL
+ALLOWANCE AND ROOM AND BOARD
+
+1.1     DAILY TRAVEL ALLOWANCE
+
+           The daily travel allowance will be paid by the Employers to their employees who
+           are not living in camp or receiving a subsistence allowance as referred to in Article
+           1.4, on the following basis:
+
+            (a)       If an employee lives less than fifty (50) road-driven kilometers from the work
+                      location or declared assembly point, no travel allowance will be paid.
+
+            (b)       If an employee lives fifty (50) to seventy (70) road-driven kilometers from the
+                      work location or declared assembly point, they shall receive the rates as set
+                      out below for each day worked or reported for.
+
+            (c)       If an employee lives seventy (70) to ninety-six (96) road-driven kilometers
+                      from the work location or declared assembly point, they shall receive the
+                      rates as set out below for each day worked or reported for.
+
+            (d)       If an employee lives ninety-six (96) to one hundred and ten (110) road-driven
+                      kilometers from the work location or declared assembly point, they shall
+                      receive the rates as set out below for each day worked or reported for.
+
+            (e)       If an employee lives greater than or equal to one hundred and ten (110) road-
+                      driven kilometers from the work location or declared assembly point, and does
+                      not qualify for subsistence allowance under Section 1.4 below, they shall
+                      receive the rates as set out below provided they continue to travel greater than
+                      or equal to one hundred and ten (110) road-driven kilometers daily for each
+                      day worked or reported for.
+
+
+
+
+46    Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+                                Daily Travel Rates - Painters (Transmission)
+        Year                    50-70 road-     70-96 road-      96-110 road                        >110 road-
+                                 driven km       driven km        driven km                         driven km
+                                  1.1 (b)          1.1 (c)          1.1 (d)                           1.1 (e)
+        2025-05-01                $32.56          $37.14            $42.00                            $60.00
+        2026-05-01                $33.37          $38.07            $43.05                            $60.00
+        2027-05-01                $34.20          $39.02            $44.13                            $60.00
+        2028-05-01                $35.06          $40.00            $45.23                            $60.00
+        2029-05-01                $35.94          $41.00            $46.36                            $60.00
+
+            (f)       Employees using company vehicles are not entitled to daily travel.
+
+1.2         The Employer reserves the right to base daily travel allowance on the distance in
+            road-driven kilometers from where an employee lives to either the work location or
+            declared assembly point, depending on where the employee is directed to report.
+
+1.3         For the purpose of the Collective Agreement, “road-driven kilometres” is based on the
+            shortest available road-driven distance from where an employee lives to either the
+            work location or declared assembly point, depending on where the employee is
+            directed to report, as measured through Google Maps.
+
+1.4        ROOM AND BOARD
+
+           The following conditions will apply for employees whose regular residence* is greater
+           than or equal to one hundred and ten (110) road-driven kilometers from the work
+           location:
+
+           (a)    An Employer may supply either:
+
+                    (i)         room and board in camp or a good standard of board and lodging; or
+
+                    (ii)        a subsistence allowance;
+
+                  subject to Sections 1.4 (b) and (c) below.
+
+           (b)    An employee may exercise their option not to stay in a camp or accept room and
+                  board. An employee who exercises this option and qualifies for subsistence
+                  allowance shall receive a subsistence allowance of the rates as set out below per
+                  day for each day worked or reported for subject to Article 1.4(c) below.
+
+           (c)    To qualify for subsistence allowance an employee must maintain temporary
+                  accommodation at or near the work location. Employees who travel daily to
+                  locations greater than or equal to one hundred and ten (110) road-driven
+                  kilometers from the project will be entitled to the rates as set out below for each
+                  day worked or reported for.
+
+
+
+
+47    Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+                                    Room & Board – Painters (Transmission)
+          Year                       Subsistence 1.4 (b)           >110 road-driven km 1.4 (c)
+       2025-05-01                           $135                            $60.00
+       2026-05-01                           $140                            $60.00
+       2027-05-01                           $145                            $60.00
+       2028-05-01                           $150                            $60.00
+       2029-05-01                           $155                            $60.00
+
+
+*        An employee's 'regular residence' is:
+
+      1. The place where the employee maintains a self-contained, domestic establishment
+         (a dwelling house, apartment or similar place of residence where a person
+         generally eats and sleeps and for which they can show proof of financial
+         commitment). This is in contrast to a boarding house facility which is not
+         self-contained; and
+
+      2. The employee normally resides in the residence except for those periods of time
+         when, because of the location of the work, the employee is forced to obtain
+         temporary accommodation at that work location.
+
+           (d)     When an employee's regular residence is more than six hundred (600) road-
+                   driven kilometers from the project, and the job or project is worked on a four ten
+                   (4x10) hour work week, the employee shall receive room and board allowance on
+                   a five day basis for a regular work week. If the employee is required to work an
+                   additional ten (10) hour shift beyond the normal four ten (4x10) hour shift, the
+                   employee will be entitled to room and board allowance for an additional ten (10)
+                   hour shift worked to a maximum of seven (7) days room and board in a week.
+
+           (e)     If an apprentice does not qualify for Room and Board under Article 1.4 and lives
+                   greater than or equal to one hundred and ten (110) road-driven kilometers from
+                   the project, they shall receive daily travel rates as per the rates in Article 1.1 (e).
+
+1.5          An employee shall not qualify for daily travel allowance or room and board allowance
+             as provided for in Articles 1.1 and 1.4 above, when such employee reports for work
+             but does not remain at work for their scheduled daily hours unless excused by an
+             authorized representative of their Employer. Such permission shall not be
+             unreasonably denied.
+
+1.6          An employee who maintained a regular residence within the geographic area of the
+             Local Union for the purposes of employment and who relocates outside the
+             geographic area will not be entitled to an increase in travel or room and board
+             allowance entitlement as a result of this relocation.
+
+1.7          All applications for daily travel and room and board must be completed and filed with
+             the Employer within seven (7) days of employment. The Employer will not be
+             responsible for any applications filed thereafter, inclusive of an employee who has
+             been laid off, has quit or has been terminated within the first seven (7) days of
+             employment.
+
+
+48     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+1.8         The Union recognizes the Employer's right to charge for board and other existing
+            services. The Employer fixes the charge for board and other existing services in
+            camps at $25.00 per day. This will be applied on the following basis:
+
+            a)    An employee who remains in camp on a normally scheduled workday on which
+                  they do not work will be charged $25.00 per day unless they are excused from
+                  work by an authorized representative of their Employer.
+
+            b)    An employee who is absent from work on Friday without approval and who
+                  remains in camp and who is still absent from work on the following Monday
+                  without approval will be charged for room and board for Friday, Saturday, Sunday
+                  and Monday.
+
+            c)     An employee who is absent from work without approval on Friday but who works
+                  the following Monday will be charged for the day of absence and will not be
+                  charged for Saturday and Sunday.
+
+           d)     An employee who works the Friday and is absent from work without approval on
+                  the following Monday will be charged for the day of absence and will not be
+                  charged for Saturday and Sunday.
+
+ARTICLE 2 - HYDRO ONE (LINES AND STATIONS) DAILY TRAVEL TIME
+
+2.1        All travel time will be outside of normal working hours.
+
+2.2        a)     An employee will be paid their straight-time rate for all time spent travelling from
+                  their assembly point to their work location on normal working days.
+
+                  An employee will be paid premium time for all time spent travelling from their
+                  assembly point to their work location on days other than normal working days.
+
+           b)     An employee will travel up to a maximum of one hour on their own time when
+                  returning from their work location to their assembly point. An employee will be
+                  paid their straight-time rate for all time spent travelling in excess of one hour.
+
+2.3       All time in excess of one hour spent travelling from the work location to the assembly
+          point on non-working days shall be compensated for at the appropriate premium rates
+          of pay.
+
+2.4       The Employer will supply transportation between the assembly points and work
+          locations.
+
+ARTICLE 3 - LINES AND STATION CONSTRUCTION TRAVEL AND TRANSPORTATION
+
+3.1        INITIAL EMPLOYMENT
+
+
+
+
+49    Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+      May 1, 2025 – April 30, 2030
+            On recruitment of tradespersons who live between ninety-six (96) to one hundred and
+            eighty-nine (189) road-driven from the project, the Employer shall pay $50.00 for the
+            initial trip to the project.
+
+3.2         ONTARIO RESIDENTS
+
+            On recruitment of tradespersons who live in Ontario but beyond one hundred and
+            eighty-nine (189) road-driven kilometers from the project, the Employer shall pay $0.47
+            per road-driven kilometer plus an allowance for travel time of one hour's base rate of
+            pay for each ninety-six (96) road-driven kilometers of travel to a maximum of 8 hours'
+            pay for the initial trip to the project from where the tradesperson lives or place of
+            recruitment, whichever is closer to the project.
+
+3.3         NON-ONTARIO RESIDENTS
+
+           On recruitment of tradespersons who live outside Ontario and beyond one hundred and
+           eighty-nine (189) road-driven kilometers from the project, the Employer shall pay the
+           equivalent of the cost of public transportation plus an allowance for travel time of one
+           hour's base rate of pay for each ninety-six (96) road-driven kilometers of travel to a
+           maximum of 8 hours' pay for the initial trip to the project from where the tradesperson
+           lives or place of recruitment, whichever is closer to the project.
+
+3.4        To qualify for payment in 3.1, 3.2 and 3.3 of this Article, the employee must remain at
+           the project for a minimum of fifteen (15) working days or the duration of their job,
+           whichever is lesser.
+
+3.5        On termination of employment due to a reduction of staff, an employee entitled to
+           payment under 3.1, 3.2 or 3.3 of this Article shall be entitled to return expenses
+           calculated in the same manner as in 3.1, 3.2 or 3.3 above, for the return trip from the
+           project to where the tradesperson lives or place of recruitment whichever is closer to
+           the project. An employee whose employment terminates for any reason other than
+           reduction of staff shall not be eligible for return payment.
+
+3.6        TRANSFER
+
+           When transferring employees, the Employer shall pay the equivalent of the cost of
+           public transportation for the initial trip to the project from the employee's most recent
+           work location. In addition, the Employer will pay travelling time at straight-time rates up
+           to a maximum of 8 hours.
+
+ARTICLE 4 - MOBILITY
+
+In order to address the issues of crew consistency, timeliness and cost competitiveness, the
+parties agree that the following shall constitute the principles that will govern mobility for the
+term of the collective agreement.
+
+ 4.1             When performing work on a new construction project that spans multiple local
+                 Union geographical jurisdictions, the EPSCA owner/contractor shall have the
+
+
+50     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+                 opportunity to keep the crew intact, and move the entire crew across geographical
+                 jurisdictions
+
+ 4.2             The EPSCA owner/contractor will inform the local Union hall of who the “travelers”
+                 are, the classifications they occupy and the local they belong to in advance of
+                 beginning work in the new geographical area (e.g. at the mark-up meeting, if one
+                 is required for the specific project).
+
+ 4.3             Where mutually agreeable, the EPSCA owner/contractor may agree to modify the
+                 make-up of the crew by replacing incumbent “travelers” with local members on the
+                 local Union’s out-of-work list.
+
+Article 5 - FLAME RESISTANT CLOTHING
+
+       The wearing of flame and arc resistant clothing has been made mandatory on Hydro One
+       construction sites. In recognition of this requirement, employees will be issued an initial
+       allotment of $500.00 to purchase such clothing from the approved supplier, as directed by
+       the Employer. When an employee has been working for the Employer for one month and
+       is expected to continue working for the Employer, an additional allotment of $500.00 may
+       be provided at the discretion of the Employer.
+
+       The replacement or mending of clothing is the responsibility of the Employer. Employees
+       will be allowed to replace worn or damaged clothing with alternate items up to the value of
+       the item being replaced.
+
+Article 6 –WAGES
+
+       Hydro One Direct Hires Only: For any overpayment that amounts to $250.00 or less, the
+       Employer will deduct the full amount of the overpayment from the next regular pay.
+       Notification of the overpayment will be sent to the employee and the Union. The Employer
+       shall advise the Union and obtain the employee’s consent prior to recovery of the funds
+       for any overpayment over $250.00. Should the employee withhold consent, the Employer
+       reserves its right to seek recovery through the grievance procedure or other legal
+       proceedings.
+
+This LOU will expire automatically upon the expiry of the collective agreement (unless renewed
+by the parties) or if flame resistant clothing becomes a legislated requirement on Hydro One
+Sites, whichever is sooner.
+
+
+
+
+51     Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+       May 1, 2025 – April 30, 2030
+                        STATEMENT OF UNDERSTANDING NO. 1
+
+                                                             between
+
+                                        THE ELECTRICAL POWER SYSTEMS
+                                          CONSTRUCTION ASSOCIATION
+
+                                                              and the
+
+                           ONTARIO COUNCIL of the INTERNATIONAL UNION OF
+                                   PAINTERS AND ALLIED TRADES
+
+
+
+                                     EMPLOYMENT REFERRALS
+
+       It is agreed by the Parties to this understanding, that prior to any member being referred
+       for employment under this agreement, the member must submit to a security clearance
+       (OPG and Bruce Power) and reliability screening (Hydro One). Only members who
+       successfully obtain clearance will be referred for employment. Once a member has
+       been hired on, they will receive an allowance of $50.00 on their first weeks pay cheque,
+       in consideration of their time spent filling out the security clearance forms. For clarity, the
+       allowance will only be paid to employees when they have been hired on and such forms
+       have been required to be filled out.
+
+       The Union will be notified, as soon as possible, whether or not an individual has
+       successfully obtained security clearance. This pre-clearance does not prohibit the Union
+       from filing a grievance against the Employer on behalf of any member who is refused
+       employment due to their failure to obtain security clearance.
+
+
+
+
+52   Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+     May 1, 2025 – April 30, 2030
+                        STATEMENT OF UNDERSTANDING NO. 2
+
+
+                                                       Between
+
+
+                                  THE ELECTRICAL POWER SYSTEMS
+                                    CONTRUCTION ASSOCIATION
+
+
+                                                          And
+
+
+                        ONTARIO COUNCIL of the INTERNATIONAL UNION
+                             OF PAINTERS AND ALLIED TRADES
+
+
+
+
+It is agreed that an Employer may refuse to hire former employees who have retired and
+signed a waiver that they will not be re-employed.
+
+
+
+
+Dated at Toronto, this 14th day of March, 2005 .
+
+
+
+                 Wm. Nicholls                                              M.R. Jackson
+
+__________________________________ _______________________________
+ONTARIO COUNCIL of the
+INTERNATIONAL UNION OF             EPSCA
+PAINTERS AND ALLIED TRADES
+
+
+
+
+53   Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+     May 1, 2025 – April 30, 2030
+                                   Letter of Understanding No. 1
+
+
+                                  THE ELECTRICAL POWER SYSTEMS
+                                    CONTRUCTION ASSOCIATION
+
+
+                                                          And
+
+
+                        ONTARIO COUNCIL of the INTERNATIONAL UNION
+                             OF PAINTERS AND ALLIED TRADES
+
+
+
+
+In producing the EPSCA and the Ontario Council of the International Union of Painters and
+Allied Trades (‘Painters’) 2004 - 2010 Collective Agreement the parties were required to use
+and integrate a number of previous Agreements. Specifically, these were the Master Portion
+(Power Council and EPSCA), Foreperson Appendix, Painters Appendix, and Memorandums of
+Agreement dated June 3, 2004 and May 30, 2000.
+
+The parties agree that the Recognition Clause (Article 1) in the aforementioned 2004 - 2010
+Collective Agreement is meant to capture the jurisdiction of the Painters stemming from the
+previous Collective Agreement. For clarity's sake, it is meant to neither add to nor subtract from
+the Painters' previous jurisdiction.
+
+
+
+                 Wm. Nicholls                                 M.R. Jackson
+
+__________________________________ _______________________________
+
+Ontario Council of the International                     EPSCA
+Union of Painters and Allied Trades
+
+
+
+Dated at Toronto, this 14th day of March, 2005 .
+
+
+
+
+54   Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+     May 1, 2025 – April 30, 2030
+                                        Letter of Understanding No. 2
+
+
+                                       THE ELECTRICAL POWER SYSTEMS
+                                         CONTRUCTION ASSOCIATION
+
+
+                                                               And
+
+
+                             ONTARIO COUNCIL of the INTERNATIONAL UNION
+                                  OF PAINTERS AND ALLIED TRADES
+
+
+This letter of understanding applies to Lines and Stations, will be implemented after confirmation
+that the FTI (Finishing Trades Institute) Ontario, IFSTC Certificates and other training provided
+by the Union meets the Employers requirements as “Industry Standard Training” for the
+purposes of this LOU.
+
+In order to address the issues of training costs and competitiveness, the parties agree that the
+following shall constitute the principles that will govern training for the term of the collective
+agreement.
+
+     1.     The EPSCA owners will continue to mandate the training requirements for workers on
+            EPSCA owner sites.
+
+     2.     Painters will attend industry standard training on their own time and complete it prior to
+            referral and the Union will provide proof of successful completion to the Owner with the
+            referral package. The parties agree that the following training courses will be recognized
+            as industry standard:
+
+                    - WHMIS
+                    - Fire Safety
+                    - Working at Heights/ Fall Protection
+                    - Elevated Work Platform/ Aerial Device
+                    - Standard First Aid/CPR/AED
+                    - Electrical Safety Awareness
+
+     3.     The parties agree that EPSCA Employers can refuse to hire workers without industry
+            standard training as listed above.
+
+
+
+
+55        Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+          May 1, 2025 – April 30, 2030
+                                   Letter of Understanding No. 3
+
+
+                                  THE ELECTRICAL POWER SYSTEMS
+                                    CONTRUCTION ASSOCIATION
+
+
+                                                          And
+
+
+                        ONTARIO COUNCIL of the INTERNATIONAL UNION
+                             OF PAINTERS AND ALLIED TRADES
+
+RE: 6 x 3 SCHEDULE- NUCLEAR ONLY
+
+When working under the provisions of this LOU, all conditions listed below will supersede those
+contained in the main agreement. Where this LOU is silent the appropriate Article in the
+Collective Agreement applies.
+
+If in the transition onto or off this schedule other than a layoff, an employee would receive less
+than 40 paid hours in a pay period, the employee shall receive the difference between the total
+paid hours for that pay period and 40 hours pay. This does not apply to those employees who
+are laid off during or at the end of the schedule.
+
+This schedule will consist of rotations of six (6) consecutive eight (8) hour shifts at straight time,
+with overtime as required, followed by three (3) consecutive days off. Where this schedule is
+utilized, there will be a scheduled rest rotation where the employee will not be scheduled to
+work- this scheduled rest rotation will occur on every 8th rotation. Overlap of shift and/or
+start/finish times may be required.
+
+It is intended that this schedule will be worked on a six (6) day, ten (10) hour per day schedule,
+with overtime paid in accordance with Article 16 - Overtime Rates after eight (8) hours per day
+Monday to Friday.
+
+Shift work may be established by the Employer on a two or three, eight (8) hour per day shift
+basis, with overtime as required. When this occurs, a specific shift arrangement will be
+established by the Employer detailing the shift schedule to be worked.
+Where an employee works a full rotation before and after the scheduled rest rotation, the
+Employer will pay the applicable room and board for the scheduled rest rotation.
+
+Shift changes amongst employees must be authorized by the Employer.
+
+Shift Provisions
+
+Day Shift
+Regularly scheduled hours of work per shift Monday to Friday inclusive shall be paid at straight
+time hourly rates.
+
+
+56   Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+     May 1, 2025 – April 30, 2030
+Afternoon Shift
+Regularly scheduled hours of work per shift Monday to Friday inclusive shall be paid at straight
+time hourly rates plus a shift differential of one-seventh (1/7) when working a three (3) shift
+operation and one-fifth (1/5) when working a two (2) shift operation of the straight time hourly
+rate.
+
+Night Shift
+Regularly scheduled hours of work per shift Monday to Friday inclusive shall be paid at straight
+time hourly rates plus a shift differential of one-fifth (1/5) of the straight time hourly rate.
+
+All Shifts
+Regularly scheduled hours of work on Saturday, Sunday, Statutory and Recognized Holidays
+shall be paid at two times the straight time hourly rate. Recognized Holidays will be observed on
+the actual day on which the holiday occurs or as declared by legislation.
+
+The rate for the shift will be based on the day in which the shift begins.
+
+It may be necessary, from time to time, to vary the established shift arrangements. When this
+occurs, a revised shift arrangement will be established by the Employer.
+
+Overtime Rates
+This is to clarify that overtime will be paid in accordance with Article 16 - Overtime Rates.
+
+
+
+
+57   Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+     May 1, 2025 – April 30, 2030
+                                   Letter of Understanding No. 4
+
+
+                                  THE ELECTRICAL POWER SYSTEMS
+                                    CONTRUCTION ASSOCIATION
+
+
+                                                          And
+
+
+                        ONTARIO COUNCIL of the INTERNATIONAL UNION
+                             OF PAINTERS AND ALLIED TRADES
+
+RE: COLLECTIVE AGREEMENT AND WAGE SCHEDULE IMPLEMENTATION
+
+The Union will have 15 calendar days from ratification to provide the breakdown of pension,
+welfare, benefits to EPSCA.
+
+The parties will have 30 calendar days upon ratification to review, approve and implement the
+wage schedules.
+
+The parties will have 60 calendar days from ratification to review, approve the new collective
+agreement.
+
+If no approval is received by the accredited Union representative, within the timelines above
+the Association shall approve the wage schedule and shall apply any negotiated increase to
+the base wage. The Union will only be able to make changes in the next available window per
+the collective agreement.
+
+
+
+
+.
+
+
+
+
+58   Electrical Power Systems Construction Association and The Ontario Council of the International Union of Painters
+     May 1, 2025 – April 30, 2030
+
