@@ -1,0 +1,55 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>OTRAK Overtime Allocation</title>
+  <style>
+    body { font-family: system-ui, sans-serif; margin: 0; background:#f6f7f9; }
+    header { background:#111827; color:#fff; padding:1rem 2rem; display:flex; gap:1rem; align-items:center; }
+    header a { color:#fff; text-decoration:none; opacity:0.9; }
+    main { max-width: 900px; margin: 0 auto; padding: 2rem; }
+    .card { background:#fff; border-radius:12px; padding:1rem; box-shadow:0 1px 4px rgba(0,0,0,0.08); }
+    .row { margin: 0.75rem 0; }
+    input[type=file] { width: 100%; }
+    button { background:#111827; color:#fff; border:none; padding:0.6rem 1rem; border-radius:8px; cursor:pointer; }
+    .error { color:#b91c1c; }
+    .success { color:#047857; }
+  </style>
+</head>
+<body>
+  <header>
+    <h2>OTRAK</h2>
+    <a href="/">Agreement Chat</a>
+    <a href="/overtime">Overtime Allocation</a>
+  </header>
+  <main>
+    <div class="card">
+      <h3>Overtime Allocation (v0)</h3>
+      <p>Upload your staging CSVs. Required: <code>workers.csv</code>, <code>availability.csv</code>, <code>work_orders.csv</code>. Optional: <code>ot_totals.csv</code>.</p>
+
+      {% if errors %}
+        <div class="error">
+          <ul>
+            {% for e in errors %}<li>{{ e }}</li>{% endfor %}
+          </ul>
+        </div>
+      {% endif %}
+
+      {% if summary %}
+        <div class="success">
+          Generated {{ summary.total }} assignments. Unfilled: {{ summary.unfilled }}.
+          <div><a href="/overtime/download">Download draft_assignments.csv</a></div>
+        </div>
+      {% endif %}
+
+      <form method="post" enctype="multipart/form-data">
+        <div class="row">Workers CSV: <input type="file" name="workers" required></div>
+        <div class="row">Availability CSV: <input type="file" name="availability" required></div>
+        <div class="row">Work Orders CSV: <input type="file" name="work_orders" required></div>
+        <div class="row">OT Totals CSV (optional): <input type="file" name="ot_totals"></div>
+        <button type="submit">Run Allocation</button>
+      </form>
+    </div>
+  </main>
+</body>
+</html>
