@@ -32,5 +32,9 @@ OTRAK is a management tool for distributing overtime across a large construction
 - [Sample rules](data/sample_rules.json)
 - [Sample output](data/outputs/draft_assignments.csv)
 
+## UI
+- Simple Flask app: `app/app.py`
+- Docker: `docker compose up --build`
+
 ## Status
-- Scaffolded + v0 allocation script added.
+- Scaffolded + v0 allocation script + local embeddings + Flask UI.

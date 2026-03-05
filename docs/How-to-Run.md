@@ -33,6 +33,18 @@ python3 scripts/search_agreements.py --q "overtime\s+premium" --regex
 /media/boilerrat/Bobby/otrak-venv/bin/python scripts/search_embeddings.py --q "rest period" --trade "IBEW"
 ```
 
+## 6) Simple Flask UI
+```bash
+/media/boilerrat/Bobby/otrak-venv/bin/python app/app.py
+# visit http://localhost:5000
+```
+
+## 7) Docker
+```bash
+docker compose up --build
+# visit http://localhost:5000
+```
+
 ## Notes
 - One-shift-per-worker rule is enforced in v0.
 - Qualifications are hard filters; trade is not.
