@@ -25,6 +25,7 @@ OTRAK is a management tool for distributing overtime across a large construction
 - [Scoring model](docs/Scoring.md)
 - [Process & checklist](docs/Process.md) · [Checklist](docs/Checklist.md)
 - [How to run](docs/How-to-Run.md)
+- [Phase 2: Agreement RAG plan](docs/Phase-2-RAG.md)
 
 ## Samples
 - [Sample inputs](data/sample_inputs.md)
