@@ -326,5 +326,11 @@ def overtime_download():
     return send_file(BytesIO(data), mimetype="text/csv", as_attachment=True, download_name="draft_assignments.csv")
 
 
+@app.route("/samples.zip")
+def samples_zip():
+    zip_path = Path(__file__).resolve().parent / "samples.zip"
+    return send_file(zip_path, mimetype="application/zip", as_attachment=True, download_name="sample_csvs.zip")
+
+
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000, debug=True)
