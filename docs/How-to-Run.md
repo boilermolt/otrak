@@ -27,6 +27,12 @@ python3 scripts/search_agreements.py --q "overtime premium" --agreement "Nuclear
 python3 scripts/search_agreements.py --q "overtime\s+premium" --regex
 ```
 
+## 5) Semantic search (embeddings)
+```bash
+/media/boilerrat/Bobby/otrak-venv/bin/python scripts/search_embeddings.py --q "overtime premium" --limit 5
+/media/boilerrat/Bobby/otrak-venv/bin/python scripts/search_embeddings.py --q "rest period" --trade "IBEW"
+```
+
 ## Notes
 - One-shift-per-worker rule is enforced in v0.
 - Qualifications are hard filters; trade is not.
