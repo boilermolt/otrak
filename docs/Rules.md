@@ -18,6 +18,7 @@
 4. **Deferred (Phase 2)**
    - Trade agreement wage rules / pay schedule nuances
    - Trade‑specific eligibility constraints (if any)
+   - Contract extraction pipeline: `chunks -> contract_facts (reviewed) -> generated agreement rules`
 
 ## Rule Representation (Draft)
 - `Rule(id, type, condition, effect, weight, source)`

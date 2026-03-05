@@ -12,11 +12,12 @@
         "required": ["id", "type", "condition", "effect"],
         "properties": {
           "id": { "type": "string" },
-          "type": { "type": "string", "enum": ["eligibility", "operational", "preference", "fairness"] },
+          "type": { "type": "string", "enum": ["eligibility", "operational", "preference", "fairness", "agreement"] },
           "condition": { "type": "object" },
           "effect": { "type": "object" },
           "weight": { "type": "number" },
-          "source": { "type": "string" }
+          "source": { "type": "string" },
+          "citation": { "type": "object" }
         }
       }
     }
