@@ -19,10 +19,12 @@ ROOT = Path(__file__).resolve().parents[1]
 CHUNK_DIR = ROOT / "data" / "agreements" / "epsca" / "chunks"
 
 
-def load_chunks(trade_filter: str | None = None):
+def load_chunks(trade_filter: str | None = None, agreement_filter: str | None = None):
     for path in CHUNK_DIR.glob("*.jsonl"):
         fname = path.name.lower()
         if trade_filter and trade_filter.lower() not in fname:
+            continue
+        if agreement_filter and agreement_filter.lower() not in fname:
             continue
         with path.open("r", encoding="utf-8") as f:
             for line in f:
@@ -41,6 +43,7 @@ def main() -> None:
     ap.add_argument("--q", required=True, help="Search query")
     ap.add_argument("--limit", type=int, default=5, help="Max results")
     ap.add_argument("--trade", help="Optional trade filter (e.g., IBEW)")
+    ap.add_argument("--agreement", help="Optional agreement name filter (partial match)")
     ap.add_argument("--phrase", action="store_true", help="Exact phrase match")
     args = ap.parse_args()
 
@@ -48,7 +51,7 @@ def main() -> None:
     q_l = q.lower()
     results = []
 
-    for c in load_chunks(args.trade):
+    for c in load_chunks(args.trade, args.agreement):
         text = c["text"]
         text_l = text.lower()
 

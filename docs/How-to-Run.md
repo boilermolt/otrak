@@ -22,6 +22,7 @@ data/outputs/draft_assignments.csv
 ```bash
 python3 scripts/search_agreements.py --q "overtime" --limit 5
 python3 scripts/search_agreements.py --q "overtime" --trade "IBEW"
+python3 scripts/search_agreements.py --q "overtime premium" --agreement "Nuclear Project" --phrase
 ```
 
 ## Notes
