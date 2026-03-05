@@ -49,6 +49,7 @@ def main() -> None:
     ap.add_argument("--trade", help="Optional trade filter (e.g., IBEW)")
     ap.add_argument("--agreement", help="Optional agreement name filter (partial match)")
     ap.add_argument("--phrase", action="store_true", help="Exact phrase match")
+    ap.add_argument("--regex", action="store_true", help="Regex match (uses --q as pattern)")
     ap.add_argument("--list", action="store_true", help="List available agreements")
     args = ap.parse_args()
 
@@ -64,11 +65,20 @@ def main() -> None:
     q_l = q.lower()
     results = []
 
+    pattern = None
+    if args.regex:
+        pattern = re.compile(q, re.IGNORECASE)
+
     for c in load_chunks(args.trade, args.agreement):
         text = c["text"]
         text_l = text.lower()
 
-        if args.phrase:
+        if args.regex:
+            matches = pattern.findall(text)
+            score = len(matches)
+            if score == 0:
+                continue
+        elif args.phrase:
             if q_l not in text_l:
                 continue
             score = text_l.count(q_l)
